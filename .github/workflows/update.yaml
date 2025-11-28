@@ -3,7 +3,7 @@ name: Update Satellite GeoJSON
 on:
   schedule:
     - cron: "0 * * * *"   # every hour
-  workflow_dispatch:       # run manually
+  workflow_dispatch:       # manual trigger
 
 jobs:
   build:
@@ -21,13 +21,13 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Run generator
-        run: python generate_geojson.py
+      - name: Generate grouped GeoJSONs
+        run: python generate_all_geojson.py
 
-      - name: Commit GeoJSON
+      - name: Commit GeoJSON files
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "actions@github.com"
-          git add live_satellites.geojson
-          git commit -m "Update satellite GeoJSON" || echo "No changes"
+          git add output/*.geojson
+          git commit -m "Auto update grouped GeoJSON" || echo "No changes"
           git push
