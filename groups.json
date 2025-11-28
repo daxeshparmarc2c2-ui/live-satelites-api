@@ -1,0 +1,22 @@
+{
+  "last_30_days": "last-30-days",
+  "stations": "stations",
+  "active": "active",
+  "weather": "weather",
+  "resource": "resource",
+  "dmc": "dmc",
+  "intelsat": "intelsat",
+  "eutelsat": "eutelsat",
+  "starlink": "starlink",
+  "gnss": "gnss",
+  "gps_ops": "gps-ops",
+  "glo_ops": "glo-ops",
+  "galileo": "galileo",
+  "beidou": "beidou",
+  "nnss": "nnss",
+  "musson": "musson",
+  "cosmos_1408_debris": "cosmos-1408-debris",
+  "fengyun_1c_debris": "fengyun-1c-debris",
+  "iridium_33_debris": "iridium-33-debris",
+  "cosmos_2251_debris": "cosmos-2251-debris"
+}
