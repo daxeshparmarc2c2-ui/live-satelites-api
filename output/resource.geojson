@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "norad_id": 28051,
+        "name": "IRS-P6 (RESOURCESAT-1)",
+        "alt_km": 813.2893613040469,
+        "timestamp": "2025-11-28T05:15:15.041480+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.655338194543247,
+          42.612886100835276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "norad_id": 37387,
+        "name": "RESOURCESAT-2",
+        "alt_km": 818.9946739579273,
+        "timestamp": "2025-11-28T05:15:15.041480+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.767059957618535,
+          13.126325272136805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "norad_id": 41877,
+        "name": "RESOURCESAT-2A",
+        "alt_km": 813.4834434869063,
+        "timestamp": "2025-11-28T05:15:15.041480+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.7675063182323,
+          73.77733120611587
+        ]
+      }
+    }
+  ]
+}

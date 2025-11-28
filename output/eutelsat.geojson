@@ -1,0 +1,453 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "norad_id": 28187,
+        "name": "EUTELSAT 7A",
+        "alt_km": 35787.58759155048,
+        "timestamp": "2025-11-28T05:15:15.041480+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.061497565702318,
+          -4.897505590032223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "norad_id": 28924,
+        "name": "EUTELSAT 174A",
+        "alt_km": 35780.32020343672,
+        "timestamp": "2025-11-28T05:15:15.041480+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.80847686027404,
+          -3.249051880733348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "norad_id": 29270,
+        "name": "EUTELSAT HOTBIRD 13B",
+        "alt_km": 35778.95276864246,
+        "timestamp": "2025-11-28T05:15:15.041480+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          179.24344790646182,
+          1.122357191538171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "norad_id": 33459,
+        "name": "EUTELSAT HOTBIRD 13C",
+        "alt_km": 35850.06833563114,
+        "timestamp": "2025-11-28T05:15:15.041480+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.30758908350478,
+          1.176723085498097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "norad_id": 36101,
+        "name": "EUTELSAT 36B",
+        "alt_km": 35769.67025514956,
+        "timestamp": "2025-11-28T05:15:15.041480+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -163.38677579374925,
+          -0.0174645901194898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "norad_id": 37258,
+        "name": "EUTELSAT KA-SAT 9A",
+        "alt_km": 35780.15066280343,
+        "timestamp": "2025-11-28T05:15:15.041480+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.17841472516875,
+          -0.016020181165861066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "norad_id": 37816,
+        "name": "EUTELSAT 7 WEST A",
+        "alt_km": 35782.08924914761,
+        "timestamp": "2025-11-28T05:15:15.041480+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.78128915209155,
+          0.02951145731601471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "norad_id": 37836,
+        "name": "EUTELSAT 16A",
+        "alt_km": 35786.650438401644,
+        "timestamp": "2025-11-28T05:15:15.041480+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          162.0856487198723,
+          0.01953369448681419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "norad_id": 38992,
+        "name": "EUTELSAT 21B",
+        "alt_km": 35786.371160543655,
+        "timestamp": "2025-11-28T05:15:15.041480+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          167.71443679914196,
+          0.012764716434256883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "norad_id": 39020,
+        "name": "EUTELSAT 70B",
+        "alt_km": 35768.4581433542,
+        "timestamp": "2025-11-28T05:15:15.041480+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -143.34897025881423,
+          -0.06428287992594597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "norad_id": 39122,
+        "name": "EUTELSAT 117 WEST A",
+        "alt_km": 35795.931492578755,
+        "timestamp": "2025-11-28T05:15:15.041480+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.39303260072667,
+          0.017847002427160273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "norad_id": 39163,
+        "name": "EUTELSAT 7B",
+        "alt_km": 35801.628278443,
+        "timestamp": "2025-11-28T05:15:15.041480+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.1540790625023,
+          0.0485590061865818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "norad_id": 39773,
+        "name": "EUTELSAT 3B",
+        "alt_km": 35779.507985842065,
+        "timestamp": "2025-11-28T05:15:15.041480+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.2419333088544,
+          0.013374772146514335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "norad_id": 40425,
+        "name": "EUTELSAT 115 WEST B",
+        "alt_km": 35785.8489695449,
+        "timestamp": "2025-11-28T05:15:15.041480+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.26414961245058,
+          0.005116024860427868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "norad_id": 40875,
+        "name": "EUTELSAT 8 WEST B",
+        "alt_km": 35792.76086684792,
+        "timestamp": "2025-11-28T05:15:15.041480+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.12695580553435,
+          0.048735186013301075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "norad_id": 41310,
+        "name": "EUTELSAT 9B",
+        "alt_km": 35790.37997429594,
+        "timestamp": "2025-11-28T05:15:15.041480+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.1300084641738,
+          0.04062571091379925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "norad_id": 41382,
+        "name": "EUTELSAT 65 WEST A",
+        "alt_km": 35798.31316264288,
+        "timestamp": "2025-11-28T05:15:15.041480+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.92952431618254,
+          0.06009758614415399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "norad_id": 41589,
+        "name": "EUTELSAT 117 WEST B (WAAS/PRN 131)",
+        "alt_km": 35786.26906654862,
+        "timestamp": "2025-11-28T05:15:15.041480+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.180014593015326,
+          -0.008334748283194483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "norad_id": 42741,
+        "name": "EUTELSAT 172B",
+        "alt_km": 35787.27070650053,
+        "timestamp": "2025-11-28T05:15:15.041480+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.82913471208605,
+          0.018435733669400642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "norad_id": 44334,
+        "name": "EUTELSAT 7C",
+        "alt_km": 35781.23961032406,
+        "timestamp": "2025-11-28T05:15:15.041480+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.15455118854587,
+          -0.04854802614381283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "norad_id": 44624,
+        "name": "EUTELSAT 5 WEST B (EGNOS/PRN 121)",
+        "alt_km": 35789.38611423142,
+        "timestamp": "2025-11-28T05:15:15.041480+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.1421237892878,
+          0.01824168093219018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "norad_id": 45027,
+        "name": "EUTELSAT KONNECT",
+        "alt_km": 35791.07974343432,
+        "timestamp": "2025-11-28T05:15:15.041480+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.34775593891246,
+          0.051750345050987016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "norad_id": 49056,
+        "name": "EUTELSAT QUANTUM",
+        "alt_km": 35780.37348292583,
+        "timestamp": "2025-11-28T05:15:15.041480+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -166.15872589316513,
+          -0.005664843720641691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "norad_id": 53765,
+        "name": "EUTELSAT KONNECT VHTS",
+        "alt_km": 35783.06835230229,
+        "timestamp": "2025-11-28T05:15:15.041480+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.8379502194028,
+          0.03652214166975379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "norad_id": 54048,
+        "name": "EUTELSAT HOTBIRD 13F",
+        "alt_km": 35793.20056194454,
+        "timestamp": "2025-11-28T05:15:15.041480+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          159.19563432122195,
+          -0.049692345760883785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "norad_id": 54225,
+        "name": "EUTELSAT HOTBIRD 13G",
+        "alt_km": 35778.59527460061,
+        "timestamp": "2025-11-28T05:15:15.041480+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          159.16435679595304,
+          -0.052661046743096844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "norad_id": 54259,
+        "name": "EUTELSAT 10B",
+        "alt_km": 35782.284615228375,
+        "timestamp": "2025-11-28T05:15:15.041480+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          156.20335899969015,
+          0.04228830436687387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "norad_id": 59346,
+        "name": "EUTELSAT 36D",
+        "alt_km": 35786.85907143617,
+        "timestamp": "2025-11-28T05:15:15.041480+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -177.94661657850958,
+          -0.019318822799775703
+        ]
+      }
+    }
+  ]
+}

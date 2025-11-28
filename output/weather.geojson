@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "norad_id": 60543,
+        "name": "ARCTIC WEATHER SATELLITE",
+        "alt_km": 590.4788781019788,
+        "timestamp": "2025-11-28T05:15:15.041480+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.3686378480933,
+          64.44193521307389
+        ]
+      }
+    }
+  ]
+}

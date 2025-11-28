@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "norad_id": 35683,
+        "name": "UK-DMC 2",
+        "alt_km": 635.2619821346616,
+        "timestamp": "2025-11-28T05:15:15.041480+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.68116582966195,
+          76.71535922514241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "norad_id": 40715,
+        "name": "DMC3-FM1",
+        "alt_km": 611.7705634648992,
+        "timestamp": "2025-11-28T05:15:15.041480+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -159.65513600946656,
+          -3.007642831696455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "norad_id": 40716,
+        "name": "DMC3-FM2",
+        "alt_km": 622.7686598303071,
+        "timestamp": "2025-11-28T05:15:15.041480+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.816121909716868,
+          -56.05011253062614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "norad_id": 40717,
+        "name": "DMC3-FM3",
+        "alt_km": 607.9031655969002,
+        "timestamp": "2025-11-28T05:15:15.041480+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.18393969067694,
+          57.40945562003398
+        ]
+      }
+    }
+  ]
+}

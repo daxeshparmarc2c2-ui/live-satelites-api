@@ -1,0 +1,885 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "norad_id": 36287,
+        "name": "BEIDOU-2 G1",
+        "alt_km": 35772.5525297665,
+        "timestamp": "2025-11-28T05:15:15.041480+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.44343835350988,
+          -2.7484687454399577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "norad_id": 36590,
+        "name": "BEIDOU-2 G3",
+        "alt_km": 35801.24097258511,
+        "timestamp": "2025-11-28T05:15:15.041480+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -134.2722157008749,
+          1.1286308179747833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "norad_id": 36828,
+        "name": "BEIDOU-2 IGSO-1 (C06)",
+        "alt_km": 35907.87307667469,
+        "timestamp": "2025-11-28T05:15:15.041480+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.73330820979237,
+          54.21278908631479
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "norad_id": 37210,
+        "name": "BEIDOU-2 G4 (C04)",
+        "alt_km": 35757.78252460769,
+        "timestamp": "2025-11-28T05:15:15.041480+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.70436858587583,
+          -2.621458189755287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "norad_id": 37256,
+        "name": "BEIDOU-2 IGSO-2 (C07)",
+        "alt_km": 35894.48831557664,
+        "timestamp": "2025-11-28T05:15:15.041480+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.95401366830536,
+          -15.260759412829811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "norad_id": 37384,
+        "name": "BEIDOU-2 IGSO-3 (C08)",
+        "alt_km": 35653.39830728579,
+        "timestamp": "2025-11-28T05:15:15.041480+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.61154697605254,
+          -27.991226394991706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "norad_id": 37763,
+        "name": "BEIDOU-2 IGSO-4 (C09)",
+        "alt_km": 36358.79087938028,
+        "timestamp": "2025-11-28T05:15:15.041480+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -131.9275328505724,
+          50.72949499823882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "norad_id": 37948,
+        "name": "BEIDOU-2 IGSO-5 (C10)",
+        "alt_km": 35884.244484508825,
+        "timestamp": "2025-11-28T05:15:15.041480+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.69956396114858,
+          -24.957378772238773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "norad_id": 38091,
+        "name": "BEIDOU-2 G5 (C05)",
+        "alt_km": 35786.75988645878,
+        "timestamp": "2025-11-28T05:15:15.041480+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.22181060216866,
+          2.1917435176436455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "norad_id": 38250,
+        "name": "BEIDOU-2 M3 (C11)",
+        "alt_km": 21466.79788523041,
+        "timestamp": "2025-11-28T05:15:15.041480+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -154.37183478381462,
+          -54.863365833046984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "norad_id": 38251,
+        "name": "BEIDOU-2 M4 (C12)",
+        "alt_km": 21495.319026713394,
+        "timestamp": "2025-11-28T05:15:15.041480+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.16825561425209,
+          -41.57305174248591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "norad_id": 38775,
+        "name": "BEIDOU-2 M6 (C14)",
+        "alt_km": 21550.902908203894,
+        "timestamp": "2025-11-28T05:15:15.041480+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -134.91439499460282,
+          31.91659136745945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "norad_id": 38953,
+        "name": "BEIDOU-2 G6 (C02)",
+        "alt_km": 35808.606216098444,
+        "timestamp": "2025-11-28T05:15:15.041480+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -129.77387884394622,
+          1.6620126555614774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "norad_id": 40748,
+        "name": "BEIDOU-3S M2S (C58)",
+        "alt_km": 21531.744428197908,
+        "timestamp": "2025-11-28T05:15:15.041480+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.60635514884474,
+          8.980050313499392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "norad_id": 40749,
+        "name": "BEIDOU-3S M1S (C57)",
+        "alt_km": 21515.963837302756,
+        "timestamp": "2025-11-28T05:15:15.041480+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.14268048040816,
+          11.146746041218107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "norad_id": 40938,
+        "name": "BEIDOU-3S IGSO-2S (C56)",
+        "alt_km": 36015.88905272615,
+        "timestamp": "2025-11-28T05:15:15.041480+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.10070328547162,
+          -13.99136608031078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "norad_id": 41434,
+        "name": "BEIDOU-2 IGSO-6 (C13)",
+        "alt_km": 35582.108831887555,
+        "timestamp": "2025-11-28T05:15:15.041480+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -130.69773348290772,
+          -15.511881154187169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "norad_id": 41586,
+        "name": "BEIDOU-2 G7 (C03)",
+        "alt_km": 35805.490552687224,
+        "timestamp": "2025-11-28T05:15:15.041480+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.37856495889002,
+          -0.28477640759104844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "norad_id": 43001,
+        "name": "BEIDOU-3 M1 (C19)",
+        "alt_km": 21509.73389421044,
+        "timestamp": "2025-11-28T05:15:15.041480+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.258583198428905,
+          -47.63153876723774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "norad_id": 43002,
+        "name": "BEIDOU-3 M2 (C20)",
+        "alt_km": 21513.87968462153,
+        "timestamp": "2025-11-28T05:15:15.041480+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.82744595885714,
+          -17.35080183397292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "norad_id": 43107,
+        "name": "BEIDOU-3 M7 (C27)",
+        "alt_km": 21523.769044712553,
+        "timestamp": "2025-11-28T05:15:15.041480+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.68217709897307,
+          23.00095654580217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "norad_id": 43108,
+        "name": "BEIDOU-3 M8 (C28)",
+        "alt_km": 21527.856122092286,
+        "timestamp": "2025-11-28T05:15:15.041480+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.0568836890982,
+          -6.644352679836507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "norad_id": 43207,
+        "name": "BEIDOU-3 M4 (C22)",
+        "alt_km": 21540.445747893587,
+        "timestamp": "2025-11-28T05:15:15.041480+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.694546405374446,
+          -52.464137591356824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "norad_id": 43208,
+        "name": "BEIDOU-3 M3 (C21)",
+        "alt_km": 21536.847685438883,
+        "timestamp": "2025-11-28T05:15:15.041480+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.29326758649948,
+          -22.499429557998315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "norad_id": 43245,
+        "name": "BEIDOU-3 M9 (C29)",
+        "alt_km": 21527.380324968148,
+        "timestamp": "2025-11-28T05:15:15.041480+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.771521271495353,
+          46.15895769861886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "norad_id": 43246,
+        "name": "BEIDOU-3 M10 (C30)",
+        "alt_km": 21525.49882066553,
+        "timestamp": "2025-11-28T05:15:15.041480+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.151780972452286,
+          51.390090307587464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "norad_id": 43539,
+        "name": "BEIDOU-2 IGSO-7 (C16)",
+        "alt_km": 36092.43742286993,
+        "timestamp": "2025-11-28T05:15:15.041480+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.07981490057692,
+          55.05997844341242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "norad_id": 43581,
+        "name": "BEIDOU-3 M5 (C23)",
+        "alt_km": 21527.390362112925,
+        "timestamp": "2025-11-28T05:15:15.041480+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          158.92311234195162,
+          -34.79223325392416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "norad_id": 43582,
+        "name": "BEIDOU-3 M6 (C24)",
+        "alt_km": 21502.458370086733,
+        "timestamp": "2025-11-28T05:15:15.041480+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.65559836495441,
+          36.3438608508906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "norad_id": 43602,
+        "name": "BEIDOU-3 M12 (C26)",
+        "alt_km": 21505.343386567958,
+        "timestamp": "2025-11-28T05:15:15.041480+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.98046564681341,
+          54.15747876963234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "norad_id": 43603,
+        "name": "BEIDOU-3 M11 (C25)",
+        "alt_km": 21516.440019528087,
+        "timestamp": "2025-11-28T05:15:15.041480+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -172.99533197434107,
+          -1.13969762356441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "norad_id": 43622,
+        "name": "BEIDOU-3 M13 (C32)",
+        "alt_km": 21525.022203556633,
+        "timestamp": "2025-11-28T05:15:15.041480+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.48224566003826,
+          22.80503657384945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "norad_id": 43623,
+        "name": "BEIDOU-3 M14 (C33)",
+        "alt_km": 21528.423694936286,
+        "timestamp": "2025-11-28T05:15:15.041480+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.86891321905745,
+          47.42177682210054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "norad_id": 43647,
+        "name": "BEIDOU-3 M16 (C35)",
+        "alt_km": 21507.961120875185,
+        "timestamp": "2025-11-28T05:15:15.041480+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.935239451329124,
+          9.681800993727649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "norad_id": 43648,
+        "name": "BEIDOU-3 M15 (C34)",
+        "alt_km": 21533.740428059486,
+        "timestamp": "2025-11-28T05:15:15.041480+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.88364858790771,
+          -51.530463917417244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "norad_id": 43683,
+        "name": "BEIDOU-3 G1 (C59)",
+        "alt_km": 35792.19789928628,
+        "timestamp": "2025-11-28T05:15:15.041480+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.83546282068555,
+          -0.13097561864990936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "norad_id": 43706,
+        "name": "BEIDOU-3 M17 (C36)",
+        "alt_km": 21539.26913543342,
+        "timestamp": "2025-11-28T05:15:15.041480+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.587045870907996,
+          0.7417859218621425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "norad_id": 43707,
+        "name": "BEIDOU-3 M18 (C37)",
+        "alt_km": 21530.60252418689,
+        "timestamp": "2025-11-28T05:15:15.041480+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.57663847147775,
+          -54.11322237434576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "norad_id": 44204,
+        "name": "BEIDOU-3 IGSO-1 (C38)",
+        "alt_km": 35682.936389980096,
+        "timestamp": "2025-11-28T05:15:15.041480+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.77394420178794,
+          -33.9973005221108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "norad_id": 44231,
+        "name": "BEIDOU-2 G8 (C01)",
+        "alt_km": 35760.97749861899,
+        "timestamp": "2025-11-28T05:15:15.041480+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.31935506273065,
+          -0.9608447654399519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "norad_id": 44337,
+        "name": "BEIDOU-3 IGSO-2 (C39)",
+        "alt_km": 35799.56296999465,
+        "timestamp": "2025-11-28T05:15:15.041480+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.82497969294833,
+          52.59256755221466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "norad_id": 44542,
+        "name": "BEIDOU-3 M24 (C46)",
+        "alt_km": 21557.273938957413,
+        "timestamp": "2025-11-28T05:15:15.041480+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.17172962988797,
+          -34.64045925059662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "norad_id": 44543,
+        "name": "BEIDOU-3 M23 (C45)",
+        "alt_km": 21531.622820110268,
+        "timestamp": "2025-11-28T05:15:15.041480+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -18.768629101491758,
+          33.459544332549726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "norad_id": 44709,
+        "name": "BEIDOU-3 IGSO-3 (C40)",
+        "alt_km": 35952.54894268877,
+        "timestamp": "2025-11-28T05:15:15.041480+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.80000366152784,
+          -17.710235484889605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "norad_id": 44793,
+        "name": "BEIDOU-3 M22 (C44)",
+        "alt_km": 21521.220982386436,
+        "timestamp": "2025-11-28T05:15:15.041480+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.81673534325357,
+          -22.791705630900186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "norad_id": 44794,
+        "name": "BEIDOU-3 M21 (C43)",
+        "alt_km": 21540.147498910657,
+        "timestamp": "2025-11-28T05:15:15.041480+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          171.60023213079685,
+          -44.19148329044911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "norad_id": 44864,
+        "name": "BEIDOU-3 M19 (C41)",
+        "alt_km": 21563.924467511875,
+        "timestamp": "2025-11-28T05:15:15.041480+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.79813747979134,
+          53.60634419315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "norad_id": 44865,
+        "name": "BEIDOU-3 M20 (C42)",
+        "alt_km": 21553.949239515867,
+        "timestamp": "2025-11-28T05:15:15.041480+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.22106588448345,
+          12.821754119879015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "norad_id": 45344,
+        "name": "BEIDOU-3 G2 (C60)",
+        "alt_km": 35783.87438003499,
+        "timestamp": "2025-11-28T05:15:15.041480+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -133.80832389262835,
+          -0.16019630246574276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "norad_id": 45807,
+        "name": "BEIDOU-3 G3 (C61)",
+        "alt_km": 35797.12183435596,
+        "timestamp": "2025-11-28T05:15:15.041480+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.31152100574226,
+          -0.36244303913080245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "norad_id": 56564,
+        "name": "BEIDOU-3 G4 (C62)",
+        "alt_km": 35797.13324573279,
+        "timestamp": "2025-11-28T05:15:15.041480+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.73144644822503,
+          0.08261157669168478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "norad_id": 58654,
+        "name": "BEIDOU-3 M28 (C50)",
+        "alt_km": 21527.81912897139,
+        "timestamp": "2025-11-28T05:15:15.041480+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.00492599785028,
+          -5.675108958657051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "norad_id": 58655,
+        "name": "BEIDOU-3 M26 (C48)",
+        "alt_km": 21529.58933568971,
+        "timestamp": "2025-11-28T05:15:15.041480+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.61317452191655,
+          -30.17033133978611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "norad_id": 61186,
+        "name": "BEIDOU-3 M25 (C47)",
+        "alt_km": 21534.984183247325,
+        "timestamp": "2025-11-28T05:15:15.041480+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.371811956831838,
+          53.30403086275222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "norad_id": 61187,
+        "name": "BEIDOU-3 M27 (C49)",
+        "alt_km": 21533.97751968341,
+        "timestamp": "2025-11-28T05:15:15.041480+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.77433655582863,
+          -27.400038368864934
+        ]
+      }
+    }
+  ]
+}

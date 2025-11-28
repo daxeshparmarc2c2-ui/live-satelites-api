@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "norad_id": 4507,
+        "name": "NNSS 19 (TRANSIT 19)",
+        "alt_km": 1194.5595814300914,
+        "timestamp": "2025-11-28T05:15:15.041480+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.5261514033037,
+          25.0446373694895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "norad_id": 6909,
+        "name": "NNSS 20 (TRANSIT 20)",
+        "alt_km": 1085.64844853479,
+        "timestamp": "2025-11-28T05:15:15.041480+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.98899722185782,
+          -78.58066245206274
+        ]
+      }
+    }
+  ]
+}
