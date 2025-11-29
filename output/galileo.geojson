@@ -6,14 +6,39 @@
       "properties": {
         "norad_id": 37846,
         "name": "GSAT0101 (GALILEO-PFM)",
-        "alt_km": 23225.255135285064,
-        "timestamp": "2025-11-29T04:43:43.881724+00:00"
+        "object_id": null,
+        "object_type": null,
+        "classification_type": null,
+        "country": null,
+        "launch_date": null,
+        "site_code": null,
+        "decay_date": null,
+        "rcs": null,
+        "inclination_deg": null,
+        "eccentricity": null,
+        "mean_motion_rev_per_day": null,
+        "mean_motion_dot": null,
+        "mean_motion_ddot": null,
+        "raan_deg": null,
+        "argp_deg": null,
+        "mean_anomaly_deg": null,
+        "period_minutes": null,
+        "perigee_km": null,
+        "apogee_km": null,
+        "bstar": null,
+        "longitude_deg": -131.16402350388137,
+        "latitude_deg": -53.614821387345074,
+        "alt_km": 23223.407116982962,
+        "velocity_km_s": null,
+        "orbit_class": "GEO",
+        "tle_epoch": null,
+        "timestamp": "2025-11-29T05:40:06.160457+00:00"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -160.2024210459996,
-          -39.72375624202793
+          -131.16402350388137,
+          -53.614821387345074
         ]
       }
     },
@@ -22,14 +47,39 @@
       "properties": {
         "norad_id": 37847,
         "name": "GSAT0102 (GALILEO-FM2)",
-        "alt_km": 23216.291978020578,
-        "timestamp": "2025-11-29T04:43:43.881724+00:00"
+        "object_id": null,
+        "object_type": null,
+        "classification_type": null,
+        "country": null,
+        "launch_date": null,
+        "site_code": null,
+        "decay_date": null,
+        "rcs": null,
+        "inclination_deg": null,
+        "eccentricity": null,
+        "mean_motion_rev_per_day": null,
+        "mean_motion_dot": null,
+        "mean_motion_ddot": null,
+        "raan_deg": null,
+        "argp_deg": null,
+        "mean_anomaly_deg": null,
+        "period_minutes": null,
+        "perigee_km": null,
+        "apogee_km": null,
+        "bstar": null,
+        "longitude_deg": -57.16173996366904,
+        "latitude_deg": -47.15498373275657,
+        "alt_km": 23214.023922770644,
+        "velocity_km_s": null,
+        "orbit_class": "GEO",
+        "tle_epoch": null,
+        "timestamp": "2025-11-29T05:40:06.160457+00:00"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -93.56754160635245,
-          -56.697535000420395
+          -57.16173996366904,
+          -47.15498373275657
         ]
       }
     },
@@ -38,14 +88,39 @@
       "properties": {
         "norad_id": 38857,
         "name": "GSAT0103 (GALILEO-FM3)",
-        "alt_km": 23221.98257340507,
-        "timestamp": "2025-11-29T04:43:43.881724+00:00"
+        "object_id": null,
+        "object_type": null,
+        "classification_type": null,
+        "country": null,
+        "launch_date": null,
+        "site_code": null,
+        "decay_date": null,
+        "rcs": null,
+        "inclination_deg": null,
+        "eccentricity": null,
+        "mean_motion_rev_per_day": null,
+        "mean_motion_dot": null,
+        "mean_motion_ddot": null,
+        "raan_deg": null,
+        "argp_deg": null,
+        "mean_anomaly_deg": null,
+        "period_minutes": null,
+        "perigee_km": null,
+        "apogee_km": null,
+        "bstar": null,
+        "longitude_deg": -39.95529433968874,
+        "latitude_deg": -38.59947120408931,
+        "alt_km": 23221.75297543266,
+        "velocity_km_s": null,
+        "orbit_class": "GEO",
+        "tle_epoch": null,
+        "timestamp": "2025-11-29T05:40:06.160457+00:00"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -58.22545637567475,
-          -20.45568272171066
+          -39.95529433968874,
+          -38.59947120408931
         ]
       }
     },
@@ -54,14 +129,39 @@
       "properties": {
         "norad_id": 40128,
         "name": "GSAT0201 (GALILEO 5)",
-        "alt_km": 17403.543195924318,
-        "timestamp": "2025-11-29T04:43:43.881724+00:00"
+        "object_id": null,
+        "object_type": null,
+        "classification_type": null,
+        "country": null,
+        "launch_date": null,
+        "site_code": null,
+        "decay_date": null,
+        "rcs": null,
+        "inclination_deg": null,
+        "eccentricity": null,
+        "mean_motion_rev_per_day": null,
+        "mean_motion_dot": null,
+        "mean_motion_ddot": null,
+        "raan_deg": null,
+        "argp_deg": null,
+        "mean_anomaly_deg": null,
+        "period_minutes": null,
+        "perigee_km": null,
+        "apogee_km": null,
+        "bstar": null,
+        "longitude_deg": 143.6655508597495,
+        "latitude_deg": -37.726468984641684,
+        "alt_km": 18912.307248977744,
+        "velocity_km_s": null,
+        "orbit_class": "MEO",
+        "tle_epoch": null,
+        "timestamp": "2025-11-29T05:40:06.160457+00:00"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          115.19854039555244,
-          -15.192338362225572
+          143.6655508597495,
+          -37.726468984641684
         ]
       }
     },
@@ -70,14 +170,39 @@
       "properties": {
         "norad_id": 40129,
         "name": "GSAT0202 (GALILEO 6)",
-        "alt_km": 25797.303639590154,
-        "timestamp": "2025-11-29T04:43:43.881724+00:00"
+        "object_id": null,
+        "object_type": null,
+        "classification_type": null,
+        "country": null,
+        "launch_date": null,
+        "site_code": null,
+        "decay_date": null,
+        "rcs": null,
+        "inclination_deg": null,
+        "eccentricity": null,
+        "mean_motion_rev_per_day": null,
+        "mean_motion_dot": null,
+        "mean_motion_ddot": null,
+        "raan_deg": null,
+        "argp_deg": null,
+        "mean_anomaly_deg": null,
+        "period_minutes": null,
+        "perigee_km": null,
+        "apogee_km": null,
+        "bstar": null,
+        "longitude_deg": -56.11320969675271,
+        "latitude_deg": 24.478148876328845,
+        "alt_km": 24714.056981555917,
+        "velocity_km_s": null,
+        "orbit_class": "GEO",
+        "tle_epoch": null,
+        "timestamp": "2025-11-29T05:40:06.160457+00:00"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -70.64709946020606,
-          9.882948183910871
+          -56.11320969675271,
+          24.478148876328845
         ]
       }
     },
@@ -86,14 +211,39 @@
       "properties": {
         "norad_id": 40544,
         "name": "GSAT0203 (GALILEO 7)",
-        "alt_km": 23224.502391775957,
-        "timestamp": "2025-11-29T04:43:43.881724+00:00"
+        "object_id": null,
+        "object_type": null,
+        "classification_type": null,
+        "country": null,
+        "launch_date": null,
+        "site_code": null,
+        "decay_date": null,
+        "rcs": null,
+        "inclination_deg": null,
+        "eccentricity": null,
+        "mean_motion_rev_per_day": null,
+        "mean_motion_dot": null,
+        "mean_motion_ddot": null,
+        "raan_deg": null,
+        "argp_deg": null,
+        "mean_anomaly_deg": null,
+        "period_minutes": null,
+        "perigee_km": null,
+        "apogee_km": null,
+        "bstar": null,
+        "longitude_deg": 4.459683174290417,
+        "latitude_deg": 24.590076372969428,
+        "alt_km": 23229.316106078833,
+        "velocity_km_s": null,
+        "orbit_class": "GEO",
+        "tle_epoch": null,
+        "timestamp": "2025-11-29T05:40:06.160457+00:00"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -9.766142611196615,
-          4.845629270138641
+          4.459683174290417,
+          24.590076372969428
         ]
       }
     },
@@ -102,14 +252,39 @@
       "properties": {
         "norad_id": 40545,
         "name": "GSAT0204 (GALILEO 8)",
-        "alt_km": 23213.33263003896,
-        "timestamp": "2025-11-29T04:43:43.881724+00:00"
+        "object_id": null,
+        "object_type": null,
+        "classification_type": null,
+        "country": null,
+        "launch_date": null,
+        "site_code": null,
+        "decay_date": null,
+        "rcs": null,
+        "inclination_deg": null,
+        "eccentricity": null,
+        "mean_motion_rev_per_day": null,
+        "mean_motion_dot": null,
+        "mean_motion_ddot": null,
+        "raan_deg": null,
+        "argp_deg": null,
+        "mean_anomaly_deg": null,
+        "period_minutes": null,
+        "perigee_km": null,
+        "apogee_km": null,
+        "bstar": null,
+        "longitude_deg": -156.96613677850303,
+        "latitude_deg": -41.94521839738248,
+        "alt_km": 23210.33320918506,
+        "velocity_km_s": null,
+        "orbit_class": "GEO",
+        "tle_epoch": null,
+        "timestamp": "2025-11-29T05:40:06.160457+00:00"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -176.0952672737239,
-          -23.897598882847625
+          -156.96613677850303,
+          -41.94521839738248
         ]
       }
     },
@@ -118,14 +293,39 @@
       "properties": {
         "norad_id": 40889,
         "name": "GSAT0205 (GALILEO 9)",
-        "alt_km": 23211.724331304787,
-        "timestamp": "2025-11-29T04:43:43.881724+00:00"
+        "object_id": null,
+        "object_type": null,
+        "classification_type": null,
+        "country": null,
+        "launch_date": null,
+        "site_code": null,
+        "decay_date": null,
+        "rcs": null,
+        "inclination_deg": null,
+        "eccentricity": null,
+        "mean_motion_rev_per_day": null,
+        "mean_motion_dot": null,
+        "mean_motion_ddot": null,
+        "raan_deg": null,
+        "argp_deg": null,
+        "mean_anomaly_deg": null,
+        "period_minutes": null,
+        "perigee_km": null,
+        "apogee_km": null,
+        "bstar": null,
+        "longitude_deg": -124.02630820544857,
+        "latitude_deg": 12.393381820086718,
+        "alt_km": 23205.072152832392,
+        "velocity_km_s": null,
+        "orbit_class": "GEO",
+        "tle_epoch": null,
+        "timestamp": "2025-11-29T05:40:06.160457+00:00"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -137.9754357476157,
-          -7.254586238892938
+          -124.02630820544857,
+          12.393381820086718
         ]
       }
     },
@@ -134,14 +334,39 @@
       "properties": {
         "norad_id": 40890,
         "name": "GSAT0206 (GALILEO 10)",
-        "alt_km": 23236.379562026115,
-        "timestamp": "2025-11-29T04:43:43.881724+00:00"
+        "object_id": null,
+        "object_type": null,
+        "classification_type": null,
+        "country": null,
+        "launch_date": null,
+        "site_code": null,
+        "decay_date": null,
+        "rcs": null,
+        "inclination_deg": null,
+        "eccentricity": null,
+        "mean_motion_rev_per_day": null,
+        "mean_motion_dot": null,
+        "mean_motion_ddot": null,
+        "raan_deg": null,
+        "argp_deg": null,
+        "mean_anomaly_deg": null,
+        "period_minutes": null,
+        "perigee_km": null,
+        "apogee_km": null,
+        "bstar": null,
+        "longitude_deg": 91.68308285927148,
+        "latitude_deg": -45.086136033778985,
+        "alt_km": 23236.64548571666,
+        "velocity_km_s": null,
+        "orbit_class": "GEO",
+        "tle_epoch": null,
+        "timestamp": "2025-11-29T05:40:06.160457+00:00"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          69.58287454239156,
-          -28.636165918723005
+          91.68308285927148,
+          -45.086136033778985
         ]
       }
     },
@@ -150,14 +375,39 @@
       "properties": {
         "norad_id": 41174,
         "name": "GSAT0209 (GALILEO 12)",
-        "alt_km": 23218.89679406004,
-        "timestamp": "2025-11-29T04:43:43.881724+00:00"
+        "object_id": null,
+        "object_type": null,
+        "classification_type": null,
+        "country": null,
+        "launch_date": null,
+        "site_code": null,
+        "decay_date": null,
+        "rcs": null,
+        "inclination_deg": null,
+        "eccentricity": null,
+        "mean_motion_rev_per_day": null,
+        "mean_motion_dot": null,
+        "mean_motion_ddot": null,
+        "raan_deg": null,
+        "argp_deg": null,
+        "mean_anomaly_deg": null,
+        "period_minutes": null,
+        "perigee_km": null,
+        "apogee_km": null,
+        "bstar": null,
+        "longitude_deg": -101.3475249012817,
+        "latitude_deg": 34.60661498477055,
+        "alt_km": 23222.92714466317,
+        "velocity_km_s": null,
+        "orbit_class": "GEO",
+        "tle_epoch": null,
+        "timestamp": "2025-11-29T05:40:06.160457+00:00"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -126.89514102445217,
-          49.727745905315274
+          -101.3475249012817,
+          34.60661498477055
         ]
       }
     },
@@ -166,14 +416,39 @@
       "properties": {
         "norad_id": 41175,
         "name": "GSAT0208 (GALILEO 11)",
-        "alt_km": 23219.412943658732,
-        "timestamp": "2025-11-29T04:43:43.881724+00:00"
+        "object_id": null,
+        "object_type": null,
+        "classification_type": null,
+        "country": null,
+        "launch_date": null,
+        "site_code": null,
+        "decay_date": null,
+        "rcs": null,
+        "inclination_deg": null,
+        "eccentricity": null,
+        "mean_motion_rev_per_day": null,
+        "mean_motion_dot": null,
+        "mean_motion_ddot": null,
+        "raan_deg": null,
+        "argp_deg": null,
+        "mean_anomaly_deg": null,
+        "period_minutes": null,
+        "perigee_km": null,
+        "apogee_km": null,
+        "bstar": null,
+        "longitude_deg": 107.51698054686702,
+        "latitude_deg": 1.1513877464435904,
+        "alt_km": 23216.488282856797,
+        "velocity_km_s": null,
+        "orbit_class": "GEO",
+        "tle_epoch": null,
+        "timestamp": "2025-11-29T05:40:06.160457+00:00"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          93.50592050025826,
-          -18.540618549888617
+          107.51698054686702,
+          1.1513877464435904
         ]
       }
     },
@@ -182,14 +457,39 @@
       "properties": {
         "norad_id": 41549,
         "name": "GSAT0211 (GALILEO 14)",
-        "alt_km": 23230.06167690641,
-        "timestamp": "2025-11-29T04:43:43.881724+00:00"
+        "object_id": null,
+        "object_type": null,
+        "classification_type": null,
+        "country": null,
+        "launch_date": null,
+        "site_code": null,
+        "decay_date": null,
+        "rcs": null,
+        "inclination_deg": null,
+        "eccentricity": null,
+        "mean_motion_rev_per_day": null,
+        "mean_motion_dot": null,
+        "mean_motion_ddot": null,
+        "raan_deg": null,
+        "argp_deg": null,
+        "mean_anomaly_deg": null,
+        "period_minutes": null,
+        "perigee_km": null,
+        "apogee_km": null,
+        "bstar": null,
+        "longitude_deg": 162.80719735754425,
+        "latitude_deg": -52.35329895870345,
+        "alt_km": 23225.307724281607,
+        "velocity_km_s": null,
+        "orbit_class": "GEO",
+        "tle_epoch": null,
+        "timestamp": "2025-11-29T05:40:06.160457+00:00"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          122.18444898118587,
-          -54.23901344315791
+          162.80719735754425,
+          -52.35329895870345
         ]
       }
     },
@@ -198,14 +498,39 @@
       "properties": {
         "norad_id": 41550,
         "name": "GSAT0210 (GALILEO 13)",
-        "alt_km": 23219.179194306344,
-        "timestamp": "2025-11-29T04:43:43.881724+00:00"
+        "object_id": null,
+        "object_type": null,
+        "classification_type": null,
+        "country": null,
+        "launch_date": null,
+        "site_code": null,
+        "decay_date": null,
+        "rcs": null,
+        "inclination_deg": null,
+        "eccentricity": null,
+        "mean_motion_rev_per_day": null,
+        "mean_motion_dot": null,
+        "mean_motion_ddot": null,
+        "raan_deg": null,
+        "argp_deg": null,
+        "mean_anomaly_deg": null,
+        "period_minutes": null,
+        "perigee_km": null,
+        "apogee_km": null,
+        "bstar": null,
+        "longitude_deg": 10.37116950201072,
+        "latitude_deg": 40.74734340926786,
+        "alt_km": 23219.140625585987,
+        "velocity_km_s": null,
+        "orbit_class": "GEO",
+        "tle_epoch": null,
+        "timestamp": "2025-11-29T05:40:06.160457+00:00"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -20.312474471055317,
-          53.02363173975992
+          10.37116950201072,
+          40.74734340926786
         ]
       }
     },
@@ -214,14 +539,39 @@
       "properties": {
         "norad_id": 41859,
         "name": "GSAT0207 (GALILEO 15)",
-        "alt_km": 23222.67926889892,
-        "timestamp": "2025-11-29T04:43:43.881724+00:00"
+        "object_id": null,
+        "object_type": null,
+        "classification_type": null,
+        "country": null,
+        "launch_date": null,
+        "site_code": null,
+        "decay_date": null,
+        "rcs": null,
+        "inclination_deg": null,
+        "eccentricity": null,
+        "mean_motion_rev_per_day": null,
+        "mean_motion_dot": null,
+        "mean_motion_ddot": null,
+        "raan_deg": null,
+        "argp_deg": null,
+        "mean_anomaly_deg": null,
+        "period_minutes": null,
+        "perigee_km": null,
+        "apogee_km": null,
+        "bstar": null,
+        "longitude_deg": 78.2499371803813,
+        "latitude_deg": -34.51520745023533,
+        "alt_km": 23220.449994843042,
+        "velocity_km_s": null,
+        "orbit_class": "GEO",
+        "tle_epoch": null,
+        "timestamp": "2025-11-29T05:40:06.160457+00:00"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          52.629113489478584,
-          -49.504082137430956
+          78.2499371803813,
+          -34.51520745023533
         ]
       }
     },
@@ -230,14 +580,39 @@
       "properties": {
         "norad_id": 41860,
         "name": "GSAT0212 (GALILEO 16)",
-        "alt_km": 23213.33848486517,
-        "timestamp": "2025-11-29T04:43:43.881724+00:00"
+        "object_id": null,
+        "object_type": null,
+        "classification_type": null,
+        "country": null,
+        "launch_date": null,
+        "site_code": null,
+        "decay_date": null,
+        "rcs": null,
+        "inclination_deg": null,
+        "eccentricity": null,
+        "mean_motion_rev_per_day": null,
+        "mean_motion_dot": null,
+        "mean_motion_ddot": null,
+        "raan_deg": null,
+        "argp_deg": null,
+        "mean_anomaly_deg": null,
+        "period_minutes": null,
+        "perigee_km": null,
+        "apogee_km": null,
+        "bstar": null,
+        "longitude_deg": 137.35783119779117,
+        "latitude_deg": 36.51370548929151,
+        "alt_km": 23210.87103761364,
+        "velocity_km_s": null,
+        "orbit_class": "GEO",
+        "tle_epoch": null,
+        "timestamp": "2025-11-29T05:40:06.160457+00:00"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          119.70795152123398,
-          18.171987309622992
+          137.35783119779117,
+          36.51370548929151
         ]
       }
     },
@@ -246,14 +621,39 @@
       "properties": {
         "norad_id": 41861,
         "name": "GSAT0213 (GALILEO 17)",
-        "alt_km": 23223.282109099324,
-        "timestamp": "2025-11-29T04:43:43.881724+00:00"
+        "object_id": null,
+        "object_type": null,
+        "classification_type": null,
+        "country": null,
+        "launch_date": null,
+        "site_code": null,
+        "decay_date": null,
+        "rcs": null,
+        "inclination_deg": null,
+        "eccentricity": null,
+        "mean_motion_rev_per_day": null,
+        "mean_motion_dot": null,
+        "mean_motion_ddot": null,
+        "raan_deg": null,
+        "argp_deg": null,
+        "mean_anomaly_deg": null,
+        "period_minutes": null,
+        "perigee_km": null,
+        "apogee_km": null,
+        "bstar": null,
+        "longitude_deg": -72.99212979468481,
+        "latitude_deg": -0.5763706655351178,
+        "alt_km": 23223.77474743351,
+        "velocity_km_s": null,
+        "orbit_class": "GEO",
+        "tle_epoch": null,
+        "timestamp": "2025-11-29T05:40:06.160457+00:00"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -87.15670855210581,
-          19.01204699265344
+          -72.99212979468481,
+          -0.5763706655351178
         ]
       }
     },
@@ -262,14 +662,39 @@
       "properties": {
         "norad_id": 41862,
         "name": "GSAT0214 (GALILEO 18)",
-        "alt_km": 23218.2630370412,
-        "timestamp": "2025-11-29T04:43:43.881724+00:00"
+        "object_id": null,
+        "object_type": null,
+        "classification_type": null,
+        "country": null,
+        "launch_date": null,
+        "site_code": null,
+        "decay_date": null,
+        "rcs": null,
+        "inclination_deg": null,
+        "eccentricity": null,
+        "mean_motion_rev_per_day": null,
+        "mean_motion_dot": null,
+        "mean_motion_ddot": null,
+        "raan_deg": null,
+        "argp_deg": null,
+        "mean_anomaly_deg": null,
+        "period_minutes": null,
+        "perigee_km": null,
+        "apogee_km": null,
+        "bstar": null,
+        "longitude_deg": -161.43469382179558,
+        "latitude_deg": 55.350620385298356,
+        "alt_km": 23218.36147921756,
+        "velocity_km_s": null,
+        "orbit_class": "GEO",
+        "tle_epoch": null,
+        "timestamp": "2025-11-29T05:40:06.160457+00:00"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          159.96107297001726,
-          49.276542885322186
+          -161.43469382179558,
+          55.350620385298356
         ]
       }
     },
@@ -278,14 +703,39 @@
       "properties": {
         "norad_id": 43055,
         "name": "GSAT0215 (GALILEO 19)",
-        "alt_km": 23221.319724042445,
-        "timestamp": "2025-11-29T04:43:43.881724+00:00"
+        "object_id": null,
+        "object_type": null,
+        "classification_type": null,
+        "country": null,
+        "launch_date": null,
+        "site_code": null,
+        "decay_date": null,
+        "rcs": null,
+        "inclination_deg": null,
+        "eccentricity": null,
+        "mean_motion_rev_per_day": null,
+        "mean_motion_dot": null,
+        "mean_motion_ddot": null,
+        "raan_deg": null,
+        "argp_deg": null,
+        "mean_anomaly_deg": null,
+        "period_minutes": null,
+        "perigee_km": null,
+        "apogee_km": null,
+        "bstar": null,
+        "longitude_deg": 28.997281766749506,
+        "latitude_deg": 23.949534052760143,
+        "alt_km": 23223.474125774377,
+        "velocity_km_s": null,
+        "orbit_class": "GEO",
+        "tle_epoch": null,
+        "timestamp": "2025-11-29T05:40:06.160457+00:00"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          9.165708919488196,
-          41.38880910413443
+          28.997281766749506,
+          23.949534052760143
         ]
       }
     },
@@ -294,14 +744,39 @@
       "properties": {
         "norad_id": 43056,
         "name": "GSAT0216 (GALILEO 20)",
-        "alt_km": 23219.013677980143,
-        "timestamp": "2025-11-29T04:43:43.881724+00:00"
+        "object_id": null,
+        "object_type": null,
+        "classification_type": null,
+        "country": null,
+        "launch_date": null,
+        "site_code": null,
+        "decay_date": null,
+        "rcs": null,
+        "inclination_deg": null,
+        "eccentricity": null,
+        "mean_motion_rev_per_day": null,
+        "mean_motion_dot": null,
+        "mean_motion_ddot": null,
+        "raan_deg": null,
+        "argp_deg": null,
+        "mean_anomaly_deg": null,
+        "period_minutes": null,
+        "perigee_km": null,
+        "apogee_km": null,
+        "bstar": null,
+        "longitude_deg": -150.19825286264907,
+        "latitude_deg": -23.023405815374982,
+        "alt_km": 23217.67001003739,
+        "velocity_km_s": null,
+        "orbit_class": "GEO",
+        "tle_epoch": null,
+        "timestamp": "2025-11-29T05:40:06.160457+00:00"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -169.65275752545247,
-          -40.619880292970166
+          -150.19825286264907,
+          -23.023405815374982
         ]
       }
     },
@@ -310,14 +785,39 @@
       "properties": {
         "norad_id": 43057,
         "name": "GSAT0217 (GALILEO 21)",
-        "alt_km": 23229.678519243997,
-        "timestamp": "2025-11-29T04:43:43.881724+00:00"
+        "object_id": null,
+        "object_type": null,
+        "classification_type": null,
+        "country": null,
+        "launch_date": null,
+        "site_code": null,
+        "decay_date": null,
+        "rcs": null,
+        "inclination_deg": null,
+        "eccentricity": null,
+        "mean_motion_rev_per_day": null,
+        "mean_motion_dot": null,
+        "mean_motion_ddot": null,
+        "raan_deg": null,
+        "argp_deg": null,
+        "mean_anomaly_deg": null,
+        "period_minutes": null,
+        "perigee_km": null,
+        "apogee_km": null,
+        "bstar": null,
+        "longitude_deg": 56.37820902772546,
+        "latitude_deg": -13.16146343825959,
+        "alt_km": 23231.242665054397,
+        "velocity_km_s": null,
+        "orbit_class": "GEO",
+        "tle_epoch": null,
+        "timestamp": "2025-11-29T05:40:06.160457+00:00"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          42.47349046710137,
-          6.480054465092573
+          56.37820902772546,
+          -13.16146343825959
         ]
       }
     },
@@ -326,14 +826,39 @@
       "properties": {
         "norad_id": 43058,
         "name": "GSAT0218 (GALILEO 22)",
-        "alt_km": 23219.121834856916,
-        "timestamp": "2025-11-29T04:43:43.881724+00:00"
+        "object_id": null,
+        "object_type": null,
+        "classification_type": null,
+        "country": null,
+        "launch_date": null,
+        "site_code": null,
+        "decay_date": null,
+        "rcs": null,
+        "inclination_deg": null,
+        "eccentricity": null,
+        "mean_motion_rev_per_day": null,
+        "mean_motion_dot": null,
+        "mean_motion_ddot": null,
+        "raan_deg": null,
+        "argp_deg": null,
+        "mean_anomaly_deg": null,
+        "period_minutes": null,
+        "perigee_km": null,
+        "apogee_km": null,
+        "bstar": null,
+        "longitude_deg": -87.0572823283841,
+        "latitude_deg": 45.904906329730956,
+        "alt_km": 23220.76992650891,
+        "velocity_km_s": null,
+        "orbit_class": "GEO",
+        "tle_epoch": null,
+        "timestamp": "2025-11-29T05:40:06.160457+00:00"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -109.67623606108968,
-          29.618846413963773
+          -87.0572823283841,
+          45.904906329730956
         ]
       }
     },
@@ -342,14 +867,39 @@
       "properties": {
         "norad_id": 43564,
         "name": "GSAT0221 (GALILEO 25)",
-        "alt_km": 23234.96910404621,
-        "timestamp": "2025-11-29T04:43:43.881724+00:00"
+        "object_id": null,
+        "object_type": null,
+        "classification_type": null,
+        "country": null,
+        "launch_date": null,
+        "site_code": null,
+        "decay_date": null,
+        "rcs": null,
+        "inclination_deg": null,
+        "eccentricity": null,
+        "mean_motion_rev_per_day": null,
+        "mean_motion_dot": null,
+        "mean_motion_ddot": null,
+        "raan_deg": null,
+        "argp_deg": null,
+        "mean_anomaly_deg": null,
+        "period_minutes": null,
+        "perigee_km": null,
+        "apogee_km": null,
+        "bstar": null,
+        "longitude_deg": 124.86513278612264,
+        "latitude_deg": 46.27082463992263,
+        "alt_km": 23234.548108400697,
+        "velocity_km_s": null,
+        "orbit_class": "GEO",
+        "tle_epoch": null,
+        "timestamp": "2025-11-29T05:40:06.160457+00:00"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          89.4869014344167,
-          56.60570944475568
+          124.86513278612264,
+          46.27082463992263
         ]
       }
     },
@@ -358,14 +908,39 @@
       "properties": {
         "norad_id": 43565,
         "name": "GSAT0222 (GALILEO 26)",
-        "alt_km": 23217.888635115647,
-        "timestamp": "2025-11-29T04:43:43.881724+00:00"
+        "object_id": null,
+        "object_type": null,
+        "classification_type": null,
+        "country": null,
+        "launch_date": null,
+        "site_code": null,
+        "decay_date": null,
+        "rcs": null,
+        "inclination_deg": null,
+        "eccentricity": null,
+        "mean_motion_rev_per_day": null,
+        "mean_motion_dot": null,
+        "mean_motion_ddot": null,
+        "raan_deg": null,
+        "argp_deg": null,
+        "mean_anomaly_deg": null,
+        "period_minutes": null,
+        "perigee_km": null,
+        "apogee_km": null,
+        "bstar": null,
+        "longitude_deg": -20.379335873348918,
+        "latitude_deg": -11.565604729318707,
+        "alt_km": 23223.053836157673,
+        "velocity_km_s": null,
+        "orbit_class": "GEO",
+        "tle_epoch": null,
+        "timestamp": "2025-11-29T05:40:06.160457+00:00"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -35.60490281728739,
-          -31.03586575994636
+          -20.379335873348918,
+          -11.565604729318707
         ]
       }
     },
@@ -374,14 +949,39 @@
       "properties": {
         "norad_id": 43566,
         "name": "GSAT0219 (GALILEO 23)",
-        "alt_km": 23225.46544002788,
-        "timestamp": "2025-11-29T04:43:43.881724+00:00"
+        "object_id": null,
+        "object_type": null,
+        "classification_type": null,
+        "country": null,
+        "launch_date": null,
+        "site_code": null,
+        "decay_date": null,
+        "rcs": null,
+        "inclination_deg": null,
+        "eccentricity": null,
+        "mean_motion_rev_per_day": null,
+        "mean_motion_dot": null,
+        "mean_motion_ddot": null,
+        "raan_deg": null,
+        "argp_deg": null,
+        "mean_anomaly_deg": null,
+        "period_minutes": null,
+        "perigee_km": null,
+        "apogee_km": null,
+        "bstar": null,
+        "longitude_deg": -175.18811147686077,
+        "latitude_deg": -25.169461293541175,
+        "alt_km": 23220.784118215135,
+        "velocity_km_s": null,
+        "orbit_class": "GEO",
+        "tle_epoch": null,
+        "timestamp": "2025-11-29T05:40:06.160457+00:00"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          170.65299778650441,
-          -5.348152707292999
+          -175.18811147686077,
+          -25.169461293541175
         ]
       }
     },
@@ -390,14 +990,39 @@
       "properties": {
         "norad_id": 43567,
         "name": "GSAT0220 (GALILEO 24)",
-        "alt_km": 23228.764927496963,
-        "timestamp": "2025-11-29T04:43:43.881724+00:00"
+        "object_id": null,
+        "object_type": null,
+        "classification_type": null,
+        "country": null,
+        "launch_date": null,
+        "site_code": null,
+        "decay_date": null,
+        "rcs": null,
+        "inclination_deg": null,
+        "eccentricity": null,
+        "mean_motion_rev_per_day": null,
+        "mean_motion_dot": null,
+        "mean_motion_ddot": null,
+        "raan_deg": null,
+        "argp_deg": null,
+        "mean_anomaly_deg": null,
+        "period_minutes": null,
+        "perigee_km": null,
+        "apogee_km": null,
+        "bstar": null,
+        "longitude_deg": 50.66054024137926,
+        "latitude_deg": 54.25069407392897,
+        "alt_km": 23231.893275688468,
+        "velocity_km_s": null,
+        "orbit_class": "GEO",
+        "tle_epoch": null,
+        "timestamp": "2025-11-29T05:40:06.160457+00:00"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          20.832677950508874,
-          40.69699631455431
+          50.66054024137926,
+          54.25069407392897
         ]
       }
     },
@@ -406,14 +1031,39 @@
       "properties": {
         "norad_id": 49809,
         "name": "GSAT0223 (GALILEO 27)",
-        "alt_km": 23221.75068706873,
-        "timestamp": "2025-11-29T04:43:43.881724+00:00"
+        "object_id": null,
+        "object_type": null,
+        "classification_type": null,
+        "country": null,
+        "launch_date": null,
+        "site_code": null,
+        "decay_date": null,
+        "rcs": null,
+        "inclination_deg": null,
+        "eccentricity": null,
+        "mean_motion_rev_per_day": null,
+        "mean_motion_dot": null,
+        "mean_motion_ddot": null,
+        "raan_deg": null,
+        "argp_deg": null,
+        "mean_anomaly_deg": null,
+        "period_minutes": null,
+        "perigee_km": null,
+        "apogee_km": null,
+        "bstar": null,
+        "longitude_deg": 159.14794678571894,
+        "latitude_deg": 12.099439844635524,
+        "alt_km": 23218.496187273824,
+        "velocity_km_s": null,
+        "orbit_class": "GEO",
+        "tle_epoch": null,
+        "timestamp": "2025-11-29T05:40:06.160457+00:00"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          143.80456888895358,
-          31.52891988893334
+          159.14794678571894,
+          12.099439844635524
         ]
       }
     },
@@ -422,14 +1072,39 @@
       "properties": {
         "norad_id": 49810,
         "name": "GSAT0224 (GALILEO 28)",
-        "alt_km": 23216.37529595171,
-        "timestamp": "2025-11-29T04:43:43.881724+00:00"
+        "object_id": null,
+        "object_type": null,
+        "classification_type": null,
+        "country": null,
+        "launch_date": null,
+        "site_code": null,
+        "decay_date": null,
+        "rcs": null,
+        "inclination_deg": null,
+        "eccentricity": null,
+        "mean_motion_rev_per_day": null,
+        "mean_motion_dot": null,
+        "mean_motion_ddot": null,
+        "raan_deg": null,
+        "argp_deg": null,
+        "mean_anomaly_deg": null,
+        "period_minutes": null,
+        "perigee_km": null,
+        "apogee_km": null,
+        "bstar": null,
+        "longitude_deg": -88.00505575141543,
+        "latitude_deg": -56.306747100501845,
+        "alt_km": 23218.06779542884,
+        "velocity_km_s": null,
+        "orbit_class": "GEO",
+        "tle_epoch": null,
+        "timestamp": "2025-11-29T05:40:06.160457+00:00"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -130.54020716404816,
-          -53.9749100319349
+          -88.00505575141543,
+          -56.306747100501845
         ]
       }
     },
@@ -438,14 +1113,39 @@
       "properties": {
         "norad_id": 59598,
         "name": "GSAT0225 (GALILEO 29)",
-        "alt_km": 23226.00804658562,
-        "timestamp": "2025-11-29T04:43:43.881724+00:00"
+        "object_id": null,
+        "object_type": null,
+        "classification_type": null,
+        "country": null,
+        "launch_date": null,
+        "site_code": null,
+        "decay_date": null,
+        "rcs": null,
+        "inclination_deg": null,
+        "eccentricity": null,
+        "mean_motion_rev_per_day": null,
+        "mean_motion_dot": null,
+        "mean_motion_ddot": null,
+        "raan_deg": null,
+        "argp_deg": null,
+        "mean_anomaly_deg": null,
+        "period_minutes": null,
+        "perigee_km": null,
+        "apogee_km": null,
+        "bstar": null,
+        "longitude_deg": 17.848881989351018,
+        "latitude_deg": -54.980726576861976,
+        "alt_km": 23229.233025358975,
+        "velocity_km_s": null,
+        "orbit_class": "GEO",
+        "tle_epoch": null,
+        "timestamp": "2025-11-29T05:40:06.160457+00:00"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -20.276114498881046,
-          -48.7680249873717
+          17.848881989351018,
+          -54.980726576861976
         ]
       }
     },
@@ -454,14 +1154,39 @@
       "properties": {
         "norad_id": 59600,
         "name": "GSAT0227 (GALILEO 30)",
-        "alt_km": 23207.88450563557,
-        "timestamp": "2025-11-29T04:43:43.881724+00:00"
+        "object_id": null,
+        "object_type": null,
+        "classification_type": null,
+        "country": null,
+        "launch_date": null,
+        "site_code": null,
+        "decay_date": null,
+        "rcs": null,
+        "inclination_deg": null,
+        "eccentricity": null,
+        "mean_motion_rev_per_day": null,
+        "mean_motion_dot": null,
+        "mean_motion_ddot": null,
+        "raan_deg": null,
+        "argp_deg": null,
+        "mean_anomaly_deg": null,
+        "period_minutes": null,
+        "perigee_km": null,
+        "apogee_km": null,
+        "bstar": null,
+        "longitude_deg": -86.29163042469308,
+        "latitude_deg": 17.730913840305067,
+        "alt_km": 23212.586304632816,
+        "velocity_km_s": null,
+        "orbit_class": "GEO",
+        "tle_epoch": null,
+        "timestamp": "2025-11-29T05:40:06.160457+00:00"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -103.95545446451388,
-          36.00712001424821
+          -86.29163042469308,
+          17.730913840305067
         ]
       }
     },
@@ -470,14 +1195,39 @@
       "properties": {
         "norad_id": 61182,
         "name": "GSAT0232 (GALILEO 32)",
-        "alt_km": 23227.896048651393,
-        "timestamp": "2025-11-29T04:43:43.881724+00:00"
+        "object_id": null,
+        "object_type": null,
+        "classification_type": null,
+        "country": null,
+        "launch_date": null,
+        "site_code": null,
+        "decay_date": null,
+        "rcs": null,
+        "inclination_deg": null,
+        "eccentricity": null,
+        "mean_motion_rev_per_day": null,
+        "mean_motion_dot": null,
+        "mean_motion_ddot": null,
+        "raan_deg": null,
+        "argp_deg": null,
+        "mean_anomaly_deg": null,
+        "period_minutes": null,
+        "perigee_km": null,
+        "apogee_km": null,
+        "bstar": null,
+        "longitude_deg": -137.41482069247925,
+        "latitude_deg": -6.054671859778642,
+        "alt_km": 23228.015105232986,
+        "velocity_km_s": null,
+        "orbit_class": "GEO",
+        "tle_epoch": null,
+        "timestamp": "2025-11-29T05:40:06.160457+00:00"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -152.36693513367388,
-          -25.34389488617232
+          -137.41482069247925,
+          -6.054671859778642
         ]
       }
     },
@@ -486,14 +1236,39 @@
       "properties": {
         "norad_id": 61183,
         "name": "GSAT0226 (GALILEO 31)",
-        "alt_km": 23215.42686277167,
-        "timestamp": "2025-11-29T04:43:43.881724+00:00"
+        "object_id": null,
+        "object_type": null,
+        "classification_type": null,
+        "country": null,
+        "launch_date": null,
+        "site_code": null,
+        "decay_date": null,
+        "rcs": null,
+        "inclination_deg": null,
+        "eccentricity": null,
+        "mean_motion_rev_per_day": null,
+        "mean_motion_dot": null,
+        "mean_motion_ddot": null,
+        "raan_deg": null,
+        "argp_deg": null,
+        "mean_anomaly_deg": null,
+        "period_minutes": null,
+        "perigee_km": null,
+        "apogee_km": null,
+        "bstar": null,
+        "longitude_deg": -17.565796774121488,
+        "latitude_deg": 52.44014428050983,
+        "alt_km": 23214.93996236781,
+        "velocity_km_s": null,
+        "orbit_class": "GEO",
+        "tle_epoch": null,
+        "timestamp": "2025-11-29T05:40:06.160457+00:00"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -58.30682946431694,
-          54.31423350266308
+          -17.565796774121488,
+          52.44014428050983
         ]
       }
     }

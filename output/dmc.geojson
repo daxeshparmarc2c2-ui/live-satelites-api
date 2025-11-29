@@ -6,14 +6,39 @@
       "properties": {
         "norad_id": 35683,
         "name": "UK-DMC 2",
-        "alt_km": 651.3840833161285,
-        "timestamp": "2025-11-29T04:43:43.881724+00:00"
+        "object_id": null,
+        "object_type": null,
+        "classification_type": null,
+        "country": null,
+        "launch_date": null,
+        "site_code": null,
+        "decay_date": null,
+        "rcs": null,
+        "inclination_deg": null,
+        "eccentricity": null,
+        "mean_motion_rev_per_day": null,
+        "mean_motion_dot": null,
+        "mean_motion_ddot": null,
+        "raan_deg": null,
+        "argp_deg": null,
+        "mean_anomaly_deg": null,
+        "period_minutes": null,
+        "perigee_km": null,
+        "apogee_km": null,
+        "bstar": null,
+        "longitude_deg": -36.853001443891955,
+        "latitude_deg": 76.34261122722177,
+        "alt_km": 635.2633571504921,
+        "velocity_km_s": null,
+        "orbit_class": "LEO",
+        "tle_epoch": null,
+        "timestamp": "2025-11-29T05:40:06.160457+00:00"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -96.16657143871362,
-          -71.68333964075644
+          -36.853001443891955,
+          76.34261122722177
         ]
       }
     },
@@ -22,14 +47,39 @@
       "properties": {
         "norad_id": 40715,
         "name": "DMC3-FM1",
-        "alt_km": 619.894919782264,
-        "timestamp": "2025-11-29T04:43:43.881724+00:00"
+        "object_id": null,
+        "object_type": null,
+        "classification_type": null,
+        "country": null,
+        "launch_date": null,
+        "site_code": null,
+        "decay_date": null,
+        "rcs": null,
+        "inclination_deg": null,
+        "eccentricity": null,
+        "mean_motion_rev_per_day": null,
+        "mean_motion_dot": null,
+        "mean_motion_ddot": null,
+        "raan_deg": null,
+        "argp_deg": null,
+        "mean_anomaly_deg": null,
+        "period_minutes": null,
+        "perigee_km": null,
+        "apogee_km": null,
+        "bstar": null,
+        "longitude_deg": -164.11836220625315,
+        "latitude_deg": 33.08669509104759,
+        "alt_km": 606.7446179508088,
+        "velocity_km_s": null,
+        "orbit_class": "LEO",
+        "tle_epoch": null,
+        "timestamp": "2025-11-29T05:40:06.160457+00:00"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          20.29146434523864,
-          -4.372124665308137
+          -164.11836220625315,
+          33.08669509104759
         ]
       }
     },
@@ -38,14 +88,39 @@
       "properties": {
         "norad_id": 40716,
         "name": "DMC3-FM2",
-        "alt_km": 603.4633933541318,
-        "timestamp": "2025-11-29T04:43:43.881724+00:00"
+        "object_id": null,
+        "object_type": null,
+        "classification_type": null,
+        "country": null,
+        "launch_date": null,
+        "site_code": null,
+        "decay_date": null,
+        "rcs": null,
+        "inclination_deg": null,
+        "eccentricity": null,
+        "mean_motion_rev_per_day": null,
+        "mean_motion_dot": null,
+        "mean_motion_ddot": null,
+        "raan_deg": null,
+        "argp_deg": null,
+        "mean_anomaly_deg": null,
+        "period_minutes": null,
+        "perigee_km": null,
+        "apogee_km": null,
+        "bstar": null,
+        "longitude_deg": -89.82627673551819,
+        "latitude_deg": -81.71338109689724,
+        "alt_km": 620.349140831514,
+        "velocity_km_s": null,
+        "orbit_class": "LEO",
+        "tle_epoch": null,
+        "timestamp": "2025-11-29T05:40:06.160457+00:00"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -173.00972078982988,
-          62.96612905247171
+          -89.82627673551819,
+          -81.71338109689724
         ]
       }
     },
@@ -54,14 +129,39 @@
       "properties": {
         "norad_id": 40717,
         "name": "DMC3-FM3",
-        "alt_km": 617.592756675338,
-        "timestamp": "2025-11-29T04:43:43.881724+00:00"
+        "object_id": null,
+        "object_type": null,
+        "classification_type": null,
+        "country": null,
+        "launch_date": null,
+        "site_code": null,
+        "decay_date": null,
+        "rcs": null,
+        "inclination_deg": null,
+        "eccentricity": null,
+        "mean_motion_rev_per_day": null,
+        "mean_motion_dot": null,
+        "mean_motion_ddot": null,
+        "raan_deg": null,
+        "argp_deg": null,
+        "mean_anomaly_deg": null,
+        "period_minutes": null,
+        "perigee_km": null,
+        "apogee_km": null,
+        "bstar": null,
+        "longitude_deg": 27.04516913462107,
+        "latitude_deg": 21.62607036526975,
+        "alt_km": 615.432652841605,
+        "velocity_km_s": null,
+        "orbit_class": "LEO",
+        "tle_epoch": null,
+        "timestamp": "2025-11-29T05:40:06.160457+00:00"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -146.57283497986407,
-          -50.68766890299153
+          27.04516913462107,
+          21.62607036526975
         ]
       }
     }

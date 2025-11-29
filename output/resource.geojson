@@ -6,14 +6,39 @@
       "properties": {
         "norad_id": 28051,
         "name": "IRS-P6 (RESOURCESAT-1)",
-        "alt_km": 809.9235165005357,
-        "timestamp": "2025-11-29T04:43:43.881724+00:00"
+        "object_id": null,
+        "object_type": null,
+        "classification_type": null,
+        "country": null,
+        "launch_date": null,
+        "site_code": null,
+        "decay_date": null,
+        "rcs": null,
+        "inclination_deg": null,
+        "eccentricity": null,
+        "mean_motion_rev_per_day": null,
+        "mean_motion_dot": null,
+        "mean_motion_ddot": null,
+        "raan_deg": null,
+        "argp_deg": null,
+        "mean_anomaly_deg": null,
+        "period_minutes": null,
+        "perigee_km": null,
+        "apogee_km": null,
+        "bstar": null,
+        "longitude_deg": 156.05467109918354,
+        "latitude_deg": -76.84725934913511,
+        "alt_km": 743.1276701663255,
+        "velocity_km_s": null,
+        "orbit_class": "LEO",
+        "tle_epoch": null,
+        "timestamp": "2025-11-29T05:40:06.160457+00:00"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.937273968233433,
-          55.82675783468444
+          156.05467109918354,
+          -76.84725934913511
         ]
       }
     },
@@ -22,14 +47,39 @@
       "properties": {
         "norad_id": 37387,
         "name": "RESOURCESAT-2",
-        "alt_km": 826.311364336203,
-        "timestamp": "2025-11-29T04:43:43.881724+00:00"
+        "object_id": null,
+        "object_type": null,
+        "classification_type": null,
+        "country": null,
+        "launch_date": null,
+        "site_code": null,
+        "decay_date": null,
+        "rcs": null,
+        "inclination_deg": null,
+        "eccentricity": null,
+        "mean_motion_rev_per_day": null,
+        "mean_motion_dot": null,
+        "mean_motion_ddot": null,
+        "raan_deg": null,
+        "argp_deg": null,
+        "mean_anomaly_deg": null,
+        "period_minutes": null,
+        "perigee_km": null,
+        "apogee_km": null,
+        "bstar": null,
+        "longitude_deg": -142.66238622579198,
+        "latitude_deg": 3.16340258628715,
+        "alt_km": 823.2804962312539,
+        "velocity_km_s": null,
+        "orbit_class": "LEO",
+        "tle_epoch": null,
+        "timestamp": "2025-11-29T05:40:06.160457+00:00"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          40.66953641805644,
-          -23.518550761635307
+          -142.66238622579198,
+          3.16340258628715
         ]
       }
     },
@@ -38,14 +88,39 @@
       "properties": {
         "norad_id": 41877,
         "name": "RESOURCESAT-2A",
-        "alt_km": 813.7578681692339,
-        "timestamp": "2025-11-29T04:43:43.881724+00:00"
+        "object_id": null,
+        "object_type": null,
+        "classification_type": null,
+        "country": null,
+        "launch_date": null,
+        "site_code": null,
+        "decay_date": null,
+        "rcs": null,
+        "inclination_deg": null,
+        "eccentricity": null,
+        "mean_motion_rev_per_day": null,
+        "mean_motion_dot": null,
+        "mean_motion_ddot": null,
+        "raan_deg": null,
+        "argp_deg": null,
+        "mean_anomaly_deg": null,
+        "period_minutes": null,
+        "perigee_km": null,
+        "apogee_km": null,
+        "bstar": null,
+        "longitude_deg": 152.9847079591635,
+        "latitude_deg": -80.67398868688494,
+        "alt_km": 826.7206246414735,
+        "velocity_km_s": null,
+        "orbit_class": "LEO",
+        "tle_epoch": null,
+        "timestamp": "2025-11-29T05:40:06.160457+00:00"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          23.70155838292681,
-          65.0870405219556
+          152.9847079591635,
+          -80.67398868688494
         ]
       }
     }

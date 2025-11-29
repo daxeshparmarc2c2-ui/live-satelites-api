@@ -6,14 +6,39 @@
       "properties": {
         "norad_id": 28187,
         "name": "EUTELSAT 7A",
-        "alt_km": 35786.55010254385,
-        "timestamp": "2025-11-29T04:43:43.881724+00:00"
+        "object_id": null,
+        "object_type": null,
+        "classification_type": null,
+        "country": null,
+        "launch_date": null,
+        "site_code": null,
+        "decay_date": null,
+        "rcs": null,
+        "inclination_deg": null,
+        "eccentricity": null,
+        "mean_motion_rev_per_day": null,
+        "mean_motion_dot": null,
+        "mean_motion_ddot": null,
+        "raan_deg": null,
+        "argp_deg": null,
+        "mean_anomaly_deg": null,
+        "period_minutes": null,
+        "perigee_km": null,
+        "apogee_km": null,
+        "bstar": null,
+        "longitude_deg": 14.29966965903091,
+        "latitude_deg": -4.600707693795916,
+        "alt_km": 35787.60121562168,
+        "velocity_km_s": null,
+        "orbit_class": "GEO",
+        "tle_epoch": null,
+        "timestamp": "2025-11-29T05:40:06.160457+00:00"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.12701010507484126,
-          -5.1105480753361245
+          14.29966965903091,
+          -4.600707693795916
         ]
       }
     },
@@ -22,14 +47,39 @@
       "properties": {
         "norad_id": 28924,
         "name": "EUTELSAT 174A",
-        "alt_km": 35776.44744325081,
-        "timestamp": "2025-11-29T04:43:43.881724+00:00"
+        "object_id": null,
+        "object_type": null,
+        "classification_type": null,
+        "country": null,
+        "launch_date": null,
+        "site_code": null,
+        "decay_date": null,
+        "rcs": null,
+        "inclination_deg": null,
+        "eccentricity": null,
+        "mean_motion_rev_per_day": null,
+        "mean_motion_dot": null,
+        "mean_motion_ddot": null,
+        "raan_deg": null,
+        "argp_deg": null,
+        "mean_anomaly_deg": null,
+        "period_minutes": null,
+        "perigee_km": null,
+        "apogee_km": null,
+        "bstar": null,
+        "longitude_deg": -32.58636252376589,
+        "latitude_deg": -3.446904380580518,
+        "alt_km": 35782.836213330556,
+        "velocity_km_s": null,
+        "orbit_class": "GEO",
+        "tle_epoch": null,
+        "timestamp": "2025-11-29T05:40:06.160457+00:00"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -46.738169204689626,
-          -3.0136196039207532
+          -32.58636252376589,
+          -3.446904380580518
         ]
       }
     },
@@ -38,14 +88,39 @@
       "properties": {
         "norad_id": 29270,
         "name": "EUTELSAT HOTBIRD 13B",
-        "alt_km": 35780.94064793698,
-        "timestamp": "2025-11-29T04:43:43.881724+00:00"
+        "object_id": null,
+        "object_type": null,
+        "classification_type": null,
+        "country": null,
+        "launch_date": null,
+        "site_code": null,
+        "decay_date": null,
+        "rcs": null,
+        "inclination_deg": null,
+        "eccentricity": null,
+        "mean_motion_rev_per_day": null,
+        "mean_motion_dot": null,
+        "mean_motion_ddot": null,
+        "raan_deg": null,
+        "argp_deg": null,
+        "mean_anomaly_deg": null,
+        "period_minutes": null,
+        "perigee_km": null,
+        "apogee_km": null,
+        "bstar": null,
+        "longitude_deg": -173.54719237448322,
+        "latitude_deg": 1.1016468483271014,
+        "alt_km": 35777.73637782396,
+        "velocity_km_s": null,
+        "orbit_class": "GEO",
+        "tle_epoch": null,
+        "timestamp": "2025-11-29T05:40:06.160457+00:00"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          172.314097782753,
-          1.128560555989319
+          -173.54719237448322,
+          1.1016468483271014
         ]
       }
     },
@@ -54,14 +129,39 @@
       "properties": {
         "norad_id": 33459,
         "name": "EUTELSAT HOTBIRD 13C",
-        "alt_km": 35851.313977749924,
-        "timestamp": "2025-11-29T04:43:43.881724+00:00"
+        "object_id": null,
+        "object_type": null,
+        "classification_type": null,
+        "country": null,
+        "launch_date": null,
+        "site_code": null,
+        "decay_date": null,
+        "rcs": null,
+        "inclination_deg": null,
+        "eccentricity": null,
+        "mean_motion_rev_per_day": null,
+        "mean_motion_dot": null,
+        "mean_motion_ddot": null,
+        "raan_deg": null,
+        "argp_deg": null,
+        "mean_anomaly_deg": null,
+        "period_minutes": null,
+        "perigee_km": null,
+        "apogee_km": null,
+        "bstar": null,
+        "longitude_deg": 116.71051110110943,
+        "latitude_deg": 1.4064082795030515,
+        "alt_km": 35850.61884330117,
+        "velocity_km_s": null,
+        "orbit_class": "GEO",
+        "tle_epoch": null,
+        "timestamp": "2025-11-29T05:40:06.160457+00:00"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          102.61894482379245,
-          0.8838970124249814
+          116.71051110110943,
+          1.4064082795030515
         ]
       }
     },
@@ -70,14 +170,39 @@
       "properties": {
         "norad_id": 36101,
         "name": "EUTELSAT 36B",
-        "alt_km": 35772.5442149026,
-        "timestamp": "2025-11-29T04:43:43.881724+00:00"
+        "object_id": null,
+        "object_type": null,
+        "classification_type": null,
+        "country": null,
+        "launch_date": null,
+        "site_code": null,
+        "decay_date": null,
+        "rcs": null,
+        "inclination_deg": null,
+        "eccentricity": null,
+        "mean_motion_rev_per_day": null,
+        "mean_motion_dot": null,
+        "mean_motion_ddot": null,
+        "raan_deg": null,
+        "argp_deg": null,
+        "mean_anomaly_deg": null,
+        "period_minutes": null,
+        "perigee_km": null,
+        "apogee_km": null,
+        "bstar": null,
+        "longitude_deg": -156.1676219313326,
+        "latitude_deg": -0.02101598892210831,
+        "alt_km": 35767.52242740427,
+        "velocity_km_s": null,
+        "orbit_class": "GEO",
+        "tle_epoch": null,
+        "timestamp": "2025-11-29T05:40:06.160457+00:00"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -170.3098245053348,
-          -0.008851091063483911
+          -156.1676219313326,
+          -0.02101598892210831
         ]
       }
     },
@@ -86,14 +211,39 @@
       "properties": {
         "norad_id": 37258,
         "name": "EUTELSAT KA-SAT 9A",
-        "alt_km": 35781.986997421336,
-        "timestamp": "2025-11-29T04:43:43.881724+00:00"
+        "object_id": null,
+        "object_type": null,
+        "classification_type": null,
+        "country": null,
+        "launch_date": null,
+        "site_code": null,
+        "decay_date": null,
+        "rcs": null,
+        "inclination_deg": null,
+        "eccentricity": null,
+        "mean_motion_rev_per_day": null,
+        "mean_motion_dot": null,
+        "mean_motion_ddot": null,
+        "raan_deg": null,
+        "argp_deg": null,
+        "mean_anomaly_deg": null,
+        "period_minutes": null,
+        "perigee_km": null,
+        "apogee_km": null,
+        "bstar": null,
+        "longitude_deg": 162.39926859471856,
+        "latitude_deg": -0.026327642144234366,
+        "alt_km": 35781.08657042859,
+        "velocity_km_s": null,
+        "orbit_class": "GEO",
+        "tle_epoch": null,
+        "timestamp": "2025-11-29T05:40:06.160457+00:00"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          148.2648215913008,
-          -0.009237286645501507
+          162.39926859471856,
+          -0.026327642144234366
         ]
       }
     },
@@ -102,14 +252,39 @@
       "properties": {
         "norad_id": 37816,
         "name": "EUTELSAT 7 WEST A",
-        "alt_km": 35785.895396663786,
-        "timestamp": "2025-11-29T04:43:43.881724+00:00"
+        "object_id": null,
+        "object_type": null,
+        "classification_type": null,
+        "country": null,
+        "launch_date": null,
+        "site_code": null,
+        "decay_date": null,
+        "rcs": null,
+        "inclination_deg": null,
+        "eccentricity": null,
+        "mean_motion_rev_per_day": null,
+        "mean_motion_dot": null,
+        "mean_motion_ddot": null,
+        "raan_deg": null,
+        "argp_deg": null,
+        "mean_anomaly_deg": null,
+        "period_minutes": null,
+        "perigee_km": null,
+        "apogee_km": null,
+        "bstar": null,
+        "longitude_deg": 146.01559974451976,
+        "latitude_deg": 0.02370343667700073,
+        "alt_km": 35779.73075363303,
+        "velocity_km_s": null,
+        "orbit_class": "GEO",
+        "tle_epoch": null,
+        "timestamp": "2025-11-29T05:40:06.160457+00:00"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          131.88198951121305,
-          0.04027411446640062
+          146.01559974451976,
+          0.02370343667700073
         ]
       }
     },
@@ -118,14 +293,39 @@
       "properties": {
         "norad_id": 37836,
         "name": "EUTELSAT 16A",
-        "alt_km": 35790.31479413898,
-        "timestamp": "2025-11-29T04:43:43.881724+00:00"
+        "object_id": null,
+        "object_type": null,
+        "classification_type": null,
+        "country": null,
+        "launch_date": null,
+        "site_code": null,
+        "decay_date": null,
+        "rcs": null,
+        "inclination_deg": null,
+        "eccentricity": null,
+        "mean_motion_rev_per_day": null,
+        "mean_motion_dot": null,
+        "mean_motion_ddot": null,
+        "raan_deg": null,
+        "argp_deg": null,
+        "mean_anomaly_deg": null,
+        "period_minutes": null,
+        "perigee_km": null,
+        "apogee_km": null,
+        "bstar": null,
+        "longitude_deg": 169.3017207597982,
+        "latitude_deg": 0.013788635513689142,
+        "alt_km": 35784.04279133104,
+        "velocity_km_s": null,
+        "orbit_class": "GEO",
+        "tle_epoch": null,
+        "timestamp": "2025-11-29T05:40:06.160457+00:00"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          155.17108154492274,
-          0.030391119132671566
+          169.3017207597982,
+          0.013788635513689142
         ]
       }
     },
@@ -134,14 +334,39 @@
       "properties": {
         "norad_id": 38992,
         "name": "EUTELSAT 21B",
-        "alt_km": 35788.4389396421,
-        "timestamp": "2025-11-29T04:43:43.881724+00:00"
+        "object_id": null,
+        "object_type": null,
+        "classification_type": null,
+        "country": null,
+        "launch_date": null,
+        "site_code": null,
+        "decay_date": null,
+        "rcs": null,
+        "inclination_deg": null,
+        "eccentricity": null,
+        "mean_motion_rev_per_day": null,
+        "mean_motion_dot": null,
+        "mean_motion_ddot": null,
+        "raan_deg": null,
+        "argp_deg": null,
+        "mean_anomaly_deg": null,
+        "period_minutes": null,
+        "perigee_km": null,
+        "apogee_km": null,
+        "bstar": null,
+        "longitude_deg": 174.93055379405794,
+        "latitude_deg": 0.006306180691856497,
+        "alt_km": 35784.9551337542,
+        "velocity_km_s": null,
+        "orbit_class": "GEO",
+        "tle_epoch": null,
+        "timestamp": "2025-11-29T05:40:06.160457+00:00"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          160.79959594781388,
-          0.025276942360186717
+          174.93055379405794,
+          0.006306180691856497
         ]
       }
     },
@@ -150,14 +375,39 @@
       "properties": {
         "norad_id": 39020,
         "name": "EUTELSAT 70B",
-        "alt_km": 35769.94178953846,
-        "timestamp": "2025-11-29T04:43:43.881724+00:00"
+        "object_id": null,
+        "object_type": null,
+        "classification_type": null,
+        "country": null,
+        "launch_date": null,
+        "site_code": null,
+        "decay_date": null,
+        "rcs": null,
+        "inclination_deg": null,
+        "eccentricity": null,
+        "mean_motion_rev_per_day": null,
+        "mean_motion_dot": null,
+        "mean_motion_ddot": null,
+        "raan_deg": null,
+        "argp_deg": null,
+        "mean_anomaly_deg": null,
+        "period_minutes": null,
+        "perigee_km": null,
+        "apogee_km": null,
+        "bstar": null,
+        "longitude_deg": -136.13277938921206,
+        "latitude_deg": -0.06640858189817118,
+        "alt_km": 35768.237068067945,
+        "velocity_km_s": null,
+        "orbit_class": "GEO",
+        "tle_epoch": null,
+        "timestamp": "2025-11-29T05:40:06.160457+00:00"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -150.27567000490671,
-          -0.055553637384675246
+          -136.13277938921206,
+          -0.06640858189817118
         ]
       }
     },
@@ -166,14 +416,39 @@
       "properties": {
         "norad_id": 39122,
         "name": "EUTELSAT 117 WEST A",
-        "alt_km": 35794.99106783534,
-        "timestamp": "2025-11-29T04:43:43.881724+00:00"
+        "object_id": null,
+        "object_type": null,
+        "classification_type": null,
+        "country": null,
+        "launch_date": null,
+        "site_code": null,
+        "decay_date": null,
+        "rcs": null,
+        "inclination_deg": null,
+        "eccentricity": null,
+        "mean_motion_rev_per_day": null,
+        "mean_motion_dot": null,
+        "mean_motion_ddot": null,
+        "raan_deg": null,
+        "argp_deg": null,
+        "mean_anomaly_deg": null,
+        "period_minutes": null,
+        "perigee_km": null,
+        "apogee_km": null,
+        "bstar": null,
+        "longitude_deg": 36.60642426868686,
+        "latitude_deg": 0.017942551790906505,
+        "alt_km": 35796.75380201832,
+        "velocity_km_s": null,
+        "orbit_class": "GEO",
+        "tle_epoch": null,
+        "timestamp": "2025-11-29T05:40:06.160457+00:00"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          22.4816107328947,
-          0.012696739802539327
+          36.60642426868686,
+          0.017942551790906505
         ]
       }
     },
@@ -182,14 +457,39 @@
       "properties": {
         "norad_id": 39163,
         "name": "EUTELSAT 7B",
-        "alt_km": 35802.71810492498,
-        "timestamp": "2025-11-29T04:43:43.881724+00:00"
+        "object_id": null,
+        "object_type": null,
+        "classification_type": null,
+        "country": null,
+        "launch_date": null,
+        "site_code": null,
+        "decay_date": null,
+        "rcs": null,
+        "inclination_deg": null,
+        "eccentricity": null,
+        "mean_motion_rev_per_day": null,
+        "mean_motion_dot": null,
+        "mean_motion_ddot": null,
+        "raan_deg": null,
+        "argp_deg": null,
+        "mean_anomaly_deg": null,
+        "period_minutes": null,
+        "perigee_km": null,
+        "apogee_km": null,
+        "bstar": null,
+        "longitude_deg": 160.36363326386243,
+        "latitude_deg": 0.04236750591098936,
+        "alt_km": 35801.284688513835,
+        "velocity_km_s": null,
+        "orbit_class": "GEO",
+        "tle_epoch": null,
+        "timestamp": "2025-11-29T05:40:06.160457+00:00"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          146.2429665606569,
-          0.058097491699593815
+          160.36363326386243,
+          0.04236750591098936
         ]
       }
     },
@@ -198,14 +498,39 @@
       "properties": {
         "norad_id": 39773,
         "name": "EUTELSAT 3B",
-        "alt_km": 35783.22669843552,
-        "timestamp": "2025-11-29T04:43:43.881724+00:00"
+        "object_id": null,
+        "object_type": null,
+        "classification_type": null,
+        "country": null,
+        "launch_date": null,
+        "site_code": null,
+        "decay_date": null,
+        "rcs": null,
+        "inclination_deg": null,
+        "eccentricity": null,
+        "mean_motion_rev_per_day": null,
+        "mean_motion_dot": null,
+        "mean_motion_ddot": null,
+        "raan_deg": null,
+        "argp_deg": null,
+        "mean_anomaly_deg": null,
+        "period_minutes": null,
+        "perigee_km": null,
+        "apogee_km": null,
+        "bstar": null,
+        "longitude_deg": 156.4453203222549,
+        "latitude_deg": 0.007201149160059409,
+        "alt_km": 35778.55893878035,
+        "velocity_km_s": null,
+        "orbit_class": "GEO",
+        "tle_epoch": null,
+        "timestamp": "2025-11-29T05:40:06.160457+00:00"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          142.31036147522826,
-          0.025446778046433922
+          156.4453203222549,
+          0.007201149160059409
         ]
       }
     },
@@ -214,14 +539,39 @@
       "properties": {
         "norad_id": 40425,
         "name": "EUTELSAT 115 WEST B",
-        "alt_km": 35787.438045403,
-        "timestamp": "2025-11-29T04:43:43.881724+00:00"
+        "object_id": null,
+        "object_type": null,
+        "classification_type": null,
+        "country": null,
+        "launch_date": null,
+        "site_code": null,
+        "decay_date": null,
+        "rcs": null,
+        "inclination_deg": null,
+        "eccentricity": null,
+        "mean_motion_rev_per_day": null,
+        "mean_motion_dot": null,
+        "mean_motion_ddot": null,
+        "raan_deg": null,
+        "argp_deg": null,
+        "mean_anomaly_deg": null,
+        "period_minutes": null,
+        "perigee_km": null,
+        "apogee_km": null,
+        "bstar": null,
+        "longitude_deg": 38.48028979100557,
+        "latitude_deg": -0.002899088762693948,
+        "alt_km": 35787.27447701944,
+        "velocity_km_s": null,
+        "orbit_class": "GEO",
+        "tle_epoch": null,
+        "timestamp": "2025-11-29T05:40:06.160457+00:00"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.349480941717076,
-          -0.002825313863365771
+          38.48028979100557,
+          -0.002899088762693948
         ]
       }
     },
@@ -230,14 +580,39 @@
       "properties": {
         "norad_id": 40875,
         "name": "EUTELSAT 8 WEST B",
-        "alt_km": 35795.03825872458,
-        "timestamp": "2025-11-29T04:43:43.881724+00:00"
+        "object_id": null,
+        "object_type": null,
+        "classification_type": null,
+        "country": null,
+        "launch_date": null,
+        "site_code": null,
+        "decay_date": null,
+        "rcs": null,
+        "inclination_deg": null,
+        "eccentricity": null,
+        "mean_motion_rev_per_day": null,
+        "mean_motion_dot": null,
+        "mean_motion_ddot": null,
+        "raan_deg": null,
+        "argp_deg": null,
+        "mean_anomaly_deg": null,
+        "period_minutes": null,
+        "perigee_km": null,
+        "apogee_km": null,
+        "bstar": null,
+        "longitude_deg": 145.3406705253707,
+        "latitude_deg": 0.043071600362316144,
+        "alt_km": 35791.0357916184,
+        "velocity_km_s": null,
+        "orbit_class": "GEO",
+        "tle_epoch": null,
+        "timestamp": "2025-11-29T05:40:06.160457+00:00"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          131.21394779060012,
-          0.05729739402443581
+          145.3406705253707,
+          0.043071600362316144
         ]
       }
     },
@@ -246,14 +621,39 @@
       "properties": {
         "norad_id": 41310,
         "name": "EUTELSAT 9B",
-        "alt_km": 35793.95930815284,
-        "timestamp": "2025-11-29T04:43:43.881724+00:00"
+        "object_id": null,
+        "object_type": null,
+        "classification_type": null,
+        "country": null,
+        "launch_date": null,
+        "site_code": null,
+        "decay_date": null,
+        "rcs": null,
+        "inclination_deg": null,
+        "eccentricity": null,
+        "mean_motion_rev_per_day": null,
+        "mean_motion_dot": null,
+        "mean_motion_ddot": null,
+        "raan_deg": null,
+        "argp_deg": null,
+        "mean_anomaly_deg": null,
+        "period_minutes": null,
+        "perigee_km": null,
+        "apogee_km": null,
+        "bstar": null,
+        "longitude_deg": 162.3280491981275,
+        "latitude_deg": 0.03915434117009053,
+        "alt_km": 35789.380631540276,
+        "velocity_km_s": null,
+        "orbit_class": "GEO",
+        "tle_epoch": null,
+        "timestamp": "2025-11-29T05:40:06.160457+00:00"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          148.20034171031594,
-          0.042378976869347024
+          162.3280491981275,
+          0.03915434117009053
         ]
       }
     },
@@ -262,14 +662,39 @@
       "properties": {
         "norad_id": 41382,
         "name": "EUTELSAT 65 WEST A",
-        "alt_km": 35796.356718158415,
-        "timestamp": "2025-11-29T04:43:43.881724+00:00"
+        "object_id": null,
+        "object_type": null,
+        "classification_type": null,
+        "country": null,
+        "launch_date": null,
+        "site_code": null,
+        "decay_date": null,
+        "rcs": null,
+        "inclination_deg": null,
+        "eccentricity": null,
+        "mean_motion_rev_per_day": null,
+        "mean_motion_dot": null,
+        "mean_motion_ddot": null,
+        "raan_deg": null,
+        "argp_deg": null,
+        "mean_anomaly_deg": null,
+        "period_minutes": null,
+        "perigee_km": null,
+        "apogee_km": null,
+        "bstar": null,
+        "longitude_deg": 88.1722311217233,
+        "latitude_deg": 0.061947107250225134,
+        "alt_km": 35795.91134180914,
+        "velocity_km_s": null,
+        "orbit_class": "GEO",
+        "tle_epoch": null,
+        "timestamp": "2025-11-29T05:40:06.160457+00:00"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          74.04764508699111,
-          0.05449806513998138
+          88.1722311217233,
+          0.061947107250225134
         ]
       }
     },
@@ -278,14 +703,39 @@
       "properties": {
         "norad_id": 41589,
         "name": "EUTELSAT 117 WEST B (WAAS/PRN 131)",
-        "alt_km": 35785.81169325229,
-        "timestamp": "2025-11-29T04:43:43.881724+00:00"
+        "object_id": null,
+        "object_type": null,
+        "classification_type": null,
+        "country": null,
+        "launch_date": null,
+        "site_code": null,
+        "decay_date": null,
+        "rcs": null,
+        "inclination_deg": null,
+        "eccentricity": null,
+        "mean_motion_rev_per_day": null,
+        "mean_motion_dot": null,
+        "mean_motion_ddot": null,
+        "raan_deg": null,
+        "argp_deg": null,
+        "mean_anomaly_deg": null,
+        "period_minutes": null,
+        "perigee_km": null,
+        "apogee_km": null,
+        "bstar": null,
+        "longitude_deg": 36.398952982651494,
+        "latitude_deg": -0.007898274605442348,
+        "alt_km": 35786.15737883333,
+        "velocity_km_s": null,
+        "orbit_class": "GEO",
+        "tle_epoch": null,
+        "timestamp": "2025-11-29T05:40:06.160457+00:00"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          22.267588354203166,
-          -0.007531412412901278
+          36.398952982651494,
+          -0.007898274605442348
         ]
       }
     },
@@ -294,14 +744,39 @@
       "properties": {
         "norad_id": 42741,
         "name": "EUTELSAT 172B",
-        "alt_km": 35786.911575034195,
-        "timestamp": "2025-11-29T04:43:43.881724+00:00"
+        "object_id": null,
+        "object_type": null,
+        "classification_type": null,
+        "country": null,
+        "launch_date": null,
+        "site_code": null,
+        "decay_date": null,
+        "rcs": null,
+        "inclination_deg": null,
+        "eccentricity": null,
+        "mean_motion_rev_per_day": null,
+        "mean_motion_dot": null,
+        "mean_motion_ddot": null,
+        "raan_deg": null,
+        "argp_deg": null,
+        "mean_anomaly_deg": null,
+        "period_minutes": null,
+        "perigee_km": null,
+        "apogee_km": null,
+        "bstar": null,
+        "longitude_deg": -34.618225626512796,
+        "latitude_deg": 0.017825132301396485,
+        "alt_km": 35786.87991877423,
+        "velocity_km_s": null,
+        "orbit_class": "GEO",
+        "tle_epoch": null,
+        "timestamp": "2025-11-29T05:40:06.160457+00:00"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -48.74916289097668,
-          0.017262495191360867
+          -34.618225626512796,
+          0.017825132301396485
         ]
       }
     },
@@ -310,14 +785,39 @@
       "properties": {
         "norad_id": 44334,
         "name": "EUTELSAT 7C",
-        "alt_km": 35784.881499860734,
-        "timestamp": "2025-11-29T04:43:43.881724+00:00"
+        "object_id": null,
+        "object_type": null,
+        "classification_type": null,
+        "country": null,
+        "launch_date": null,
+        "site_code": null,
+        "decay_date": null,
+        "rcs": null,
+        "inclination_deg": null,
+        "eccentricity": null,
+        "mean_motion_rev_per_day": null,
+        "mean_motion_dot": null,
+        "mean_motion_ddot": null,
+        "raan_deg": null,
+        "argp_deg": null,
+        "mean_anomaly_deg": null,
+        "period_minutes": null,
+        "perigee_km": null,
+        "apogee_km": null,
+        "bstar": null,
+        "longitude_deg": 160.35669093916783,
+        "latitude_deg": -0.0422103551374835,
+        "alt_km": 35781.72746830029,
+        "velocity_km_s": null,
+        "orbit_class": "GEO",
+        "tle_epoch": null,
+        "timestamp": "2025-11-29T05:40:06.160457+00:00"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          146.22329897016039,
-          -0.05360366719526309
+          160.35669093916783,
+          -0.0422103551374835
         ]
       }
     },
@@ -326,14 +826,39 @@
       "properties": {
         "norad_id": 44624,
         "name": "EUTELSAT 5 WEST B (EGNOS/PRN 121)",
-        "alt_km": 35791.68796314338,
-        "timestamp": "2025-11-29T04:43:43.881724+00:00"
+        "object_id": null,
+        "object_type": null,
+        "classification_type": null,
+        "country": null,
+        "launch_date": null,
+        "site_code": null,
+        "decay_date": null,
+        "rcs": null,
+        "inclination_deg": null,
+        "eccentricity": null,
+        "mean_motion_rev_per_day": null,
+        "mean_motion_dot": null,
+        "mean_motion_ddot": null,
+        "raan_deg": null,
+        "argp_deg": null,
+        "mean_anomaly_deg": null,
+        "period_minutes": null,
+        "perigee_km": null,
+        "apogee_km": null,
+        "bstar": null,
+        "longitude_deg": 148.35319733507043,
+        "latitude_deg": 0.01160696400550668,
+        "alt_km": 35788.33273741467,
+        "velocity_km_s": null,
+        "orbit_class": "GEO",
+        "tle_epoch": null,
+        "timestamp": "2025-11-29T05:40:06.160457+00:00"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          134.22442556637404,
-          0.03010069130640034
+          148.35319733507043,
+          0.01160696400550668
         ]
       }
     },
@@ -342,14 +867,39 @@
       "properties": {
         "norad_id": 45027,
         "name": "EUTELSAT KONNECT",
-        "alt_km": 35788.68077780619,
-        "timestamp": "2025-11-29T04:43:43.881724+00:00"
+        "object_id": null,
+        "object_type": null,
+        "classification_type": null,
+        "country": null,
+        "launch_date": null,
+        "site_code": null,
+        "decay_date": null,
+        "rcs": null,
+        "inclination_deg": null,
+        "eccentricity": null,
+        "mean_motion_rev_per_day": null,
+        "mean_motion_dot": null,
+        "mean_motion_ddot": null,
+        "raan_deg": null,
+        "argp_deg": null,
+        "mean_anomaly_deg": null,
+        "period_minutes": null,
+        "perigee_km": null,
+        "apogee_km": null,
+        "bstar": null,
+        "longitude_deg": 160.58400214181762,
+        "latitude_deg": 0.04654733067306053,
+        "alt_km": 35787.68885751301,
+        "velocity_km_s": null,
+        "orbit_class": "GEO",
+        "tle_epoch": null,
+        "timestamp": "2025-11-29T05:40:06.160457+00:00"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          146.454183049003,
-          0.04194467089929993
+          160.58400214181762,
+          0.04654733067306053
         ]
       }
     },
@@ -358,14 +908,39 @@
       "properties": {
         "norad_id": 49056,
         "name": "EUTELSAT QUANTUM",
-        "alt_km": 35782.127150577624,
-        "timestamp": "2025-11-29T04:43:43.881724+00:00"
+        "object_id": null,
+        "object_type": null,
+        "classification_type": null,
+        "country": null,
+        "launch_date": null,
+        "site_code": null,
+        "decay_date": null,
+        "rcs": null,
+        "inclination_deg": null,
+        "eccentricity": null,
+        "mean_motion_rev_per_day": null,
+        "mean_motion_dot": null,
+        "mean_motion_ddot": null,
+        "raan_deg": null,
+        "argp_deg": null,
+        "mean_anomaly_deg": null,
+        "period_minutes": null,
+        "perigee_km": null,
+        "apogee_km": null,
+        "bstar": null,
+        "longitude_deg": -158.94510704813274,
+        "latitude_deg": -0.005839589743945546,
+        "alt_km": 35778.958242389825,
+        "velocity_km_s": null,
+        "orbit_class": "GEO",
+        "tle_epoch": null,
+        "timestamp": "2025-11-29T05:40:06.160457+00:00"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -173.08023474240485,
-          0.0005087497409534044
+          -158.94510704813274,
+          -0.005839589743945546
         ]
       }
     },
@@ -374,14 +949,39 @@
       "properties": {
         "norad_id": 53765,
         "name": "EUTELSAT KONNECT VHTS",
-        "alt_km": 35785.00289651871,
-        "timestamp": "2025-11-29T04:43:43.881724+00:00"
+        "object_id": null,
+        "object_type": null,
+        "classification_type": null,
+        "country": null,
+        "launch_date": null,
+        "site_code": null,
+        "decay_date": null,
+        "rcs": null,
+        "inclination_deg": null,
+        "eccentricity": null,
+        "mean_motion_rev_per_day": null,
+        "mean_motion_dot": null,
+        "mean_motion_ddot": null,
+        "raan_deg": null,
+        "argp_deg": null,
+        "mean_anomaly_deg": null,
+        "period_minutes": null,
+        "perigee_km": null,
+        "apogee_km": null,
+        "bstar": null,
+        "longitude_deg": 156.05634427534147,
+        "latitude_deg": 0.03578473080855593,
+        "alt_km": 35782.356085244675,
+        "velocity_km_s": null,
+        "orbit_class": "GEO",
+        "tle_epoch": null,
+        "timestamp": "2025-11-29T05:40:06.160457+00:00"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          141.923163711497,
-          0.030207735380004447
+          156.05634427534147,
+          0.03578473080855593
         ]
       }
     },
@@ -390,14 +990,39 @@
       "properties": {
         "norad_id": 54048,
         "name": "EUTELSAT HOTBIRD 13F",
-        "alt_km": 35794.589148116705,
-        "timestamp": "2025-11-29T04:43:43.881724+00:00"
+        "object_id": null,
+        "object_type": null,
+        "classification_type": null,
+        "country": null,
+        "launch_date": null,
+        "site_code": null,
+        "decay_date": null,
+        "rcs": null,
+        "inclination_deg": null,
+        "eccentricity": null,
+        "mean_motion_rev_per_day": null,
+        "mean_motion_dot": null,
+        "mean_motion_ddot": null,
+        "raan_deg": null,
+        "argp_deg": null,
+        "mean_anomaly_deg": null,
+        "period_minutes": null,
+        "perigee_km": null,
+        "apogee_km": null,
+        "bstar": null,
+        "longitude_deg": 166.39199466533793,
+        "latitude_deg": -0.056920981502719584,
+        "alt_km": 35795.39458152954,
+        "velocity_km_s": null,
+        "orbit_class": "GEO",
+        "tle_epoch": null,
+        "timestamp": "2025-11-29T05:40:06.160457+00:00"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.2664984224378,
-          -0.04531609919131882
+          166.39199466533793,
+          -0.056920981502719584
         ]
       }
     },
@@ -406,14 +1031,39 @@
       "properties": {
         "norad_id": 54225,
         "name": "EUTELSAT HOTBIRD 13G",
-        "alt_km": 35779.32971325426,
-        "timestamp": "2025-11-29T04:43:43.881724+00:00"
+        "object_id": null,
+        "object_type": null,
+        "classification_type": null,
+        "country": null,
+        "launch_date": null,
+        "site_code": null,
+        "decay_date": null,
+        "rcs": null,
+        "inclination_deg": null,
+        "eccentricity": null,
+        "mean_motion_rev_per_day": null,
+        "mean_motion_dot": null,
+        "mean_motion_ddot": null,
+        "raan_deg": null,
+        "argp_deg": null,
+        "mean_anomaly_deg": null,
+        "period_minutes": null,
+        "perigee_km": null,
+        "apogee_km": null,
+        "bstar": null,
+        "longitude_deg": 166.37457537510505,
+        "latitude_deg": -0.05165778960810703,
+        "alt_km": 35778.6438759327,
+        "velocity_km_s": null,
+        "orbit_class": "GEO",
+        "tle_epoch": null,
+        "timestamp": "2025-11-29T05:40:06.160457+00:00"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.23831391396678,
-          -0.05047947413627553
+          166.37457537510505,
+          -0.05165778960810703
         ]
       }
     },
@@ -422,14 +1072,39 @@
       "properties": {
         "norad_id": 54259,
         "name": "EUTELSAT 10B",
-        "alt_km": 35782.591092100505,
-        "timestamp": "2025-11-29T04:43:43.881724+00:00"
+        "object_id": null,
+        "object_type": null,
+        "classification_type": null,
+        "country": null,
+        "launch_date": null,
+        "site_code": null,
+        "decay_date": null,
+        "rcs": null,
+        "inclination_deg": null,
+        "eccentricity": null,
+        "mean_motion_rev_per_day": null,
+        "mean_motion_dot": null,
+        "mean_motion_ddot": null,
+        "raan_deg": null,
+        "argp_deg": null,
+        "mean_anomaly_deg": null,
+        "period_minutes": null,
+        "perigee_km": null,
+        "apogee_km": null,
+        "bstar": null,
+        "longitude_deg": 163.42294077867277,
+        "latitude_deg": 0.039603310940181886,
+        "alt_km": 35782.688984000946,
+        "velocity_km_s": null,
+        "orbit_class": "GEO",
+        "tle_epoch": null,
+        "timestamp": "2025-11-29T05:40:06.160457+00:00"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          149.28914120000292,
-          0.03585586315700225
+          163.42294077867277,
+          0.039603310940181886
         ]
       }
     },
@@ -438,14 +1113,39 @@
       "properties": {
         "norad_id": 59346,
         "name": "EUTELSAT 36D",
-        "alt_km": 35788.42500071634,
-        "timestamp": "2025-11-29T04:43:43.881724+00:00"
+        "object_id": null,
+        "object_type": null,
+        "classification_type": null,
+        "country": null,
+        "launch_date": null,
+        "site_code": null,
+        "decay_date": null,
+        "rcs": null,
+        "inclination_deg": null,
+        "eccentricity": null,
+        "mean_motion_rev_per_day": null,
+        "mean_motion_dot": null,
+        "mean_motion_ddot": null,
+        "raan_deg": null,
+        "argp_deg": null,
+        "mean_anomaly_deg": null,
+        "period_minutes": null,
+        "perigee_km": null,
+        "apogee_km": null,
+        "bstar": null,
+        "longitude_deg": -170.7595400543271,
+        "latitude_deg": -0.028699663688688325,
+        "alt_km": 35788.10608299926,
+        "velocity_km_s": null,
+        "orbit_class": "GEO",
+        "tle_epoch": null,
+        "timestamp": "2025-11-29T05:40:06.160457+00:00"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          175.11052166842788,
-          -0.02311600096824097
+          -170.7595400543271,
+          -0.028699663688688325
         ]
       }
     }
