@@ -1,46 +1,4 @@
 {
   "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {
-        "norad_id": 60543,
-        "name": "ARCTIC WEATHER SATELLITE",
-        "object_id": null,
-        "object_type": null,
-        "classification_type": null,
-        "country": null,
-        "launch_date": null,
-        "site_code": null,
-        "decay_date": null,
-        "rcs": null,
-        "inclination_deg": null,
-        "eccentricity": null,
-        "mean_motion_rev_per_day": null,
-        "mean_motion_dot": null,
-        "mean_motion_ddot": null,
-        "raan_deg": null,
-        "argp_deg": null,
-        "mean_anomaly_deg": null,
-        "period_minutes": null,
-        "perigee_km": null,
-        "apogee_km": null,
-        "bstar": null,
-        "longitude_deg": -139.74191516836137,
-        "latitude_deg": -26.845768959823527,
-        "alt_km": 606.068119231807,
-        "velocity_km_s": null,
-        "orbit_class": "LEO",
-        "tle_epoch": null,
-        "timestamp": "2025-11-29T05:50:52.293510+00:00"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -139.74191516836137,
-          -26.845768959823527
-        ]
-      }
-    }
-  ]
+  "features": []
 }
