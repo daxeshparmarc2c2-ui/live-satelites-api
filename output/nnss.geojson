@@ -26,19 +26,19 @@
         "perigee_km": null,
         "apogee_km": null,
         "bstar": null,
-        "longitude_deg": -125.48677687989046,
-        "latitude_deg": 62.46568804056443,
-        "alt_km": 1058.690222053614,
+        "longitude_deg": 54.56219576769289,
+        "latitude_deg": 81.47045752310889,
+        "alt_km": 1133.3372405404543,
         "velocity_km_s": null,
         "orbit_class": "LEO",
         "tle_epoch": null,
-        "timestamp": "2025-11-29T05:40:06.160457+00:00"
+        "timestamp": "2025-11-29T05:50:52.293510+00:00"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -125.48677687989046,
-          62.46568804056443
+          54.56219576769289,
+          81.47045752310889
         ]
       }
     },
@@ -67,19 +67,19 @@
         "perigee_km": null,
         "apogee_km": null,
         "bstar": null,
-        "longitude_deg": 75.49076436707418,
-        "latitude_deg": -58.24448130246356,
-        "alt_km": 1057.6907262714622,
+        "longitude_deg": -106.69376450466447,
+        "latitude_deg": -85.7538011934386,
+        "alt_km": 1106.8790294817936,
         "velocity_km_s": null,
         "orbit_class": "LEO",
         "tle_epoch": null,
-        "timestamp": "2025-11-29T05:40:06.160457+00:00"
+        "timestamp": "2025-11-29T05:50:52.293510+00:00"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          75.49076436707418,
-          -58.24448130246356
+          -106.69376450466447,
+          -85.7538011934386
         ]
       }
     }

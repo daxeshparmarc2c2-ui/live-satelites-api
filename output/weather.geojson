@@ -26,19 +26,19 @@
         "perigee_km": null,
         "apogee_km": null,
         "bstar": null,
-        "longitude_deg": -134.05242664968864,
-        "latitude_deg": 12.839734829878202,
-        "alt_km": 600.066798130727,
+        "longitude_deg": -139.74191516836137,
+        "latitude_deg": -26.845768959823527,
+        "alt_km": 606.068119231807,
         "velocity_km_s": null,
         "orbit_class": "LEO",
         "tle_epoch": null,
-        "timestamp": "2025-11-29T05:40:06.160457+00:00"
+        "timestamp": "2025-11-29T05:50:52.293510+00:00"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -134.05242664968864,
-          12.839734829878202
+          -139.74191516836137,
+          -26.845768959823527
         ]
       }
     }
