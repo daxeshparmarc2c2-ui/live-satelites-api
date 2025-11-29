@@ -2,16 +2,19 @@ name: Update Satellite GeoJSON
 
 on:
   schedule:
-    - cron: "0 * * * *"   # every hour
-  workflow_dispatch:       # manual trigger
+    - cron: "0 * * * *"    # Run every hour
+  workflow_dispatch:        # Allow manual trigger
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
+
       - name: Checkout repo
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0    # Needed so we can force push safely
 
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -24,10 +27,20 @@ jobs:
       - name: Generate grouped GeoJSONs
         run: python generate_all_geojson.py
 
-      - name: Commit GeoJSON files
+      - name: Commit & Force Push GeoJSON updates
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "actions@github.com"
+          
+          # add all updated geojson files
           git add output/*.geojson
+
+          # commit only if changes detected
           git commit -m "Auto update grouped GeoJSON" || echo "No changes"
-          git push
+
+          # sync with remote to avoid push rejection error
+          git fetch --all
+          git reset --hard origin/main
+
+          # force push to ensure updates
+          git push --force
