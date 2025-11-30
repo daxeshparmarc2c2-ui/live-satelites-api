@@ -1,8 +1,12 @@
 import requests
 import math
+import time
 from sgp4.api import Satrec, jday
 from datetime import datetime, timezone
 
+# -------------------------------------
+# Celestrak Groups
+# -------------------------------------
 CELESTRAK_GROUPS = {
     "last-30-days": "last-30-days",
     "stations": "stations",
@@ -23,11 +27,19 @@ CELESTRAK_GROUPS = {
     "cosmos-1408-debris": "cosmos-1408-debris",
     "fengyun-1c-debris": "fengyun-1c-debris",
     "iridium-33-debris": "iridium-33-debris",
-    "cosmos-2251-debris": "cosmos-2251-debris"
+    "cosmos-2251-debris": "cosmos-2251-debris",
 }
 
 BASE_URL = "https://celestrak.org/NORAD/elements/gp.php?GROUP={}&FORMAT=json"
 
+HEADERS = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+    "Accept": "application/json",
+}
+
+# -------------------------------------
+# Satellite Engine
+# -------------------------------------
 
 class LiveSatelliteEngine:
 
@@ -35,36 +47,63 @@ class LiveSatelliteEngine:
         self.sats = {}
         self.load_all_groups()
 
-    def fetch_group(self, group):
+    def fetch_group(self, group, retries=5):
+        """Fetch JSON with retry (fixes Cloudflare blocks)."""
+
         url = BASE_URL.format(group)
-        r = requests.get(url, timeout=20)
-        r.raise_for_status()
-        return r.json()
+
+        for attempt in range(retries):
+            try:
+                r = requests.get(url, headers=HEADERS, timeout=25)
+                if r.status_code == 200:
+                    data = r.json()
+
+                    # Celestrak sometimes returns [] when blocking bots
+                    if isinstance(data, list) and len(data) > 0:
+                        return data
+
+                print(f"⚠️ Retry {attempt+1}/{retries} for {group}")
+                time.sleep(2)
+
+            except Exception as e:
+                print(f"⚠️ Error fetching {group}: {e}")
+                time.sleep(2)
+
+        # Failed fully
+        print(f"❌ FAILED TO DOWNLOAD: {group}")
+        return []
 
     def load_all_groups(self):
+        """Load all GP JSON groups and build satrec objects."""
+
         for group in CELESTRAK_GROUPS.values():
-            try:
-                print(f"Loading {group}...")
-                data = self.fetch_group(group)
+            data = self.fetch_group(group)
 
-                for entry in data:
+            print(f"📡 Group {group}: fetched {len(data)} satellites")
 
-                    norad = entry["NORAD_CAT_ID"]
-                    name = entry["OBJECT_NAME"]
+            if len(data) == 0:
+                continue
 
-                    # Convert degrees to radians
+            for entry in data:
+                norad = entry["NORAD_CAT_ID"]
+
+                # Convert degrees → radians
+                try:
                     incl = math.radians(entry["INCLINATION"])
                     raan = math.radians(entry["RA_OF_ASC_NODE"])
                     argp = math.radians(entry["ARG_OF_PERICENTER"])
                     mean_anom = math.radians(entry["MEAN_ANOMALY"])
+                except:
+                    continue
 
-                    # Create satrec correctly using GP JSON
+                # Build satrec
+                try:
                     satrec = Satrec()
                     satrec.sgp4init(
                         WGS84=False,
-                        opsmode='i',
+                        opsmode="i",
                         satnum=norad,
-                        epoch=entry["EPOCH"],             # already in JD
+                        epoch=entry["EPOCH"],  # already in JD
                         bstar=entry["BSTAR"],
                         ndot=entry["MEAN_MOTION_DOT"],
                         nddot=entry["MEAN_MOTION_DDOT"],
@@ -73,18 +112,20 @@ class LiveSatelliteEngine:
                         inclo=incl,
                         mo=mean_anom,
                         no_kozai=entry["MEAN_MOTION"],
-                        nodeo=raan
+                        nodeo=raan,
                     )
+                except Exception as e:
+                    print(f"❌ SGP4 INIT FAIL {norad}: {e}")
+                    continue
 
-                    self.sats[norad] = {
-                        "name": name,
-                        "group": group,
-                        "satrec": satrec,
-                        "meta": entry
-                    }
+                self.sats[norad] = {
+                    "name": entry["OBJECT_NAME"],
+                    "group": group,
+                    "satrec": satrec,
+                    "meta": entry,
+                }
 
-            except Exception as e:
-                print(f"Error loading {group}: {e}")
+            print(f"✔ Total satellites loaded so far: {len(self.sats)}\n")
 
     def compute_position(self, norad, t=None):
         if norad not in self.sats:
@@ -94,27 +135,34 @@ class LiveSatelliteEngine:
             t = datetime.now(timezone.utc)
 
         satrec = self.sats[norad]["satrec"]
-        jd, fr = jday(t.year, t.month, t.day, t.hour, t.minute, t.second + t.microsecond/1e6)
+
+        jd, fr = jday(
+            t.year,
+            t.month,
+            t.day,
+            t.hour,
+            t.minute,
+            t.second + t.microsecond / 1e6,
+        )
 
         e, r, v = satrec.sgp4(jd, fr)
         if e != 0:
-            return None  # SGP4 error
+            return None
 
         x, y, z = r
 
         lon = math.degrees(math.atan2(y, x))
-        hyp = math.sqrt(x*x + y*y)
+        hyp = math.sqrt(x * x + y * y)
         lat = math.degrees(math.atan2(z, hyp))
-        alt_km = math.sqrt(x*x + y*y + z*z) - 6378.137
+        alt_km = math.sqrt(x * x + y * y + z * z) - 6378.137
 
         return {
-            "NORAD": norad,
+            "norad_id": norad,
             "name": self.sats[norad]["name"],
             "group": self.sats[norad]["group"],
             "lon": lon,
             "lat": lat,
             "alt_km": alt_km,
-            "time": t.isoformat()
+            "timestamp": t.isoformat(),
+            "meta": self.sats[norad]["meta"],
         }
-
-
