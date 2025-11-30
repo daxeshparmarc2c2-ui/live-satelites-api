@@ -28,7 +28,7 @@
         "latitude_deg": NaN,
         "alt_km": NaN,
         "orbit_class": "HEO",
-        "timestamp": "2025-11-30T07:29:52.804581+00:00"
+        "timestamp": "2025-11-30T08:43:09.295211+00:00"
       },
       "geometry": {
         "type": "Point",
@@ -65,7 +65,7 @@
         "latitude_deg": NaN,
         "alt_km": NaN,
         "orbit_class": "HEO",
-        "timestamp": "2025-11-30T07:29:52.805020+00:00"
+        "timestamp": "2025-11-30T08:43:09.295687+00:00"
       },
       "geometry": {
         "type": "Point",
@@ -102,7 +102,7 @@
         "latitude_deg": NaN,
         "alt_km": NaN,
         "orbit_class": "HEO",
-        "timestamp": "2025-11-30T07:29:52.805139+00:00"
+        "timestamp": "2025-11-30T08:43:09.295811+00:00"
       },
       "geometry": {
         "type": "Point",
@@ -117,20 +117,20 @@
       "properties": {
         "OBJECT_NAME": "FREGAT DEB",
         "OBJECT_ID": "2011-037PF",
-        "EPOCH": "2025-11-29T03:08:01.165920",
-        "MEAN_MOTION": 12.34304223,
-        "ECCENTRICITY": 0.08705127,
-        "INCLINATION": 51.6189,
-        "RA_OF_ASC_NODE": 239.6738,
-        "ARG_OF_PERICENTER": 194.3628,
-        "MEAN_ANOMALY": 163.095,
+        "EPOCH": "2025-11-30T02:27:10.897344",
+        "MEAN_MOTION": 12.34314267,
+        "ECCENTRICITY": 0.0869985,
+        "INCLINATION": 51.6202,
+        "RA_OF_ASC_NODE": 236.7991,
+        "ARG_OF_PERICENTER": 196.4494,
+        "MEAN_ANOMALY": 160.6386,
         "EPHEMERIS_TYPE": 0,
         "CLASSIFICATION_TYPE": "U",
         "NORAD_CAT_ID": 49271,
         "ELEMENT_SET_NO": 999,
-        "REV_AT_EPOCH": 20025,
-        "BSTAR": 0.015567294,
-        "MEAN_MOTION_DOT": 7.028e-05,
+        "REV_AT_EPOCH": 20037,
+        "BSTAR": 0.014226,
+        "MEAN_MOTION_DOT": 6.404e-05,
         "MEAN_MOTION_DDOT": 0,
         "norad_id": 49271,
         "name": "FREGAT DEB",
@@ -139,7 +139,7 @@
         "latitude_deg": NaN,
         "alt_km": NaN,
         "orbit_class": "HEO",
-        "timestamp": "2025-11-30T07:29:52.805164+00:00"
+        "timestamp": "2025-11-30T08:43:09.295840+00:00"
       },
       "geometry": {
         "type": "Point",
@@ -154,20 +154,20 @@
       "properties": {
         "OBJECT_NAME": "HRC MONOBLOCK CAMERA",
         "OBJECT_ID": "1998-067XR",
-        "EPOCH": "2025-11-29T06:29:54.638592",
-        "MEAN_MOTION": 15.52902397,
-        "ECCENTRICITY": 0.0004608,
-        "INCLINATION": 51.6298,
-        "RA_OF_ASC_NODE": 208.5998,
-        "ARG_OF_PERICENTER": 130.5294,
-        "MEAN_ANOMALY": 229.6098,
+        "EPOCH": "2025-11-30T01:01:54.378336",
+        "MEAN_MOTION": 15.52962161,
+        "ECCENTRICITY": 0.0004565,
+        "INCLINATION": 51.6304,
+        "RA_OF_ASC_NODE": 204.7561,
+        "ARG_OF_PERICENTER": 133.5581,
+        "MEAN_ANOMALY": 226.5789,
         "EPHEMERIS_TYPE": 0,
         "CLASSIFICATION_TYPE": "U",
         "NORAD_CAT_ID": 66052,
         "ELEMENT_SET_NO": 999,
-        "REV_AT_EPOCH": 674,
-        "BSTAR": 0.00054828116,
-        "MEAN_MOTION_DOT": 0.00034402,
+        "REV_AT_EPOCH": 686,
+        "BSTAR": 0.00061067,
+        "MEAN_MOTION_DOT": 0.00038473,
         "MEAN_MOTION_DDOT": 0,
         "norad_id": 66052,
         "name": "HRC MONOBLOCK CAMERA",
@@ -176,7 +176,7 @@
         "latitude_deg": NaN,
         "alt_km": NaN,
         "orbit_class": "HEO",
-        "timestamp": "2025-11-30T07:29:52.805301+00:00"
+        "timestamp": "2025-11-30T08:43:09.295977+00:00"
       },
       "geometry": {
         "type": "Point",

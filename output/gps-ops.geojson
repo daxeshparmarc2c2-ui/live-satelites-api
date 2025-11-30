@@ -28,7 +28,7 @@
         "latitude_deg": NaN,
         "alt_km": NaN,
         "orbit_class": "HEO",
-        "timestamp": "2025-11-30T07:29:52.805639+00:00"
+        "timestamp": "2025-11-30T08:43:09.296333+00:00"
       },
       "geometry": {
         "type": "Point",
@@ -43,20 +43,20 @@
       "properties": {
         "OBJECT_NAME": "GPS BIIR-4  (PRN 20)",
         "OBJECT_ID": "2000-025A",
-        "EPOCH": "2025-11-29T03:41:32.637408",
-        "MEAN_MOTION": 2.00568742,
-        "ECCENTRICITY": 0.00387335,
-        "INCLINATION": 55.0372,
-        "RA_OF_ASC_NODE": 27.3877,
-        "ARG_OF_PERICENTER": 240.65,
-        "MEAN_ANOMALY": 127.3882,
+        "EPOCH": "2025-11-30T04:07:31.872288",
+        "MEAN_MOTION": 2.00568636,
+        "ECCENTRICITY": 0.0038748,
+        "INCLINATION": 55.0378,
+        "RA_OF_ASC_NODE": 27.3465,
+        "ARG_OF_PERICENTER": 240.7473,
+        "MEAN_ANOMALY": 142.3897,
         "EPHEMERIS_TYPE": 0,
         "CLASSIFICATION_TYPE": "U",
         "NORAD_CAT_ID": 26360,
         "ELEMENT_SET_NO": 999,
-        "REV_AT_EPOCH": 18726,
+        "REV_AT_EPOCH": 18728,
         "BSTAR": 0,
-        "MEAN_MOTION_DOT": -6.7e-07,
+        "MEAN_MOTION_DOT": -6.8e-07,
         "MEAN_MOTION_DDOT": 0,
         "norad_id": 26360,
         "name": "GPS BIIR-4  (PRN 20)",
@@ -65,7 +65,7 @@
         "latitude_deg": NaN,
         "alt_km": NaN,
         "orbit_class": "HEO",
-        "timestamp": "2025-11-30T07:29:52.805821+00:00"
+        "timestamp": "2025-11-30T08:43:09.296524+00:00"
       },
       "geometry": {
         "type": "Point",
@@ -102,7 +102,7 @@
         "latitude_deg": NaN,
         "alt_km": NaN,
         "orbit_class": "HEO",
-        "timestamp": "2025-11-30T07:29:52.805835+00:00"
+        "timestamp": "2025-11-30T08:43:09.296539+00:00"
       },
       "geometry": {
         "type": "Point",
@@ -139,7 +139,7 @@
         "latitude_deg": NaN,
         "alt_km": NaN,
         "orbit_class": "HEO",
-        "timestamp": "2025-11-30T07:29:52.806071+00:00"
+        "timestamp": "2025-11-30T08:43:09.296800+00:00"
       },
       "geometry": {
         "type": "Point",
@@ -176,7 +176,7 @@
         "latitude_deg": NaN,
         "alt_km": NaN,
         "orbit_class": "HEO",
-        "timestamp": "2025-11-30T07:29:52.806264+00:00"
+        "timestamp": "2025-11-30T08:43:09.296984+00:00"
       },
       "geometry": {
         "type": "Point",
@@ -213,7 +213,7 @@
         "latitude_deg": NaN,
         "alt_km": NaN,
         "orbit_class": "HEO",
-        "timestamp": "2025-11-30T07:29:52.806390+00:00"
+        "timestamp": "2025-11-30T08:43:09.297115+00:00"
       },
       "geometry": {
         "type": "Point",
@@ -250,7 +250,7 @@
         "latitude_deg": NaN,
         "alt_km": NaN,
         "orbit_class": "HEO",
-        "timestamp": "2025-11-30T07:29:52.806482+00:00"
+        "timestamp": "2025-11-30T08:43:09.297211+00:00"
       },
       "geometry": {
         "type": "Point",
@@ -287,7 +287,7 @@
         "latitude_deg": NaN,
         "alt_km": NaN,
         "orbit_class": "HEO",
-        "timestamp": "2025-11-30T07:29:52.806647+00:00"
+        "timestamp": "2025-11-30T08:43:09.297383+00:00"
       },
       "geometry": {
         "type": "Point",
@@ -302,13 +302,13 @@
       "properties": {
         "OBJECT_NAME": "GPS BIIRM-3 (PRN 12)",
         "OBJECT_ID": "2006-052A",
-        "EPOCH": "2025-11-29T11:38:48.279264",
-        "MEAN_MOTION": 2.00572538,
-        "ECCENTRICITY": 0.0087428,
+        "EPOCH": "2025-11-29T11:38:48.212736",
+        "MEAN_MOTION": 2.00572558,
+        "ECCENTRICITY": 0.0087412,
         "INCLINATION": 54.9735,
-        "RA_OF_ASC_NODE": 221.9245,
-        "ARG_OF_PERICENTER": 87.304,
-        "MEAN_ANOMALY": 273.7701,
+        "RA_OF_ASC_NODE": 221.9244,
+        "ARG_OF_PERICENTER": 87.3049,
+        "MEAN_ANOMALY": 273.769,
         "EPHEMERIS_TYPE": 0,
         "CLASSIFICATION_TYPE": "U",
         "NORAD_CAT_ID": 29601,
@@ -324,7 +324,7 @@
         "latitude_deg": NaN,
         "alt_km": NaN,
         "orbit_class": "HEO",
-        "timestamp": "2025-11-30T07:29:52.806694+00:00"
+        "timestamp": "2025-11-30T08:43:09.297433+00:00"
       },
       "geometry": {
         "type": "Point",
@@ -339,20 +339,20 @@
       "properties": {
         "OBJECT_NAME": "GPS BIIRM-4 (PRN 15)",
         "OBJECT_ID": "2007-047A",
-        "EPOCH": "2025-11-29T07:00:29.684736",
-        "MEAN_MOTION": 2.00565027,
-        "ECCENTRICITY": 0.01644207,
-        "INCLINATION": 53.9457,
-        "RA_OF_ASC_NODE": 88.314,
-        "ARG_OF_PERICENTER": 85.0855,
-        "MEAN_ANOMALY": 276.7799,
+        "EPOCH": "2025-11-29T18:58:26.202720",
+        "MEAN_MOTION": 2.00564988,
+        "ECCENTRICITY": 0.0164411,
+        "INCLINATION": 53.9462,
+        "RA_OF_ASC_NODE": 88.2935,
+        "ARG_OF_PERICENTER": 85.0909,
+        "MEAN_ANOMALY": 276.7728,
         "EPHEMERIS_TYPE": 0,
         "CLASSIFICATION_TYPE": "U",
         "NORAD_CAT_ID": 32260,
         "ELEMENT_SET_NO": 999,
-        "REV_AT_EPOCH": 13280,
+        "REV_AT_EPOCH": 13281,
         "BSTAR": 0,
-        "MEAN_MOTION_DOT": 1.5e-07,
+        "MEAN_MOTION_DOT": 1.1e-07,
         "MEAN_MOTION_DDOT": 0,
         "norad_id": 32260,
         "name": "GPS BIIRM-4 (PRN 15)",
@@ -361,7 +361,7 @@
         "latitude_deg": NaN,
         "alt_km": NaN,
         "orbit_class": "HEO",
-        "timestamp": "2025-11-30T07:29:52.806881+00:00"
+        "timestamp": "2025-11-30T08:43:09.297643+00:00"
       },
       "geometry": {
         "type": "Point",
@@ -376,20 +376,20 @@
       "properties": {
         "OBJECT_NAME": "GPS BIIRM-5 (PRN 29)",
         "OBJECT_ID": "2007-062A",
-        "EPOCH": "2025-11-29T05:59:25.546272",
-        "MEAN_MOTION": 2.00576535,
-        "ECCENTRICITY": 0.00321913,
-        "INCLINATION": 55.1942,
-        "RA_OF_ASC_NODE": 282.1872,
-        "ARG_OF_PERICENTER": 162.9775,
-        "MEAN_ANOMALY": 296.9493,
+        "EPOCH": "2025-11-30T01:46:38.777088",
+        "MEAN_MOTION": 2.0057652,
+        "ECCENTRICITY": 0.00322,
+        "INCLINATION": 55.1935,
+        "RA_OF_ASC_NODE": 282.1541,
+        "ARG_OF_PERICENTER": 162.9568,
+        "MEAN_ANOMALY": 172.309,
         "EPHEMERIS_TYPE": 0,
         "CLASSIFICATION_TYPE": "U",
         "NORAD_CAT_ID": 32384,
         "ELEMENT_SET_NO": 999,
-        "REV_AT_EPOCH": 13150,
+        "REV_AT_EPOCH": 13151,
         "BSTAR": 0,
-        "MEAN_MOTION_DOT": -3.5e-07,
+        "MEAN_MOTION_DOT": -3.9e-07,
         "MEAN_MOTION_DDOT": 0,
         "norad_id": 32384,
         "name": "GPS BIIRM-5 (PRN 29)",
@@ -398,7 +398,7 @@
         "latitude_deg": NaN,
         "alt_km": NaN,
         "orbit_class": "HEO",
-        "timestamp": "2025-11-30T07:29:52.806951+00:00"
+        "timestamp": "2025-11-30T08:43:09.297713+00:00"
       },
       "geometry": {
         "type": "Point",
@@ -435,7 +435,7 @@
         "latitude_deg": NaN,
         "alt_km": NaN,
         "orbit_class": "HEO",
-        "timestamp": "2025-11-30T07:29:52.806999+00:00"
+        "timestamp": "2025-11-30T08:43:09.297762+00:00"
       },
       "geometry": {
         "type": "Point",
@@ -472,7 +472,7 @@
         "latitude_deg": NaN,
         "alt_km": NaN,
         "orbit_class": "HEO",
-        "timestamp": "2025-11-30T07:29:52.807413+00:00"
+        "timestamp": "2025-11-30T08:43:09.298184+00:00"
       },
       "geometry": {
         "type": "Point",
@@ -487,20 +487,20 @@
       "properties": {
         "OBJECT_NAME": "GPS BIIF-1  (PRN 25)",
         "OBJECT_ID": "2010-022A",
-        "EPOCH": "2025-11-29T06:39:07.862112",
-        "MEAN_MOTION": 2.00552436,
-        "ECCENTRICITY": 0.0125526,
+        "EPOCH": "2025-11-30T00:41:25.780704",
+        "MEAN_MOTION": 2.0055246,
+        "ECCENTRICITY": 0.012556,
         "INCLINATION": 54.3028,
-        "RA_OF_ASC_NODE": 216.617,
-        "ARG_OF_PERICENTER": 64.9233,
-        "MEAN_ANOMALY": 118.7699,
+        "RA_OF_ASC_NODE": 216.5867,
+        "ARG_OF_PERICENTER": 64.9325,
+        "MEAN_ANOMALY": 301.4244,
         "EPHEMERIS_TYPE": 0,
         "CLASSIFICATION_TYPE": "U",
         "NORAD_CAT_ID": 36585,
         "ELEMENT_SET_NO": 999,
-        "REV_AT_EPOCH": 11358,
+        "REV_AT_EPOCH": 11360,
         "BSTAR": 0,
-        "MEAN_MOTION_DOT": 4.2e-07,
+        "MEAN_MOTION_DOT": 4.9e-07,
         "MEAN_MOTION_DDOT": 0,
         "norad_id": 36585,
         "name": "GPS BIIF-1  (PRN 25)",
@@ -509,7 +509,7 @@
         "latitude_deg": NaN,
         "alt_km": NaN,
         "orbit_class": "HEO",
-        "timestamp": "2025-11-30T07:29:52.807690+00:00"
+        "timestamp": "2025-11-30T08:43:09.298475+00:00"
       },
       "geometry": {
         "type": "Point",
@@ -524,20 +524,20 @@
       "properties": {
         "OBJECT_NAME": "GPS BIIF-3  (PRN 24)",
         "OBJECT_ID": "2012-053A",
-        "EPOCH": "2025-11-28T09:25:21.604224",
-        "MEAN_MOTION": 2.00564842,
-        "ECCENTRICITY": 0.01753726,
-        "INCLINATION": 53.5552,
-        "RA_OF_ASC_NODE": 151.8264,
-        "ARG_OF_PERICENTER": 63.7837,
-        "MEAN_ANOMALY": 298.047,
+        "EPOCH": "2025-11-29T21:19:11.965152",
+        "MEAN_MOTION": 2.00564833,
+        "ECCENTRICITY": 0.0175416,
+        "INCLINATION": 53.5554,
+        "RA_OF_ASC_NODE": 151.7651,
+        "ARG_OF_PERICENTER": 63.8108,
+        "MEAN_ANOMALY": 298.023,
         "EPHEMERIS_TYPE": 0,
         "CLASSIFICATION_TYPE": "U",
         "NORAD_CAT_ID": 38833,
         "ELEMENT_SET_NO": 999,
-        "REV_AT_EPOCH": 9541,
+        "REV_AT_EPOCH": 9544,
         "BSTAR": 0,
-        "MEAN_MOTION_DOT": 1.17e-06,
+        "MEAN_MOTION_DOT": 1.24e-06,
         "MEAN_MOTION_DDOT": 0,
         "norad_id": 38833,
         "name": "GPS BIIF-3  (PRN 24)",
@@ -546,7 +546,7 @@
         "latitude_deg": NaN,
         "alt_km": NaN,
         "orbit_class": "HEO",
-        "timestamp": "2025-11-30T07:29:52.808732+00:00"
+        "timestamp": "2025-11-30T08:43:09.299559+00:00"
       },
       "geometry": {
         "type": "Point",
@@ -583,7 +583,7 @@
         "latitude_deg": NaN,
         "alt_km": NaN,
         "orbit_class": "HEO",
-        "timestamp": "2025-11-30T07:29:52.809083+00:00"
+        "timestamp": "2025-11-30T08:43:09.299927+00:00"
       },
       "geometry": {
         "type": "Point",
@@ -620,7 +620,7 @@
         "latitude_deg": NaN,
         "alt_km": NaN,
         "orbit_class": "HEO",
-        "timestamp": "2025-11-30T07:29:52.809604+00:00"
+        "timestamp": "2025-11-30T08:43:09.300459+00:00"
       },
       "geometry": {
         "type": "Point",
@@ -635,20 +635,20 @@
       "properties": {
         "OBJECT_NAME": "GPS BIIF-6  (PRN 06)",
         "OBJECT_ID": "2014-026A",
-        "EPOCH": "2025-11-29T00:46:05.271744",
-        "MEAN_MOTION": 2.00562236,
-        "ECCENTRICITY": 0.00387773,
-        "INCLINATION": 56.5886,
-        "RA_OF_ASC_NODE": 339.31,
-        "ARG_OF_PERICENTER": 317.9749,
-        "MEAN_ANOMALY": 41.7627,
+        "EPOCH": "2025-11-30T00:42:01.113984",
+        "MEAN_MOTION": 2.00562134,
+        "ECCENTRICITY": 0.003881,
+        "INCLINATION": 56.5883,
+        "RA_OF_ASC_NODE": 339.2712,
+        "ARG_OF_PERICENTER": 318.0175,
+        "MEAN_ANOMALY": 41.7196,
         "EPHEMERIS_TYPE": 0,
         "CLASSIFICATION_TYPE": "U",
         "NORAD_CAT_ID": 39741,
         "ELEMENT_SET_NO": 999,
-        "REV_AT_EPOCH": 8452,
+        "REV_AT_EPOCH": 8454,
         "BSTAR": 0,
-        "MEAN_MOTION_DOT": -4.8e-07,
+        "MEAN_MOTION_DOT": -4.9e-07,
         "MEAN_MOTION_DDOT": 0,
         "norad_id": 39741,
         "name": "GPS BIIF-6  (PRN 06)",
@@ -657,7 +657,7 @@
         "latitude_deg": NaN,
         "alt_km": NaN,
         "orbit_class": "HEO",
-        "timestamp": "2025-11-30T07:29:52.809692+00:00"
+        "timestamp": "2025-11-30T08:43:09.300557+00:00"
       },
       "geometry": {
         "type": "Point",
@@ -694,7 +694,7 @@
         "latitude_deg": NaN,
         "alt_km": NaN,
         "orbit_class": "HEO",
-        "timestamp": "2025-11-30T07:29:52.810013+00:00"
+        "timestamp": "2025-11-30T08:43:09.300899+00:00"
       },
       "geometry": {
         "type": "Point",
@@ -731,7 +731,7 @@
         "latitude_deg": NaN,
         "alt_km": NaN,
         "orbit_class": "HEO",
-        "timestamp": "2025-11-30T07:29:52.810202+00:00"
+        "timestamp": "2025-11-30T08:43:09.301105+00:00"
       },
       "geometry": {
         "type": "Point",
@@ -746,20 +746,20 @@
       "properties": {
         "OBJECT_NAME": "GPS BIIF-9  (PRN 26)",
         "OBJECT_ID": "2015-013A",
-        "EPOCH": "2025-11-29T03:03:50.076288",
-        "MEAN_MOTION": 2.00563167,
-        "ECCENTRICITY": 0.01064439,
-        "INCLINATION": 53.2001,
-        "RA_OF_ASC_NODE": 212.454,
-        "ARG_OF_PERICENTER": 38.1452,
-        "MEAN_ANOMALY": 322.6861,
+        "EPOCH": "2025-11-30T02:59:43.742976",
+        "MEAN_MOTION": 2.00563289,
+        "ECCENTRICITY": 0.0106477,
+        "INCLINATION": 53.2,
+        "RA_OF_ASC_NODE": 212.4127,
+        "ARG_OF_PERICENTER": 38.1641,
+        "MEAN_ANOMALY": 322.6698,
         "EPHEMERIS_TYPE": 0,
         "CLASSIFICATION_TYPE": "U",
         "NORAD_CAT_ID": 40534,
         "ELEMENT_SET_NO": 999,
-        "REV_AT_EPOCH": 7781,
+        "REV_AT_EPOCH": 7783,
         "BSTAR": 0,
-        "MEAN_MOTION_DOT": 4.8e-07,
+        "MEAN_MOTION_DOT": 5.7e-07,
         "MEAN_MOTION_DDOT": 0,
         "norad_id": 40534,
         "name": "GPS BIIF-9  (PRN 26)",
@@ -768,7 +768,7 @@
         "latitude_deg": NaN,
         "alt_km": NaN,
         "orbit_class": "HEO",
-        "timestamp": "2025-11-30T07:29:52.810409+00:00"
+        "timestamp": "2025-11-30T08:43:09.301319+00:00"
       },
       "geometry": {
         "type": "Point",
@@ -805,7 +805,7 @@
         "latitude_deg": NaN,
         "alt_km": NaN,
         "orbit_class": "HEO",
-        "timestamp": "2025-11-30T07:29:52.810533+00:00"
+        "timestamp": "2025-11-30T08:43:09.301451+00:00"
       },
       "geometry": {
         "type": "Point",
@@ -820,20 +820,20 @@
       "properties": {
         "OBJECT_NAME": "GPS BIIF-11 (PRN 10)",
         "OBJECT_ID": "2015-062A",
-        "EPOCH": "2025-11-28T20:23:44.672640",
-        "MEAN_MOTION": 2.00567008,
-        "ECCENTRICITY": 0.01104043,
-        "INCLINATION": 56.8221,
-        "RA_OF_ASC_NODE": 38.5398,
-        "ARG_OF_PERICENTER": 229.567,
-        "MEAN_ANOMALY": 129.5137,
+        "EPOCH": "2025-11-29T20:19:38.444736",
+        "MEAN_MOTION": 2.00566933,
+        "ECCENTRICITY": 0.0110435,
+        "INCLINATION": 56.8229,
+        "RA_OF_ASC_NODE": 38.5012,
+        "ARG_OF_PERICENTER": 229.5951,
+        "MEAN_ANOMALY": 129.4841,
         "EPHEMERIS_TYPE": 0,
         "CLASSIFICATION_TYPE": "U",
         "NORAD_CAT_ID": 41019,
         "ELEMENT_SET_NO": 999,
-        "REV_AT_EPOCH": 7381,
+        "REV_AT_EPOCH": 7383,
         "BSTAR": 0,
-        "MEAN_MOTION_DOT": -6e-07,
+        "MEAN_MOTION_DOT": -6.2e-07,
         "MEAN_MOTION_DDOT": 0,
         "norad_id": 41019,
         "name": "GPS BIIF-11 (PRN 10)",
@@ -842,7 +842,7 @@
         "latitude_deg": NaN,
         "alt_km": NaN,
         "orbit_class": "HEO",
-        "timestamp": "2025-11-30T07:29:52.810814+00:00"
+        "timestamp": "2025-11-30T08:43:09.301761+00:00"
       },
       "geometry": {
         "type": "Point",
@@ -857,20 +857,20 @@
       "properties": {
         "OBJECT_NAME": "GPS BIIF-12 (PRN 32)",
         "OBJECT_ID": "2016-007A",
-        "EPOCH": "2025-11-28T22:22:09.037920",
-        "MEAN_MOTION": 2.00561412,
-        "ECCENTRICITY": 0.00914967,
-        "INCLINATION": 55.3982,
-        "RA_OF_ASC_NODE": 97.4052,
-        "ARG_OF_PERICENTER": 243.2365,
-        "MEAN_ANOMALY": 115.8161,
+        "EPOCH": "2025-11-29T22:18:04.286592",
+        "MEAN_MOTION": 2.00561276,
+        "ECCENTRICITY": 0.0091544,
+        "INCLINATION": 55.3987,
+        "RA_OF_ASC_NODE": 97.3656,
+        "ARG_OF_PERICENTER": 243.2609,
+        "MEAN_ANOMALY": 115.788,
         "EPHEMERIS_TYPE": 0,
         "CLASSIFICATION_TYPE": "U",
         "NORAD_CAT_ID": 41328,
         "ELEMENT_SET_NO": 999,
-        "REV_AT_EPOCH": 7182,
+        "REV_AT_EPOCH": 7184,
         "BSTAR": 0,
-        "MEAN_MOTION_DOT": 4.1e-07,
+        "MEAN_MOTION_DOT": 3.3e-07,
         "MEAN_MOTION_DDOT": 0,
         "norad_id": 41328,
         "name": "GPS BIIF-12 (PRN 32)",
@@ -879,7 +879,7 @@
         "latitude_deg": NaN,
         "alt_km": NaN,
         "orbit_class": "HEO",
-        "timestamp": "2025-11-30T07:29:52.811015+00:00"
+        "timestamp": "2025-11-30T08:43:09.301972+00:00"
       },
       "geometry": {
         "type": "Point",
@@ -894,20 +894,20 @@
       "properties": {
         "OBJECT_NAME": "GPS BIII-1  (PRN 04)",
         "OBJECT_ID": "2018-109A",
-        "EPOCH": "2025-11-29T14:12:14.739264",
-        "MEAN_MOTION": 2.00553144,
+        "EPOCH": "2025-11-30T01:54:00.521280",
+        "MEAN_MOTION": 2.00553137,
         "ECCENTRICITY": 0.0037185,
         "INCLINATION": 55.5593,
-        "RA_OF_ASC_NODE": 100.0665,
-        "ARG_OF_PERICENTER": 194.4118,
-        "MEAN_ANOMALY": 176.0405,
+        "RA_OF_ASC_NODE": 100.0473,
+        "ARG_OF_PERICENTER": 194.4195,
+        "MEAN_ANOMALY": 167.895,
         "EPHEMERIS_TYPE": 0,
         "CLASSIFICATION_TYPE": "U",
         "NORAD_CAT_ID": 43873,
         "ELEMENT_SET_NO": 999,
-        "REV_AT_EPOCH": 5107,
+        "REV_AT_EPOCH": 5108,
         "BSTAR": 0,
-        "MEAN_MOTION_DOT": 4.3e-07,
+        "MEAN_MOTION_DOT": 3.9e-07,
         "MEAN_MOTION_DDOT": 0,
         "norad_id": 43873,
         "name": "GPS BIII-1  (PRN 04)",
@@ -916,7 +916,7 @@
         "latitude_deg": NaN,
         "alt_km": NaN,
         "orbit_class": "HEO",
-        "timestamp": "2025-11-30T07:29:52.813753+00:00"
+        "timestamp": "2025-11-30T08:43:09.304874+00:00"
       },
       "geometry": {
         "type": "Point",
@@ -953,7 +953,7 @@
         "latitude_deg": NaN,
         "alt_km": NaN,
         "orbit_class": "HEO",
-        "timestamp": "2025-11-30T07:29:52.814348+00:00"
+        "timestamp": "2025-11-30T08:43:09.305483+00:00"
       },
       "geometry": {
         "type": "Point",
@@ -968,20 +968,20 @@
       "properties": {
         "OBJECT_NAME": "GPS BIII-3  (PRN 23)",
         "OBJECT_ID": "2020-041A",
-        "EPOCH": "2025-11-29T05:55:43.545792",
-        "MEAN_MOTION": 2.00561981,
-        "ECCENTRICITY": 0.00602012,
-        "INCLINATION": 56.5373,
-        "RA_OF_ASC_NODE": 36.7123,
-        "ARG_OF_PERICENTER": 202.8015,
-        "MEAN_ANOMALY": 119.3931,
+        "EPOCH": "2025-11-30T00:45:17.082144",
+        "MEAN_MOTION": 2.00561909,
+        "ECCENTRICITY": 0.0060212,
+        "INCLINATION": 56.538,
+        "RA_OF_ASC_NODE": 36.6817,
+        "ARG_OF_PERICENTER": 202.8412,
+        "MEAN_ANOMALY": 325.733,
         "EPHEMERIS_TYPE": 0,
         "CLASSIFICATION_TYPE": "U",
         "NORAD_CAT_ID": 45854,
         "ELEMENT_SET_NO": 999,
-        "REV_AT_EPOCH": 4002,
+        "REV_AT_EPOCH": 4004,
         "BSTAR": 0,
-        "MEAN_MOTION_DOT": -6.2e-07,
+        "MEAN_MOTION_DOT": -6.4e-07,
         "MEAN_MOTION_DDOT": 0,
         "norad_id": 45854,
         "name": "GPS BIII-3  (PRN 23)",
@@ -990,7 +990,7 @@
         "latitude_deg": NaN,
         "alt_km": NaN,
         "orbit_class": "HEO",
-        "timestamp": "2025-11-30T07:29:52.816762+00:00"
+        "timestamp": "2025-11-30T08:43:09.308137+00:00"
       },
       "geometry": {
         "type": "Point",
@@ -1027,7 +1027,7 @@
         "latitude_deg": NaN,
         "alt_km": NaN,
         "orbit_class": "HEO",
-        "timestamp": "2025-11-30T07:29:52.818239+00:00"
+        "timestamp": "2025-11-30T08:43:09.309630+00:00"
       },
       "geometry": {
         "type": "Point",
@@ -1042,20 +1042,20 @@
       "properties": {
         "OBJECT_NAME": "GPS BIII-5  (PRN 11)",
         "OBJECT_ID": "2021-054A",
-        "EPOCH": "2025-11-25T14:18:50.950656",
-        "MEAN_MOTION": 2.00554567,
-        "ECCENTRICITY": 0.00245163,
-        "INCLINATION": 55.2621,
-        "RA_OF_ASC_NODE": 340.6434,
-        "ARG_OF_PERICENTER": 232.882,
-        "MEAN_ANOMALY": 130.1957,
+        "EPOCH": "2025-11-29T20:53:56.447808",
+        "MEAN_MOTION": 2.00554013,
+        "ECCENTRICITY": 0.0024628,
+        "INCLINATION": 55.2609,
+        "RA_OF_ASC_NODE": 340.4719,
+        "ARG_OF_PERICENTER": 233.0444,
+        "MEAN_ANOMALY": 336.1913,
         "EPHEMERIS_TYPE": 0,
         "CLASSIFICATION_TYPE": "U",
         "NORAD_CAT_ID": 48859,
         "ELEMENT_SET_NO": 999,
-        "REV_AT_EPOCH": 3267,
+        "REV_AT_EPOCH": 3275,
         "BSTAR": 0,
-        "MEAN_MOTION_DOT": -5.9e-07,
+        "MEAN_MOTION_DOT": -5.3e-07,
         "MEAN_MOTION_DDOT": 0,
         "norad_id": 48859,
         "name": "GPS BIII-5  (PRN 11)",
@@ -1064,7 +1064,7 @@
         "latitude_deg": NaN,
         "alt_km": NaN,
         "orbit_class": "HEO",
-        "timestamp": "2025-11-30T07:29:52.822848+00:00"
+        "timestamp": "2025-11-30T08:43:09.314369+00:00"
       },
       "geometry": {
         "type": "Point",
@@ -1079,20 +1079,20 @@
       "properties": {
         "OBJECT_NAME": "GPS BIII-6  (PRN 28)",
         "OBJECT_ID": "2023-009A",
-        "EPOCH": "2025-11-29T00:34:42.341952",
-        "MEAN_MOTION": 2.00556767,
-        "ECCENTRICITY": 0.00035619,
-        "INCLINATION": 55.1039,
-        "RA_OF_ASC_NODE": 156.3846,
-        "ARG_OF_PERICENTER": 0.1395,
-        "MEAN_ANOMALY": 0.0055,
+        "EPOCH": "2025-11-30T00:32:38.314752",
+        "MEAN_MOTION": 2.00556632,
+        "ECCENTRICITY": 0.0003483,
+        "INCLINATION": 55.1054,
+        "RA_OF_ASC_NODE": 156.3454,
+        "ARG_OF_PERICENTER": 359.6796,
+        "MEAN_ANOMALY": 1.4566,
         "EPHEMERIS_TYPE": 0,
         "CLASSIFICATION_TYPE": "U",
         "NORAD_CAT_ID": 55268,
         "ELEMENT_SET_NO": 999,
-        "REV_AT_EPOCH": 2123,
+        "REV_AT_EPOCH": 2125,
         "BSTAR": 0,
-        "MEAN_MOTION_DOT": 1.25e-06,
+        "MEAN_MOTION_DOT": 1.29e-06,
         "MEAN_MOTION_DDOT": 0,
         "norad_id": 55268,
         "name": "GPS BIII-6  (PRN 28)",
@@ -1101,7 +1101,7 @@
         "latitude_deg": NaN,
         "alt_km": NaN,
         "orbit_class": "HEO",
-        "timestamp": "2025-11-30T07:29:52.838887+00:00"
+        "timestamp": "2025-11-30T08:43:09.330893+00:00"
       },
       "geometry": {
         "type": "Point",
@@ -1138,7 +1138,7 @@
         "latitude_deg": NaN,
         "alt_km": NaN,
         "orbit_class": "HEO",
-        "timestamp": "2025-11-30T07:29:52.871992+00:00"
+        "timestamp": "2025-11-30T08:43:09.364386+00:00"
       },
       "geometry": {
         "type": "Point",
@@ -1175,7 +1175,7 @@
         "latitude_deg": NaN,
         "alt_km": NaN,
         "orbit_class": "HEO",
-        "timestamp": "2025-11-30T07:29:52.883902+00:00"
+        "timestamp": "2025-11-30T08:43:09.376379+00:00"
       },
       "geometry": {
         "type": "Point",

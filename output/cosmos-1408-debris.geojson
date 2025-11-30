@@ -28,7 +28,7 @@
         "latitude_deg": NaN,
         "alt_km": NaN,
         "orbit_class": "HEO",
-        "timestamp": "2025-11-30T07:29:52.897428+00:00"
+        "timestamp": "2025-11-30T08:43:09.390077+00:00"
       },
       "geometry": {
         "type": "Point",
@@ -65,7 +65,7 @@
         "latitude_deg": NaN,
         "alt_km": NaN,
         "orbit_class": "HEO",
-        "timestamp": "2025-11-30T07:29:52.897435+00:00"
+        "timestamp": "2025-11-30T08:43:09.390084+00:00"
       },
       "geometry": {
         "type": "Point",
@@ -102,7 +102,7 @@
         "latitude_deg": NaN,
         "alt_km": NaN,
         "orbit_class": "HEO",
-        "timestamp": "2025-11-30T07:29:52.897443+00:00"
+        "timestamp": "2025-11-30T08:43:09.390090+00:00"
       },
       "geometry": {
         "type": "Point",
@@ -117,20 +117,20 @@
       "properties": {
         "OBJECT_NAME": "COSMOS 1408 DEB",
         "OBJECT_ID": "1982-092ADS",
-        "EPOCH": "2025-11-29T18:10:53.753376",
-        "MEAN_MOTION": 15.11177832,
-        "ECCENTRICITY": 0.0178127,
-        "INCLINATION": 82.2066,
-        "RA_OF_ASC_NODE": 228.2964,
-        "ARG_OF_PERICENTER": 243.964,
-        "MEAN_ANOMALY": 114.3157,
+        "EPOCH": "2025-11-30T03:42:59.236128",
+        "MEAN_MOTION": 15.11248247,
+        "ECCENTRICITY": 0.0177948,
+        "INCLINATION": 82.2068,
+        "RA_OF_ASC_NODE": 227.8917,
+        "ARG_OF_PERICENTER": 242.5597,
+        "MEAN_ANOMALY": 115.744,
         "EPHEMERIS_TYPE": 0,
         "CLASSIFICATION_TYPE": "U",
         "NORAD_CAT_ID": 50404,
         "ELEMENT_SET_NO": 999,
-        "REV_AT_EPOCH": 20997,
-        "BSTAR": 0.0028473,
-        "MEAN_MOTION_DOT": 0.0007072,
+        "REV_AT_EPOCH": 21003,
+        "BSTAR": 0.0031793,
+        "MEAN_MOTION_DOT": 0.00079147,
         "MEAN_MOTION_DDOT": 0,
         "norad_id": 50404,
         "name": "COSMOS 1408 DEB",
@@ -139,7 +139,7 @@
         "latitude_deg": NaN,
         "alt_km": NaN,
         "orbit_class": "HEO",
-        "timestamp": "2025-11-30T07:29:52.897452+00:00"
+        "timestamp": "2025-11-30T08:43:09.390097+00:00"
       },
       "geometry": {
         "type": "Point",
@@ -176,7 +176,7 @@
         "latitude_deg": NaN,
         "alt_km": NaN,
         "orbit_class": "HEO",
-        "timestamp": "2025-11-30T07:29:52.897460+00:00"
+        "timestamp": "2025-11-30T08:43:09.390107+00:00"
       },
       "geometry": {
         "type": "Point",

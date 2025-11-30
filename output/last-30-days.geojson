@@ -6,21 +6,21 @@
       "properties": {
         "OBJECT_NAME": "LVM3 R/B",
         "OBJECT_ID": "2025-249A",
-        "EPOCH": "2025-11-29T18:02:21.835104",
-        "MEAN_MOTION": 3.14125252,
-        "ECCENTRICITY": 0.6669654,
-        "INCLINATION": 21.3457,
-        "RA_OF_ASC_NODE": 144.9172,
-        "ARG_OF_PERICENTER": 206.3917,
-        "MEAN_ANOMALY": 93.2369,
+        "EPOCH": "2025-11-30T01:39:41.510880",
+        "MEAN_MOTION": 3.14154353,
+        "ECCENTRICITY": 0.6669483,
+        "INCLINATION": 21.3469,
+        "RA_OF_ASC_NODE": 144.7332,
+        "ARG_OF_PERICENTER": 206.7231,
+        "MEAN_ANOMALY": 92.3964,
         "EPHEMERIS_TYPE": 0,
         "CLASSIFICATION_TYPE": "U",
         "NORAD_CAT_ID": 66310,
         "ELEMENT_SET_NO": 999,
-        "REV_AT_EPOCH": 87,
-        "BSTAR": 0.0012597,
-        "MEAN_MOTION_DOT": 0.00045516,
-        "MEAN_MOTION_DDOT": 4.1959e-07,
+        "REV_AT_EPOCH": 88,
+        "BSTAR": 0.0013035,
+        "MEAN_MOTION_DOT": 0.00047337,
+        "MEAN_MOTION_DDOT": 2.763e-07,
         "norad_id": 66310,
         "name": "LVM3 R/B",
         "group": "last-30-days",
@@ -28,7 +28,7 @@
         "latitude_deg": NaN,
         "alt_km": NaN,
         "orbit_class": "HEO",
-        "timestamp": "2025-11-30T07:29:52.803269+00:00"
+        "timestamp": "2025-11-30T08:43:09.293849+00:00"
       },
       "geometry": {
         "type": "Point",
@@ -65,7 +65,7 @@
         "latitude_deg": NaN,
         "alt_km": NaN,
         "orbit_class": "HEO",
-        "timestamp": "2025-11-30T07:29:52.803304+00:00"
+        "timestamp": "2025-11-30T08:43:09.293889+00:00"
       },
       "geometry": {
         "type": "Point",
@@ -80,21 +80,21 @@
       "properties": {
         "OBJECT_NAME": "ELECTRON KICK STAGE R/B",
         "OBJECT_ID": "2025-252C",
-        "EPOCH": "2025-11-28T20:01:40.577952",
-        "MEAN_MOTION": 16.14662358,
-        "ECCENTRICITY": 0.0075856,
-        "INCLINATION": 41.9729,
-        "RA_OF_ASC_NODE": 135.2417,
-        "ARG_OF_PERICENTER": 196.8169,
-        "MEAN_ANOMALY": 163.018,
+        "EPOCH": "2025-11-29T21:10:35.967936",
+        "MEAN_MOTION": 16.27204594,
+        "ECCENTRICITY": 0.0048366,
+        "INCLINATION": 41.9678,
+        "RA_OF_ASC_NODE": 128.3366,
+        "ARG_OF_PERICENTER": 209.2072,
+        "MEAN_ANOMALY": 150.6092,
         "EPHEMERIS_TYPE": 0,
         "CLASSIFICATION_TYPE": "U",
         "NORAD_CAT_ID": 66318,
         "ELEMENT_SET_NO": 999,
-        "REV_AT_EPOCH": 363,
-        "BSTAR": 0.0018407389,
-        "MEAN_MOTION_DOT": 0.04297845,
-        "MEAN_MOTION_DDOT": 7.855067e-06,
+        "REV_AT_EPOCH": 380,
+        "BSTAR": 0.0014467,
+        "MEAN_MOTION_DOT": 0.07609678,
+        "MEAN_MOTION_DDOT": 7.8949e-06,
         "norad_id": 66318,
         "name": "ELECTRON KICK STAGE R/B",
         "group": "last-30-days",
@@ -102,7 +102,7 @@
         "latitude_deg": NaN,
         "alt_km": NaN,
         "orbit_class": "HEO",
-        "timestamp": "2025-11-30T07:29:52.803310+00:00"
+        "timestamp": "2025-11-30T08:43:09.293896+00:00"
       },
       "geometry": {
         "type": "Point",
@@ -117,20 +117,20 @@
       "properties": {
         "OBJECT_NAME": "CZ-11 DEB",
         "OBJECT_ID": "2025-255B",
-        "EPOCH": "2025-11-29T20:24:01.512000",
-        "MEAN_MOTION": 15.43210548,
-        "ECCENTRICITY": 0.0014026,
+        "EPOCH": "2025-11-30T02:37:03.334368",
+        "MEAN_MOTION": 15.4323529,
+        "ECCENTRICITY": 0.0013993,
         "INCLINATION": 52.9962,
-        "RA_OF_ASC_NODE": 239.2229,
-        "ARG_OF_PERICENTER": 0.0752,
-        "MEAN_ANOMALY": 0.0252,
+        "RA_OF_ASC_NODE": 237.9909,
+        "ARG_OF_PERICENTER": 0.9113,
+        "MEAN_ANOMALY": 359.1915,
         "EPHEMERIS_TYPE": 0,
         "CLASSIFICATION_TYPE": "U",
         "NORAD_CAT_ID": 66377,
         "ELEMENT_SET_NO": 999,
-        "REV_AT_EPOCH": 322,
-        "BSTAR": 0.00082832,
-        "MEAN_MOTION_DOT": 0.0003723,
+        "REV_AT_EPOCH": 326,
+        "BSTAR": 0.00094232,
+        "MEAN_MOTION_DOT": 0.00042477,
         "MEAN_MOTION_DDOT": 0,
         "norad_id": 66377,
         "name": "CZ-11 DEB",
@@ -139,7 +139,7 @@
         "latitude_deg": NaN,
         "alt_km": NaN,
         "orbit_class": "HEO",
-        "timestamp": "2025-11-30T07:29:52.803691+00:00"
+        "timestamp": "2025-11-30T08:43:09.294283+00:00"
       },
       "geometry": {
         "type": "Point",
@@ -154,20 +154,20 @@
       "properties": {
         "OBJECT_NAME": "SHIYAN-32 03",
         "OBJECT_ID": "2025-255D",
-        "EPOCH": "2025-11-29T20:30:13.106304",
-        "MEAN_MOTION": 15.42465543,
-        "ECCENTRICITY": 0.0015337,
-        "INCLINATION": 52.997,
-        "RA_OF_ASC_NODE": 239.2508,
-        "ARG_OF_PERICENTER": 3.3447,
-        "MEAN_ANOMALY": 356.7657,
+        "EPOCH": "2025-11-30T01:10:07.678272",
+        "MEAN_MOTION": 15.42476268,
+        "ECCENTRICITY": 0.001537,
+        "INCLINATION": 52.9971,
+        "RA_OF_ASC_NODE": 238.3278,
+        "ARG_OF_PERICENTER": 3.9387,
+        "MEAN_ANOMALY": 356.1736,
         "EPHEMERIS_TYPE": 0,
         "CLASSIFICATION_TYPE": "U",
         "NORAD_CAT_ID": 66379,
         "ELEMENT_SET_NO": 999,
-        "REV_AT_EPOCH": 324,
-        "BSTAR": 0.00042349,
-        "MEAN_MOTION_DOT": 0.00018319,
+        "REV_AT_EPOCH": 327,
+        "BSTAR": 0.00051189,
+        "MEAN_MOTION_DOT": 0.00022252,
         "MEAN_MOTION_DDOT": 0,
         "norad_id": 66379,
         "name": "SHIYAN-32 03",
@@ -176,7 +176,7 @@
         "latitude_deg": NaN,
         "alt_km": NaN,
         "orbit_class": "HEO",
-        "timestamp": "2025-11-30T07:29:52.803703+00:00"
+        "timestamp": "2025-11-30T08:43:09.294297+00:00"
       },
       "geometry": {
         "type": "Point",
@@ -213,7 +213,7 @@
         "latitude_deg": NaN,
         "alt_km": NaN,
         "orbit_class": "HEO",
-        "timestamp": "2025-11-30T07:29:52.803900+00:00"
+        "timestamp": "2025-11-30T08:43:09.294503+00:00"
       },
       "geometry": {
         "type": "Point",
@@ -250,7 +250,7 @@
         "latitude_deg": NaN,
         "alt_km": NaN,
         "orbit_class": "HEO",
-        "timestamp": "2025-11-30T07:29:52.803963+00:00"
+        "timestamp": "2025-11-30T08:43:09.294572+00:00"
       },
       "geometry": {
         "type": "Point",
@@ -287,7 +287,7 @@
         "latitude_deg": NaN,
         "alt_km": NaN,
         "orbit_class": "HEO",
-        "timestamp": "2025-11-30T07:29:52.804174+00:00"
+        "timestamp": "2025-11-30T08:43:09.294813+00:00"
       },
       "geometry": {
         "type": "Point",
@@ -302,20 +302,20 @@
       "properties": {
         "OBJECT_NAME": "CZ-2C R/B",
         "OBJECT_ID": "2025-266D",
-        "EPOCH": "2025-11-29T14:28:22.414944",
-        "MEAN_MOTION": 15.2973685,
-        "ECCENTRICITY": 0.0085127,
-        "INCLINATION": 52.0551,
-        "RA_OF_ASC_NODE": 33.8463,
-        "ARG_OF_PERICENTER": 128.2643,
-        "MEAN_ANOMALY": 232.6041,
+        "EPOCH": "2025-11-30T03:00:57.909600",
+        "MEAN_MOTION": 15.29752281,
+        "ECCENTRICITY": 0.0085086,
+        "INCLINATION": 52.055,
+        "RA_OF_ASC_NODE": 31.3579,
+        "ARG_OF_PERICENTER": 130.061,
+        "MEAN_ANOMALY": 230.7878,
         "EPHEMERIS_TYPE": 0,
         "CLASSIFICATION_TYPE": "U",
         "NORAD_CAT_ID": 66548,
         "ELEMENT_SET_NO": 999,
-        "REV_AT_EPOCH": 160,
-        "BSTAR": 0.0003665,
-        "MEAN_MOTION_DOT": 0.00011571,
+        "REV_AT_EPOCH": 168,
+        "BSTAR": 0.00042226,
+        "MEAN_MOTION_DOT": 0.00013405,
         "MEAN_MOTION_DDOT": 0,
         "norad_id": 66548,
         "name": "CZ-2C R/B",
@@ -324,7 +324,7 @@
         "latitude_deg": NaN,
         "alt_km": NaN,
         "orbit_class": "HEO",
-        "timestamp": "2025-11-30T07:29:52.804789+00:00"
+        "timestamp": "2025-11-30T08:43:09.295435+00:00"
       },
       "geometry": {
         "type": "Point",
@@ -361,7 +361,7 @@
         "latitude_deg": NaN,
         "alt_km": NaN,
         "orbit_class": "HEO",
-        "timestamp": "2025-11-30T07:29:52.804803+00:00"
+        "timestamp": "2025-11-30T08:43:09.295450+00:00"
       },
       "geometry": {
         "type": "Point",
@@ -398,7 +398,7 @@
         "latitude_deg": NaN,
         "alt_km": NaN,
         "orbit_class": "HEO",
-        "timestamp": "2025-11-30T07:29:52.805002+00:00"
+        "timestamp": "2025-11-30T08:43:09.295668+00:00"
       },
       "geometry": {
         "type": "Point",
@@ -413,20 +413,20 @@
       "properties": {
         "OBJECT_NAME": "KSLV-II R/B",
         "OBJECT_ID": "2025-274P",
-        "EPOCH": "2025-11-29T20:38:18.155040",
-        "MEAN_MOTION": 14.97223001,
-        "ECCENTRICITY": 0.0044184,
-        "INCLINATION": 97.7386,
-        "RA_OF_ASC_NODE": 261.3266,
-        "ARG_OF_PERICENTER": 1.5638,
-        "MEAN_ANOMALY": 358.5714,
+        "EPOCH": "2025-11-29T22:14:32.388000",
+        "MEAN_MOTION": 14.9722061,
+        "ECCENTRICITY": 0.0044263,
+        "INCLINATION": 97.7388,
+        "RA_OF_ASC_NODE": 261.3929,
+        "ARG_OF_PERICENTER": 0.9626,
+        "MEAN_ANOMALY": 359.1673,
         "EPHEMERIS_TYPE": 0,
         "CLASSIFICATION_TYPE": "U",
         "NORAD_CAT_ID": 66663,
         "ELEMENT_SET_NO": 999,
-        "REV_AT_EPOCH": 48,
-        "BSTAR": 6.6213e-05,
-        "MEAN_MOTION_DOT": 7.2e-06,
+        "REV_AT_EPOCH": 49,
+        "BSTAR": -0.00024363,
+        "MEAN_MOTION_DOT": -2.936e-05,
         "MEAN_MOTION_DDOT": 0,
         "norad_id": 66663,
         "name": "KSLV-II R/B",
@@ -435,7 +435,7 @@
         "latitude_deg": NaN,
         "alt_km": NaN,
         "orbit_class": "HEO",
-        "timestamp": "2025-11-30T07:29:52.805127+00:00"
+        "timestamp": "2025-11-30T08:43:09.295799+00:00"
       },
       "geometry": {
         "type": "Point",
