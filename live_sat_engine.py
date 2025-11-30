@@ -4,6 +4,9 @@ import time
 from sgp4.api import Satrec, jday
 from datetime import datetime, timezone
 
+# ----------------------------------------------------------
+# Celestrak Groups
+# ----------------------------------------------------------
 CELESTRAK_GROUPS = {
     "last-30-days": "last-30-days",
     "stations": "stations",
@@ -28,27 +31,51 @@ CELESTRAK_GROUPS = {
 }
 
 BASE_URL = "https://celestrak.org/NORAD/elements/gp.php?GROUP={}&FORMAT=json"
-
-HEADERS = {
-    "User-Agent": "Mozilla/5.0",
-    "Accept": "application/json",
-}
-
+HEADERS = {"User-Agent": "Mozilla/5.0", "Accept": "application/json"}
 
 # ----------------------------------------------------------
-# Convert GP JSON epoch string → Julian date
+# Convert Celestrak GP JSON → TLE LINES
 # ----------------------------------------------------------
-def parse_epoch(epoch_str):
+def gp_json_to_tle(entry):
+    """Convert GP JSON entry → TLE line1, line2."""
+
+    satnum = int(entry["NORAD_CAT_ID"])
+    classification = "U"
+
+    intldes = entry["OBJECT_ID"] if "OBJECT_ID" in entry else "00000A"
+    intldes = intldes.replace("-", "")
+
+    epoch_str = entry["EPOCH"]
     dt = datetime.fromisoformat(epoch_str.replace("Z", ""))
-    jd, fr = jday(
-        dt.year,
-        dt.month,
-        dt.day,
-        dt.hour,
-        dt.minute,
-        dt.second + dt.microsecond / 1e6,
+
+    epoch_year = dt.year % 100
+    epoch_day = dt.timetuple().tm_yday + (
+        dt.hour / 24 + dt.minute / (24 * 60) + dt.second / 86400
     )
-    return jd + fr
+
+    ndot = float(entry["MEAN_MOTION_DOT"])
+    nddot = float(entry["MEAN_MOTION_DDOT"])
+    bstar = float(entry["BSTAR"])
+
+    line1 = (
+        f"1 {satnum:05d}{classification} {intldes:8s} "
+        f"{epoch_year:02d}{epoch_day:012.8f} "
+        f"{ndot: .8f} {nddot: .8f} {bstar: .8f} 0 9999"
+    )
+
+    inc = float(entry["INCLINATION"])
+    raan = float(entry["RA_OF_ASC_NODE"])
+    ecc = float(entry["ECCENTRICITY"]) * 1e7
+    argp = float(entry["ARG_OF_PERICENTER"])
+    mean_anom = float(entry["MEAN_ANOMALY"])
+    mm = float(entry["MEAN_MOTION"])
+
+    line2 = (
+        f"2 {satnum:05d} {inc:8.4f} {raan:8.4f} "
+        f"{int(ecc):07d} {argp:8.4f} {mean_anom:8.4f} {mm:11.8f} 0"
+    )
+
+    return line1, line2
 
 
 # ----------------------------------------------------------
@@ -60,85 +87,44 @@ class LiveSatelliteEngine:
         self.sats = {}
         self.load_all_groups()
 
-    def fetch_group(self, group, retries=5):
+    def fetch_group(self, group):
         url = BASE_URL.format(group)
-
-        for attempt in range(retries):
+        for attempt in range(5):
             try:
                 r = requests.get(url, headers=HEADERS, timeout=20)
                 if r.status_code == 200:
                     data = r.json()
-                    if isinstance(data, list) and len(data) > 0:
+                    if len(data) > 0:
                         return data
-                print(f"⚠️ Retry {attempt+1}/{retries} for {group}")
-                time.sleep(1)
             except:
-                time.sleep(1)
-
-        print(f"❌ FAILED TO FETCH {group}")
+                pass
+            time.sleep(1)
         return []
 
     def load_all_groups(self):
-
         for group in CELESTRAK_GROUPS.values():
             data = self.fetch_group(group)
             print(f"📡 Group {group}: fetched {len(data)} satellites")
 
             for entry in data:
-
                 try:
-                    norad = int(entry["NORAD_CAT_ID"])
-
-                    # Convert EVERYTHING to float
-                    incl = math.radians(float(entry["INCLINATION"]))
-                    raan = math.radians(float(entry["RA_OF_ASC_NODE"]))
-                    argp = math.radians(float(entry["ARG_OF_PERICENTER"]))
-                    mean_anom = math.radians(float(entry["MEAN_ANOMALY"]))
-                    ecc = float(entry["ECCENTRICITY"])
-                    mm = float(entry["MEAN_MOTION"])
-                    ndot = float(entry["MEAN_MOTION_DOT"])
-                    nddot = float(entry["MEAN_MOTION_DDOT"])
-                    bstar = float(entry["BSTAR"])
-
-                    epoch = parse_epoch(entry["EPOCH"])
-
+                    line1, line2 = gp_json_to_tle(entry)
+                    satrec = Satrec.twoline2rv(line1, line2)
                 except Exception as e:
-                    print(f"⚠️ Bad numeric data for {entry['NORAD_CAT_ID']}: {e}")
+                    print(f"❌ TLE build failed for {entry['NORAD_CAT_ID']}: {e}")
                     continue
 
-                # Build Satrec (positional arguments ONLY)
-                try:
-                    sat = Satrec()
-                    sat.sgp4init(
-                        72,         # WGS72
-                        'i',        # opsmode
-                        norad,
-                        epoch,      # epoch as JD
-                        bstar,
-                        ndot,
-                        nddot,
-                        ecc,
-                        argp,
-                        incl,
-                        mean_anom,
-                        mm,
-                        raan
-                    )
-                except Exception as e:
-                    print(f"❌ SGP4 INIT FAIL {norad}: {e}")
-                    continue
-
+                norad = entry["NORAD_CAT_ID"]
                 self.sats[norad] = {
                     "name": entry["OBJECT_NAME"],
                     "group": group,
-                    "satrec": sat,
+                    "satrec": satrec,
                     "meta": entry,
                 }
 
-            print(f"✔ Total satellites loaded so far: {len(self.sats)}\n")
+            print(f"✔ Total loaded so far: {len(self.sats)}\n")
 
     def compute_position(self, norad, t=None):
-
         if norad not in self.sats:
             return None
 
@@ -171,6 +157,7 @@ class LiveSatelliteEngine:
         return {
             "norad_id": norad,
             "name": self.sats[norad]["name"],
+            "group": self.sats[norad]["group"],
             "lon": lon,
             "lat": lat,
             "alt_km": alt,
