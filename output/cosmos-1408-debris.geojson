@@ -1,0 +1,190 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "COSMOS 1408 DEB",
+        "OBJECT_ID": "1982-092AA",
+        "EPOCH": "2025-11-30T00:32:16.756224",
+        "MEAN_MOTION": 16.22309291,
+        "ECCENTRICITY": 0.001535,
+        "INCLINATION": 82.5145,
+        "RA_OF_ASC_NODE": 108.7831,
+        "ARG_OF_PERICENTER": 302.2162,
+        "MEAN_ANOMALY": 57.7639,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 49537,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 22380,
+        "BSTAR": 0.0012456,
+        "MEAN_MOTION_DOT": 0.02870106,
+        "MEAN_MOTION_DDOT": -1.209e-06,
+        "norad_id": 49537,
+        "name": "COSMOS 1408 DEB",
+        "group": "cosmos-1408-debris",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.927962+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "COSMOS 1408 DEB",
+        "OBJECT_ID": "1982-092RU",
+        "EPOCH": "2025-11-29T07:33:53.735328",
+        "MEAN_MOTION": 15.45485404,
+        "ECCENTRICITY": 0.00145718,
+        "INCLINATION": 82.5642,
+        "RA_OF_ASC_NODE": 72.2642,
+        "ARG_OF_PERICENTER": 261.5021,
+        "MEAN_ANOMALY": 98.4577,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 50032,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 22396,
+        "BSTAR": 0.00012325254,
+        "MEAN_MOTION_DOT": 5.968e-05,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 50032,
+        "name": "COSMOS 1408 DEB",
+        "group": "cosmos-1408-debris",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.927969+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "COSMOS 1408 DEB",
+        "OBJECT_ID": "1982-092SW",
+        "EPOCH": "2025-11-29T18:04:38.398080",
+        "MEAN_MOTION": 15.6296443,
+        "ECCENTRICITY": 0.0016328,
+        "INCLINATION": 82.6127,
+        "RA_OF_ASC_NODE": 82.9198,
+        "ARG_OF_PERICENTER": 145.4893,
+        "MEAN_ANOMALY": 214.7429,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 50058,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 22601,
+        "BSTAR": 0.00037985,
+        "MEAN_MOTION_DOT": 0.00034727,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 50058,
+        "name": "COSMOS 1408 DEB",
+        "group": "cosmos-1408-debris",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.927976+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "COSMOS 1408 DEB",
+        "OBJECT_ID": "1982-092ADS",
+        "EPOCH": "2025-11-29T18:10:53.753376",
+        "MEAN_MOTION": 15.11177832,
+        "ECCENTRICITY": 0.0178127,
+        "INCLINATION": 82.2066,
+        "RA_OF_ASC_NODE": 228.2964,
+        "ARG_OF_PERICENTER": 243.964,
+        "MEAN_ANOMALY": 114.3157,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 50404,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 20997,
+        "BSTAR": 0.0028473,
+        "MEAN_MOTION_DOT": 0.0007072,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 50404,
+        "name": "COSMOS 1408 DEB",
+        "group": "cosmos-1408-debris",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.927984+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "COSMOS 1408 DEB",
+        "OBJECT_ID": "1982-092ALR",
+        "EPOCH": "2025-11-29T18:04:27.314688",
+        "MEAN_MOTION": 15.55651946,
+        "ECCENTRICITY": 0.002893,
+        "INCLINATION": 82.5695,
+        "RA_OF_ASC_NODE": 87.6884,
+        "ARG_OF_PERICENTER": 200.2478,
+        "MEAN_ANOMALY": 159.7632,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 50621,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 22048,
+        "BSTAR": 0.00042279,
+        "MEAN_MOTION_DOT": 0.0002967,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 50621,
+        "name": "COSMOS 1408 DEB",
+        "group": "cosmos-1408-debris",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.927993+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    }
+  ]
+}

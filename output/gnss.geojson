@@ -1,4 +1,967 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "INMARSAT 4-F2 (SOUTHPAN/PRN 122)",
+        "OBJECT_ID": "2005-044A",
+        "EPOCH": "2025-11-29T15:34:13.932768",
+        "MEAN_MOTION": 1.00263605,
+        "ECCENTRICITY": 0.0002964,
+        "INCLINATION": 4.8334,
+        "RA_OF_ASC_NODE": 43.6465,
+        "ARG_OF_PERICENTER": 209.84,
+        "MEAN_ANOMALY": 192.3633,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 28899,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 7352,
+        "BSTAR": 0,
+        "MEAN_MOTION_DOT": -2.42e-06,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 28899,
+        "name": "INMARSAT 4-F2 (SOUTHPAN/PRN 122)",
+        "group": "gnss",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.837134+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "GSAT-8 (GAGAN/PRN 127)",
+        "OBJECT_ID": "2011-022A",
+        "EPOCH": "2025-11-29T19:16:15.970368",
+        "MEAN_MOTION": 1.00271733,
+        "ECCENTRICITY": 0.0008774,
+        "INCLINATION": 1.6131,
+        "RA_OF_ASC_NODE": 84.3394,
+        "ARG_OF_PERICENTER": 175.9716,
+        "MEAN_ANOMALY": 152.7745,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 37605,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 5121,
+        "BSTAR": 0,
+        "MEAN_MOTION_DOT": 1.06e-06,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 37605,
+        "name": "GSAT-8 (GAGAN/PRN 127)",
+        "group": "gnss",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.838672+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "LUCH 5A (SDCM/PRN 140)",
+        "OBJECT_ID": "2011-074B",
+        "EPOCH": "2025-11-29T14:39:54.514368",
+        "MEAN_MOTION": 1.00273263,
+        "ECCENTRICITY": 0.0005726,
+        "INCLINATION": 8.2437,
+        "RA_OF_ASC_NODE": 76.7798,
+        "ARG_OF_PERICENTER": 171.2103,
+        "MEAN_ANOMALY": 207.7022,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 37951,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 5105,
+        "BSTAR": 0,
+        "MEAN_MOTION_DOT": -2.7e-07,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 37951,
+        "name": "LUCH 5A (SDCM/PRN 140)",
+        "group": "gnss",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.839003+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "SES-5 (EGNOS/PRN 136)",
+        "OBJECT_ID": "2012-036A",
+        "EPOCH": "2025-11-29T15:36:26.599968",
+        "MEAN_MOTION": 1.00270678,
+        "ECCENTRICITY": 0.0001959,
+        "INCLINATION": 0.059,
+        "RA_OF_ASC_NODE": 302.2608,
+        "ARG_OF_PERICENTER": 300.3331,
+        "MEAN_ANOMALY": 65.2952,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 38652,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 4246,
+        "BSTAR": 0,
+        "MEAN_MOTION_DOT": 5.5e-07,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 38652,
+        "name": "SES-5 (EGNOS/PRN 136)",
+        "group": "gnss",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.839242+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "GSAT-10 (GAGAN/PRN 128)",
+        "OBJECT_ID": "2012-051B",
+        "EPOCH": "2025-11-29T19:24:15.205248",
+        "MEAN_MOTION": 1.00269886,
+        "ECCENTRICITY": 0.0002803,
+        "INCLINATION": 0.0415,
+        "RA_OF_ASC_NODE": 261.4479,
+        "ARG_OF_PERICENTER": 233.9645,
+        "MEAN_ANOMALY": 307.5936,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 38779,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 4809,
+        "BSTAR": 0,
+        "MEAN_MOTION_DOT": -1.43e-06,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 38779,
+        "name": "GSAT-10 (GAGAN/PRN 128)",
+        "group": "gnss",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.839353+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "LUCH 5B (SDCM/PRN 125)",
+        "OBJECT_ID": "2012-061A",
+        "EPOCH": "2025-11-29T00:05:52.601856",
+        "MEAN_MOTION": 1.00269591,
+        "ECCENTRICITY": 0.00074542,
+        "INCLINATION": 10.0493,
+        "RA_OF_ASC_NODE": 51.8303,
+        "ARG_OF_PERICENTER": 186.642,
+        "MEAN_ANOMALY": 174.8183,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 38977,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 4760,
+        "BSTAR": 0,
+        "MEAN_MOTION_DOT": -1.19e-06,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 38977,
+        "name": "LUCH 5B (SDCM/PRN 125)",
+        "group": "gnss",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.839404+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "IRNSS-1A",
+        "OBJECT_ID": "2013-034A",
+        "EPOCH": "2025-11-24T20:31:38.771040",
+        "MEAN_MOTION": 1.00276701,
+        "ECCENTRICITY": 0.0021822,
+        "INCLINATION": 35.2693,
+        "RA_OF_ASC_NODE": 66.8111,
+        "ARG_OF_PERICENTER": 185.5557,
+        "MEAN_ANOMALY": 174.6472,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 39199,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 4532,
+        "BSTAR": 0,
+        "MEAN_MOTION_DOT": 8.3e-07,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 39199,
+        "name": "IRNSS-1A",
+        "group": "gnss",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.839763+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "ASTRA 5B (EGNOS/PRN 123)",
+        "OBJECT_ID": "2014-011B",
+        "EPOCH": "2025-11-29T20:21:01.792224",
+        "MEAN_MOTION": 1.00272501,
+        "ECCENTRICITY": 0.000458,
+        "INCLINATION": 0.0776,
+        "RA_OF_ASC_NODE": 52.2203,
+        "ARG_OF_PERICENTER": 210.1284,
+        "MEAN_ANOMALY": 135.4158,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 39617,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 4266,
+        "BSTAR": 0,
+        "MEAN_MOTION_DOT": 1.58e-06,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 39617,
+        "name": "ASTRA 5B (EGNOS/PRN 123)",
+        "group": "gnss",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.840265+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "IRNSS-1B",
+        "OBJECT_ID": "2014-017A",
+        "EPOCH": "2025-11-28T20:06:06.175008",
+        "MEAN_MOTION": 1.00274122,
+        "ECCENTRICITY": 0.00176916,
+        "INCLINATION": 28.849,
+        "RA_OF_ASC_NODE": 243.8302,
+        "ARG_OF_PERICENTER": 183.8746,
+        "MEAN_ANOMALY": 356.8041,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 39635,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 4278,
+        "BSTAR": 0,
+        "MEAN_MOTION_DOT": 1.13e-06,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 39635,
+        "name": "IRNSS-1B",
+        "group": "gnss",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.840294+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "LUCH 5V (SDCM/PRN 141)",
+        "OBJECT_ID": "2014-023A",
+        "EPOCH": "2025-11-29T21:33:08.592768",
+        "MEAN_MOTION": 1.00273423,
+        "ECCENTRICITY": 0.0004257,
+        "INCLINATION": 4.6343,
+        "RA_OF_ASC_NODE": 71.6485,
+        "ARG_OF_PERICENTER": 196.4048,
+        "MEAN_ANOMALY": 219.0359,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 39727,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 4236,
+        "BSTAR": 0,
+        "MEAN_MOTION_DOT": -2.48e-06,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 39727,
+        "name": "LUCH 5V (SDCM/PRN 141)",
+        "group": "gnss",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.840301+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "IRNSS-1C",
+        "OBJECT_ID": "2014-061A",
+        "EPOCH": "2025-11-29T19:24:15.205248",
+        "MEAN_MOTION": 1.00269794,
+        "ECCENTRICITY": 0.0017883,
+        "INCLINATION": 6.008,
+        "RA_OF_ASC_NODE": 92.8788,
+        "ARG_OF_PERICENTER": 3.0383,
+        "MEAN_ANOMALY": 347.0876,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 40269,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 4068,
+        "BSTAR": 0,
+        "MEAN_MOTION_DOT": -1.38e-06,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 40269,
+        "name": "IRNSS-1C",
+        "group": "gnss",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.840782+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "GSAT-15 (GAGAN/PRN 139)",
+        "OBJECT_ID": "2015-065A",
+        "EPOCH": "2025-11-29T18:31:24.969792",
+        "MEAN_MOTION": 1.00267955,
+        "ECCENTRICITY": 0.0003128,
+        "INCLINATION": 0.0106,
+        "RA_OF_ASC_NODE": 339.1213,
+        "ARG_OF_PERICENTER": 252.7594,
+        "MEAN_ANOMALY": 208.3546,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 41028,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 3679,
+        "BSTAR": 0,
+        "MEAN_MOTION_DOT": 0,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 41028,
+        "name": "GSAT-15 (GAGAN/PRN 139)",
+        "group": "gnss",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.841466+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "IRNSS-1E",
+        "OBJECT_ID": "2016-003A",
+        "EPOCH": "2025-11-29T19:49:38.102016",
+        "MEAN_MOTION": 1.00279417,
+        "ECCENTRICITY": 0.0021932,
+        "INCLINATION": 32.7974,
+        "RA_OF_ASC_NODE": 62.6412,
+        "ARG_OF_PERICENTER": 186.3345,
+        "MEAN_ANOMALY": 229.0425,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 41241,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 3608,
+        "BSTAR": 0,
+        "MEAN_MOTION_DOT": -2.89e-06,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 41241,
+        "name": "IRNSS-1E",
+        "group": "gnss",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.841631+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "IRNSS-1F",
+        "OBJECT_ID": "2016-015A",
+        "EPOCH": "2025-11-29T14:01:35.685120",
+        "MEAN_MOTION": 1.00265863,
+        "ECCENTRICITY": 0.0022342,
+        "INCLINATION": 4.8473,
+        "RA_OF_ASC_NODE": 101.6272,
+        "ARG_OF_PERICENTER": 179.1076,
+        "MEAN_ANOMALY": 30.8563,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 41384,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 3566,
+        "BSTAR": 0,
+        "MEAN_MOTION_DOT": 1.81e-06,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 41384,
+        "name": "IRNSS-1F",
+        "group": "gnss",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.841688+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "IRNSS-1G",
+        "OBJECT_ID": "2016-027A",
+        "EPOCH": "2025-11-29T19:37:28.937856",
+        "MEAN_MOTION": 1.00267928,
+        "ECCENTRICITY": 0.000146,
+        "INCLINATION": 4.7048,
+        "RA_OF_ASC_NODE": 102.4218,
+        "ARG_OF_PERICENTER": 18.3594,
+        "MEAN_ANOMALY": 12.0789,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 41469,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 3518,
+        "BSTAR": 0,
+        "MEAN_MOTION_DOT": -3.11e-06,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 41469,
+        "name": "IRNSS-1G",
+        "group": "gnss",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.841707+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "EUTELSAT 117 WEST B (WAAS/PRN 131)",
+        "OBJECT_ID": "2016-038B",
+        "EPOCH": "2025-11-29T16:44:27.588192",
+        "MEAN_MOTION": 1.00263499,
+        "ECCENTRICITY": 4.26e-05,
+        "INCLINATION": 0.0084,
+        "RA_OF_ASC_NODE": 147.5393,
+        "ARG_OF_PERICENTER": 29.5528,
+        "MEAN_ANOMALY": 25.8703,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 41589,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 3466,
+        "BSTAR": 0,
+        "MEAN_MOTION_DOT": 1.1e-07,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 41589,
+        "name": "EUTELSAT 117 WEST B (WAAS/PRN 131)",
+        "group": "gnss",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.841782+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "SES-15 (WAAS/PRN 133)",
+        "OBJECT_ID": "2017-026A",
+        "EPOCH": "2025-11-29T16:40:57.922176",
+        "MEAN_MOTION": 1.00267638,
+        "ECCENTRICITY": 2.34e-05,
+        "INCLINATION": 0.0208,
+        "RA_OF_ASC_NODE": 335.0974,
+        "ARG_OF_PERICENTER": 263.1432,
+        "MEAN_ANOMALY": 311.6705,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 42709,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 543,
+        "BSTAR": 0,
+        "MEAN_MOTION_DOT": 8.1e-07,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 42709,
+        "name": "SES-15 (WAAS/PRN 133)",
+        "group": "gnss",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.842413+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "QZS-2 (QZSS/PRN 194)",
+        "OBJECT_ID": "2017-028A",
+        "EPOCH": "2025-11-26T15:17:38.693760",
+        "MEAN_MOTION": 1.00287369,
+        "ECCENTRICITY": 0.07601911,
+        "INCLINATION": 39.7408,
+        "RA_OF_ASC_NODE": 246.1183,
+        "ARG_OF_PERICENTER": 269.2964,
+        "MEAN_ANOMALY": 280.9315,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 42738,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 559,
+        "BSTAR": 0,
+        "MEAN_MOTION_DOT": -1.56e-06,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 42738,
+        "name": "QZS-2 (QZSS/PRN 194)",
+        "group": "gnss",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.842429+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "QZS-3 (QZSS/PRN 199)",
+        "OBJECT_ID": "2017-048A",
+        "EPOCH": "2025-11-29T19:36:44.008992",
+        "MEAN_MOTION": 1.00266385,
+        "ECCENTRICITY": 0.0001162,
+        "INCLINATION": 0.0875,
+        "RA_OF_ASC_NODE": 123.7833,
+        "ARG_OF_PERICENTER": 120.5103,
+        "MEAN_ANOMALY": 245.827,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 42917,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 3026,
+        "BSTAR": 0,
+        "MEAN_MOTION_DOT": -3.27e-06,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 42917,
+        "name": "QZS-3 (QZSS/PRN 199)",
+        "group": "gnss",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.842676+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "QZS-4 (QZSS/PRN 195)",
+        "OBJECT_ID": "2017-062A",
+        "EPOCH": "2025-11-29T13:11:58.265088",
+        "MEAN_MOTION": 1.00256332,
+        "ECCENTRICITY": 0.0752251,
+        "INCLINATION": 40.2336,
+        "RA_OF_ASC_NODE": 346.0421,
+        "ARG_OF_PERICENTER": 271.172,
+        "MEAN_ANOMALY": 146.8651,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 42965,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 2980,
+        "BSTAR": 0,
+        "MEAN_MOTION_DOT": -3.01e-06,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 42965,
+        "name": "QZS-4 (QZSS/PRN 195)",
+        "group": "gnss",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.842817+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "IRNSS-1I",
+        "OBJECT_ID": "2018-035A",
+        "EPOCH": "2025-11-28T21:00:43.155936",
+        "MEAN_MOTION": 1.00276743,
+        "ECCENTRICITY": 0.00214474,
+        "INCLINATION": 29.1159,
+        "RA_OF_ASC_NODE": 77.3161,
+        "ARG_OF_PERICENTER": 181.3332,
+        "MEAN_ANOMALY": 179.6588,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 43286,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 2807,
+        "BSTAR": 0,
+        "MEAN_MOTION_DOT": 1.04e-06,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 43286,
+        "name": "IRNSS-1I",
+        "group": "gnss",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.843510+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "EUTELSAT 5 WEST B (EGNOS/PRN 121)",
+        "OBJECT_ID": "2019-067A",
+        "EPOCH": "2025-11-29T17:16:24.526848",
+        "MEAN_MOTION": 1.00271204,
+        "ECCENTRICITY": 0.0003404,
+        "INCLINATION": 0.0633,
+        "RA_OF_ASC_NODE": 346.1143,
+        "ARG_OF_PERICENTER": 262.1528,
+        "MEAN_ANOMALY": 74.7065,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 44624,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 2243,
+        "BSTAR": 0,
+        "MEAN_MOTION_DOT": -2.1e-07,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 44624,
+        "name": "EUTELSAT 5 WEST B (EGNOS/PRN 121)",
+        "group": "gnss",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.845098+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "GALAXY 30 (WAAS/PRN 135)",
+        "OBJECT_ID": "2020-056C",
+        "EPOCH": "2025-11-29T16:42:05.315040",
+        "MEAN_MOTION": 1.00272069,
+        "ECCENTRICITY": 0.000224,
+        "INCLINATION": 0.0185,
+        "RA_OF_ASC_NODE": 313.7126,
+        "ARG_OF_PERICENTER": 292.2778,
+        "MEAN_ANOMALY": 308.3699,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 46114,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 1929,
+        "BSTAR": 0,
+        "MEAN_MOTION_DOT": 5.8e-07,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 46114,
+        "name": "GALAXY 30 (WAAS/PRN 135)",
+        "group": "gnss",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.847779+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "QZS-1R (QZSS/PRN 196)",
+        "OBJECT_ID": "2021-096A",
+        "EPOCH": "2025-11-29T15:34:13.949184",
+        "MEAN_MOTION": 1.00261542,
+        "ECCENTRICITY": 0.0753161,
+        "INCLINATION": 37.0489,
+        "RA_OF_ASC_NODE": 82.5561,
+        "ARG_OF_PERICENTER": 271.0408,
+        "MEAN_ANOMALY": 84.1935,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 49336,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 1501,
+        "BSTAR": 0,
+        "MEAN_MOTION_DOT": -2.05e-06,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 49336,
+        "name": "QZS-1R (QZSS/PRN 196)",
+        "group": "gnss",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.855169+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "NVS-01 (IRNSS-1J)",
+        "OBJECT_ID": "2023-076A",
+        "EPOCH": "2025-11-29T19:37:28.937856",
+        "MEAN_MOTION": 1.00269443,
+        "ECCENTRICITY": 0.00084,
+        "INCLINATION": 2.6531,
+        "RA_OF_ASC_NODE": 252.071,
+        "ARG_OF_PERICENTER": 4.7444,
+        "MEAN_ANOMALY": 236.1005,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 56759,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 911,
+        "BSTAR": 0,
+        "MEAN_MOTION_DOT": -3.14e-06,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 56759,
+        "name": "NVS-01 (IRNSS-1J)",
+        "group": "gnss",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.875560+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "NVS-02 (IRNSS-1K)",
+        "OBJECT_ID": "2025-020A",
+        "EPOCH": "2025-11-29T05:18:46.435392",
+        "MEAN_MOTION": 2.17581585,
+        "ECCENTRICITY": 0.73484217,
+        "INCLINATION": 21.0171,
+        "RA_OF_ASC_NODE": 332.543,
+        "ARG_OF_PERICENTER": 17.4684,
+        "MEAN_ANOMALY": 358.2746,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 62850,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 662,
+        "BSTAR": 0.0002843021,
+        "MEAN_MOTION_DOT": 3.84e-06,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 62850,
+        "name": "NVS-02 (IRNSS-1K)",
+        "group": "gnss",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.905606+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    }
+  ]
 }

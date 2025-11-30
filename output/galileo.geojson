@@ -1,4 +1,1152 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "GSAT0101 (GALILEO-PFM)",
+        "OBJECT_ID": "2011-060A",
+        "EPOCH": "2025-11-24T03:07:29.832960",
+        "MEAN_MOTION": 1.70475782,
+        "ECCENTRICITY": 0.00025776,
+        "INCLINATION": 57.0574,
+        "RA_OF_ASC_NODE": 347.3256,
+        "ARG_OF_PERICENTER": 308.2281,
+        "MEAN_ANOMALY": 51.7929,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 37846,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 8762,
+        "BSTAR": 0,
+        "MEAN_MOTION_DOT": -6.3e-07,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 37846,
+        "name": "GSAT0101 (GALILEO-PFM)",
+        "group": "galileo",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.838928+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "GSAT0102 (GALILEO-FM2)",
+        "OBJECT_ID": "2011-060B",
+        "EPOCH": "2025-11-29T14:59:45.115008",
+        "MEAN_MOTION": 1.70475771,
+        "ECCENTRICITY": 0.0004677,
+        "INCLINATION": 57.0566,
+        "RA_OF_ASC_NODE": 347.1768,
+        "ARG_OF_PERICENTER": 305.2654,
+        "MEAN_ANOMALY": 232.3794,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 37847,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 8772,
+        "BSTAR": 0,
+        "MEAN_MOTION_DOT": -5.6e-07,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 37847,
+        "name": "GSAT0102 (GALILEO-FM2)",
+        "group": "galileo",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.838935+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "GSAT0103 (GALILEO-FM3)",
+        "OBJECT_ID": "2012-055A",
+        "EPOCH": "2025-11-28T20:42:38.723616",
+        "MEAN_MOTION": 1.70473322,
+        "ECCENTRICITY": 0.00022412,
+        "INCLINATION": 55.6842,
+        "RA_OF_ASC_NODE": 107.0477,
+        "ARG_OF_PERICENTER": 266.7022,
+        "MEAN_ANOMALY": 93.2527,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 38857,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 8159,
+        "BSTAR": 0,
+        "MEAN_MOTION_DOT": 5.5e-07,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 38857,
+        "name": "GSAT0103 (GALILEO-FM3)",
+        "group": "galileo",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.839373+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "GSAT0201 (GALILEO 5)",
+        "OBJECT_ID": "2014-050A",
+        "EPOCH": "2025-11-28T09:00:06.762528",
+        "MEAN_MOTION": 1.85519533,
+        "ECCENTRICITY": 0.16464881,
+        "INCLINATION": 49.0938,
+        "RA_OF_ASC_NODE": 281.6492,
+        "ARG_OF_PERICENTER": 171.7362,
+        "MEAN_ANOMALY": 191.3851,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 40128,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 7459,
+        "BSTAR": 0,
+        "MEAN_MOTION_DOT": -4.8e-07,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 40128,
+        "name": "GSAT0201 (GALILEO 5)",
+        "group": "galileo",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.840693+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "GSAT0202 (GALILEO 6)",
+        "OBJECT_ID": "2014-050B",
+        "EPOCH": "2025-11-29T17:01:27.923808",
+        "MEAN_MOTION": 1.85520097,
+        "ECCENTRICITY": 0.1647266,
+        "INCLINATION": 49.1079,
+        "RA_OF_ASC_NODE": 280.6784,
+        "ARG_OF_PERICENTER": 172.5408,
+        "MEAN_ANOMALY": 190.2825,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 40129,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 7678,
+        "BSTAR": 0,
+        "MEAN_MOTION_DOT": -5.4e-07,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 40129,
+        "name": "GSAT0202 (GALILEO 6)",
+        "group": "galileo",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.840699+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "GSAT0203 (GALILEO 7)",
+        "OBJECT_ID": "2015-017A",
+        "EPOCH": "2025-11-29T04:30:08.373888",
+        "MEAN_MOTION": 1.70475942,
+        "ECCENTRICITY": 0.00064961,
+        "INCLINATION": 56.8498,
+        "RA_OF_ASC_NODE": 347.0502,
+        "ARG_OF_PERICENTER": 266.8168,
+        "MEAN_ANOMALY": 93.1521,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 40544,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 6579,
+        "BSTAR": 0,
+        "MEAN_MOTION_DOT": -5.6e-07,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 40544,
+        "name": "GSAT0203 (GALILEO 7)",
+        "group": "galileo",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.841058+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "GSAT0204 (GALILEO 8)",
+        "OBJECT_ID": "2015-017B",
+        "EPOCH": "2025-11-28T20:33:17.648064",
+        "MEAN_MOTION": 1.70475529,
+        "ECCENTRICITY": 0.00062426,
+        "INCLINATION": 56.8551,
+        "RA_OF_ASC_NODE": 347.0768,
+        "ARG_OF_PERICENTER": 259.3843,
+        "MEAN_ANOMALY": 100.5886,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 40545,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 2883,
+        "BSTAR": 0,
+        "MEAN_MOTION_DOT": -5.6e-07,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 40545,
+        "name": "GSAT0204 (GALILEO 8)",
+        "group": "galileo",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.841065+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "GSAT0205 (GALILEO 9)",
+        "OBJECT_ID": "2015-045A",
+        "EPOCH": "2025-11-27T10:50:27.971232",
+        "MEAN_MOTION": 1.70472924,
+        "ECCENTRICITY": 0.00058028,
+        "INCLINATION": 55.0089,
+        "RA_OF_ASC_NODE": 227.181,
+        "ARG_OF_PERICENTER": 37.9359,
+        "MEAN_ANOMALY": 322.1807,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 40889,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 6357,
+        "BSTAR": 0,
+        "MEAN_MOTION_DOT": 2.7e-07,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 40889,
+        "name": "GSAT0205 (GALILEO 9)",
+        "group": "galileo",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.841249+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "GSAT0206 (GALILEO 10)",
+        "OBJECT_ID": "2015-045B",
+        "EPOCH": "2025-11-28T20:17:33.194976",
+        "MEAN_MOTION": 1.70472951,
+        "ECCENTRICITY": 0.00035605,
+        "INCLINATION": 55.0075,
+        "RA_OF_ASC_NODE": 227.1375,
+        "ARG_OF_PERICENTER": 32.1082,
+        "MEAN_ANOMALY": 327.9865,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 40890,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 6362,
+        "BSTAR": 0,
+        "MEAN_MOTION_DOT": 2.6e-07,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 40890,
+        "name": "GSAT0206 (GALILEO 10)",
+        "group": "galileo",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.841255+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "GSAT0209 (GALILEO 12)",
+        "OBJECT_ID": "2015-079A",
+        "EPOCH": "2025-11-29T00:19:48.752544",
+        "MEAN_MOTION": 1.70474337,
+        "ECCENTRICITY": 0.00023288,
+        "INCLINATION": 55.7045,
+        "RA_OF_ASC_NODE": 106.7579,
+        "ARG_OF_PERICENTER": 359.5232,
+        "MEAN_ANOMALY": 0.4568,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 41174,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 6136,
+        "BSTAR": 0,
+        "MEAN_MOTION_DOT": 5.4e-07,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 41174,
+        "name": "GSAT0209 (GALILEO 12)",
+        "group": "galileo",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.841543+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "GSAT0208 (GALILEO 11)",
+        "OBJECT_ID": "2015-079B",
+        "EPOCH": "2025-11-29T05:36:49.658112",
+        "MEAN_MOTION": 1.70474204,
+        "ECCENTRICITY": 0.0001857,
+        "INCLINATION": 55.703,
+        "RA_OF_ASC_NODE": 106.749,
+        "ARG_OF_PERICENTER": 12.2161,
+        "MEAN_ANOMALY": 347.768,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 41175,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 6178,
+        "BSTAR": 0,
+        "MEAN_MOTION_DOT": 5.4e-07,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 41175,
+        "name": "GSAT0208 (GALILEO 11)",
+        "group": "galileo",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.841549+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "GSAT0211 (GALILEO 14)",
+        "OBJECT_ID": "2016-030A",
+        "EPOCH": "2025-11-28T18:30:37.119744",
+        "MEAN_MOTION": 1.70472998,
+        "ECCENTRICITY": 0.00037617,
+        "INCLINATION": 55.1573,
+        "RA_OF_ASC_NODE": 227.2083,
+        "ARG_OF_PERICENTER": 3.3414,
+        "MEAN_ANOMALY": 356.7341,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 41549,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 5925,
+        "BSTAR": 0,
+        "MEAN_MOTION_DOT": 2.6e-07,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 41549,
+        "name": "GSAT0211 (GALILEO 14)",
+        "group": "galileo",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.841726+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "GSAT0210 (GALILEO 13)",
+        "OBJECT_ID": "2016-030B",
+        "EPOCH": "2025-11-28T10:36:40.768128",
+        "MEAN_MOTION": 1.70473446,
+        "ECCENTRICITY": 0.00013131,
+        "INCLINATION": 55.1568,
+        "RA_OF_ASC_NODE": 227.2154,
+        "ARG_OF_PERICENTER": 243.5981,
+        "MEAN_ANOMALY": 116.4619,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 41550,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 5924,
+        "BSTAR": 0,
+        "MEAN_MOTION_DOT": 2.6e-07,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 41550,
+        "name": "GSAT0210 (GALILEO 13)",
+        "group": "galileo",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.841732+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "GSAT0207 (GALILEO 15)",
+        "OBJECT_ID": "2016-069A",
+        "EPOCH": "2025-11-27T13:08:09.496896",
+        "MEAN_MOTION": 1.70474273,
+        "ECCENTRICITY": 0.00020495,
+        "INCLINATION": 55.3731,
+        "RA_OF_ASC_NODE": 106.6711,
+        "ARG_OF_PERICENTER": 327.0385,
+        "MEAN_ANOMALY": 32.9292,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 41859,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 5596,
+        "BSTAR": 0,
+        "MEAN_MOTION_DOT": 5.3e-07,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 41859,
+        "name": "GSAT0207 (GALILEO 15)",
+        "group": "galileo",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.842077+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "GSAT0212 (GALILEO 16)",
+        "OBJECT_ID": "2016-069B",
+        "EPOCH": "2025-11-29T03:51:29.490336",
+        "MEAN_MOTION": 1.70474484,
+        "ECCENTRICITY": 0.0002283,
+        "INCLINATION": 55.3717,
+        "RA_OF_ASC_NODE": 106.6219,
+        "ARG_OF_PERICENTER": 36.1467,
+        "MEAN_ANOMALY": 323.8485,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 41860,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 5624,
+        "BSTAR": 0,
+        "MEAN_MOTION_DOT": 5.3e-07,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 41860,
+        "name": "GSAT0212 (GALILEO 16)",
+        "group": "galileo",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.842085+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "GSAT0213 (GALILEO 17)",
+        "OBJECT_ID": "2016-069C",
+        "EPOCH": "2025-11-28T08:31:27.530400",
+        "MEAN_MOTION": 1.70474759,
+        "ECCENTRICITY": 0.00019722,
+        "INCLINATION": 55.3734,
+        "RA_OF_ASC_NODE": 106.6518,
+        "ARG_OF_PERICENTER": 283.8228,
+        "MEAN_ANOMALY": 76.1363,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 41861,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 5609,
+        "BSTAR": 0,
+        "MEAN_MOTION_DOT": 5.4e-07,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 41861,
+        "name": "GSAT0213 (GALILEO 17)",
+        "group": "galileo",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.842092+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "GSAT0214 (GALILEO 18)",
+        "OBJECT_ID": "2016-069D",
+        "EPOCH": "2025-11-29T16:11:01.864032",
+        "MEAN_MOTION": 1.70474561,
+        "ECCENTRICITY": 0.0001037,
+        "INCLINATION": 55.3728,
+        "RA_OF_ASC_NODE": 106.6081,
+        "ARG_OF_PERICENTER": 291.61,
+        "MEAN_ANOMALY": 68.3572,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 41862,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 5624,
+        "BSTAR": 0,
+        "MEAN_MOTION_DOT": 5.1e-07,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 41862,
+        "name": "GSAT0214 (GALILEO 18)",
+        "group": "galileo",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.842099+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "GSAT0215 (GALILEO 19)",
+        "OBJECT_ID": "2017-079A",
+        "EPOCH": "2025-11-26T15:28:40.742400",
+        "MEAN_MOTION": 1.70473788,
+        "ECCENTRICITY": 0.000143,
+        "INCLINATION": 55.1359,
+        "RA_OF_ASC_NODE": 227.0812,
+        "ARG_OF_PERICENTER": 319.5889,
+        "MEAN_ANOMALY": 40.4789,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 43055,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 4953,
+        "BSTAR": 0,
+        "MEAN_MOTION_DOT": 2.9e-07,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 43055,
+        "name": "GSAT0215 (GALILEO 19)",
+        "group": "galileo",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.843008+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "GSAT0216 (GALILEO 20)",
+        "OBJECT_ID": "2017-079B",
+        "EPOCH": "2025-11-28T02:37:29.919648",
+        "MEAN_MOTION": 1.7047388,
+        "ECCENTRICITY": 0.00027172,
+        "INCLINATION": 55.1357,
+        "RA_OF_ASC_NODE": 227.0409,
+        "ARG_OF_PERICENTER": 312.5742,
+        "MEAN_ANOMALY": 47.4772,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 43056,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 4957,
+        "BSTAR": 0,
+        "MEAN_MOTION_DOT": 2.7e-07,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 43056,
+        "name": "GSAT0216 (GALILEO 20)",
+        "group": "galileo",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.843014+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "GSAT0217 (GALILEO 21)",
+        "OBJECT_ID": "2017-079C",
+        "EPOCH": "2025-11-29T12:04:41.144736",
+        "MEAN_MOTION": 1.70473704,
+        "ECCENTRICITY": 0.0002756,
+        "INCLINATION": 55.1326,
+        "RA_OF_ASC_NODE": 227.0006,
+        "ARG_OF_PERICENTER": 340.6935,
+        "MEAN_ANOMALY": 19.3693,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 43057,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 4958,
+        "BSTAR": 0,
+        "MEAN_MOTION_DOT": 2.7e-07,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 43057,
+        "name": "GSAT0217 (GALILEO 21)",
+        "group": "galileo",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.843020+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "GSAT0218 (GALILEO 22)",
+        "OBJECT_ID": "2017-079D",
+        "EPOCH": "2025-11-27T09:02:50.361792",
+        "MEAN_MOTION": 1.70473808,
+        "ECCENTRICITY": 0.00029716,
+        "INCLINATION": 55.1342,
+        "RA_OF_ASC_NODE": 227.0567,
+        "ARG_OF_PERICENTER": 303.4805,
+        "MEAN_ANOMALY": 56.5673,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 43058,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 4957,
+        "BSTAR": 0,
+        "MEAN_MOTION_DOT": 2.8e-07,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 43058,
+        "name": "GSAT0218 (GALILEO 22)",
+        "group": "galileo",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.843027+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "GSAT0221 (GALILEO 25)",
+        "OBJECT_ID": "2018-060A",
+        "EPOCH": "2025-11-27T06:42:36.849024",
+        "MEAN_MOTION": 1.70475843,
+        "ECCENTRICITY": 0.0006566,
+        "INCLINATION": 57.2311,
+        "RA_OF_ASC_NODE": 347.2356,
+        "ARG_OF_PERICENTER": 278.9073,
+        "MEAN_ANOMALY": 81.0612,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 43564,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 4572,
+        "BSTAR": 0,
+        "MEAN_MOTION_DOT": -5.6e-07,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 43564,
+        "name": "GSAT0221 (GALILEO 25)",
+        "group": "galileo",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.843689+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "GSAT0222 (GALILEO 26)",
+        "OBJECT_ID": "2018-060B",
+        "EPOCH": "2025-11-29T06:12:28.687104",
+        "MEAN_MOTION": 1.70475509,
+        "ECCENTRICITY": 0.0006173,
+        "INCLINATION": 57.2346,
+        "RA_OF_ASC_NODE": 347.1853,
+        "ARG_OF_PERICENTER": 259.4518,
+        "MEAN_ANOMALY": 100.5223,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 43565,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 4580,
+        "BSTAR": 0,
+        "MEAN_MOTION_DOT": -5.5e-07,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 43565,
+        "name": "GSAT0222 (GALILEO 26)",
+        "group": "galileo",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.843696+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "GSAT0219 (GALILEO 23)",
+        "OBJECT_ID": "2018-060C",
+        "EPOCH": "2025-11-27T03:12:13.146336",
+        "MEAN_MOTION": 1.70475832,
+        "ECCENTRICITY": 0.00057176,
+        "INCLINATION": 57.2341,
+        "RA_OF_ASC_NODE": 347.2443,
+        "ARG_OF_PERICENTER": 284.9016,
+        "MEAN_ANOMALY": 75.078,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 43566,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 4574,
+        "BSTAR": 0,
+        "MEAN_MOTION_DOT": -5.6e-07,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 43566,
+        "name": "GSAT0219 (GALILEO 23)",
+        "group": "galileo",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.843703+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "GSAT0220 (GALILEO 24)",
+        "OBJECT_ID": "2018-060D",
+        "EPOCH": "2025-11-28T12:39:42.035904",
+        "MEAN_MOTION": 1.70475653,
+        "ECCENTRICITY": 0.00060233,
+        "INCLINATION": 57.2337,
+        "RA_OF_ASC_NODE": 347.2076,
+        "ARG_OF_PERICENTER": 280.1858,
+        "MEAN_ANOMALY": 79.7898,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 43567,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 4575,
+        "BSTAR": 0,
+        "MEAN_MOTION_DOT": -5.5e-07,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 43567,
+        "name": "GSAT0220 (GALILEO 24)",
+        "group": "galileo",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.843709+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "GSAT0223 (GALILEO 27)",
+        "OBJECT_ID": "2021-116A",
+        "EPOCH": "2025-11-29T12:59:08.619936",
+        "MEAN_MOTION": 1.70475693,
+        "ECCENTRICITY": 0.0004721,
+        "INCLINATION": 57.2226,
+        "RA_OF_ASC_NODE": 347.071,
+        "ARG_OF_PERICENTER": 247.1953,
+        "MEAN_ANOMALY": 105.5315,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 49809,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 2477,
+        "BSTAR": 0,
+        "MEAN_MOTION_DOT": -5.5e-07,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 49809,
+        "name": "GSAT0223 (GALILEO 27)",
+        "group": "galileo",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.855894+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "GSAT0224 (GALILEO 28)",
+        "OBJECT_ID": "2021-116B",
+        "EPOCH": "2025-11-22T08:02:15.403200",
+        "MEAN_MOTION": 1.70476295,
+        "ECCENTRICITY": 0.00038769,
+        "INCLINATION": 57.2249,
+        "RA_OF_ASC_NODE": 347.264,
+        "ARG_OF_PERICENTER": 247.2257,
+        "MEAN_ANOMALY": 115.5015,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 49810,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 2468,
+        "BSTAR": 0,
+        "MEAN_MOTION_DOT": -6.8e-07,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 49810,
+        "name": "GSAT0224 (GALILEO 28)",
+        "group": "galileo",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.855901+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "GSAT0225 (GALILEO 29)",
+        "OBJECT_ID": "2024-079A",
+        "EPOCH": "2025-11-27T14:47:10.896576",
+        "MEAN_MOTION": 1.70474678,
+        "ECCENTRICITY": 0.00022731,
+        "INCLINATION": 54.9919,
+        "RA_OF_ASC_NODE": 106.7188,
+        "ARG_OF_PERICENTER": 170.1061,
+        "MEAN_ANOMALY": 186.2217,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 59598,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 987,
+        "BSTAR": 0,
+        "MEAN_MOTION_DOT": 5.3e-07,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 59598,
+        "name": "GSAT0225 (GALILEO 29)",
+        "group": "galileo",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.890156+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "GSAT0227 (GALILEO 30)",
+        "OBJECT_ID": "2024-079C",
+        "EPOCH": "2025-11-28T09:24:34.507584",
+        "MEAN_MOTION": 1.70474627,
+        "ECCENTRICITY": 0.00035247,
+        "INCLINATION": 54.9877,
+        "RA_OF_ASC_NODE": 106.6957,
+        "ARG_OF_PERICENTER": 113.0968,
+        "MEAN_ANOMALY": 246.9214,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 59600,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 994,
+        "BSTAR": 0,
+        "MEAN_MOTION_DOT": 5.3e-07,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 59600,
+        "name": "GSAT0227 (GALILEO 30)",
+        "group": "galileo",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.890165+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "GSAT0232 (GALILEO 32)",
+        "OBJECT_ID": "2024-167A",
+        "EPOCH": "2025-11-29T15:16:36.414048",
+        "MEAN_MOTION": 1.70473184,
+        "ECCENTRICITY": 0.0002244,
+        "INCLINATION": 55.2459,
+        "RA_OF_ASC_NODE": 226.7912,
+        "ARG_OF_PERICENTER": 216.1557,
+        "MEAN_ANOMALY": 22.2275,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 61182,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 747,
+        "BSTAR": 0,
+        "MEAN_MOTION_DOT": 2.7e-07,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 61182,
+        "name": "GSAT0232 (GALILEO 32)",
+        "group": "galileo",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.896954+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "GSAT0226 (GALILEO 31)",
+        "OBJECT_ID": "2024-167B",
+        "EPOCH": "2025-11-26T08:32:06.516672",
+        "MEAN_MOTION": 1.70473481,
+        "ECCENTRICITY": 6.079e-05,
+        "INCLINATION": 55.246,
+        "RA_OF_ASC_NODE": 226.8867,
+        "ARG_OF_PERICENTER": 154.246,
+        "MEAN_ANOMALY": 343.2327,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 61183,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 739,
+        "BSTAR": 0,
+        "MEAN_MOTION_DOT": 3e-07,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 61183,
+        "name": "GSAT0226 (GALILEO 31)",
+        "group": "galileo",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.896960+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    }
+  ]
 }

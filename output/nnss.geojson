@@ -1,4 +1,671 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "OPS 7218 (TRANSIT 16)",
+        "OBJECT_ID": "1967-048A",
+        "EPOCH": "2025-11-29T19:26:37.848192",
+        "MEAN_MOTION": 13.50718413,
+        "ECCENTRICITY": 0.0021224,
+        "INCLINATION": 89.6739,
+        "RA_OF_ASC_NODE": 354.4451,
+        "ARG_OF_PERICENTER": 149.0562,
+        "MEAN_ANOMALY": 24.4235,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 2807,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 88101,
+        "BSTAR": 0.00017661,
+        "MEAN_MOTION_DOT": 1.24e-06,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 2807,
+        "name": "OPS 7218 (TRANSIT 16)",
+        "group": "nnss",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.927761+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "OPS 4947 (TRANSIT 17)",
+        "OBJECT_ID": "1967-092A",
+        "EPOCH": "2025-11-29T17:44:42.940032",
+        "MEAN_MOTION": 13.53448787,
+        "ECCENTRICITY": 0.0045688,
+        "INCLINATION": 89.2512,
+        "RA_OF_ASC_NODE": 25.4263,
+        "ARG_OF_PERICENTER": 273.6315,
+        "MEAN_ANOMALY": 212.743,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 2965,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 86921,
+        "BSTAR": 0.00016756,
+        "MEAN_MOTION_DOT": 1.24e-06,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 2965,
+        "name": "OPS 4947 (TRANSIT 17)",
+        "group": "nnss",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.927769+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "OPS 7034 (TRANSIT 18)",
+        "OBJECT_ID": "1968-012A",
+        "EPOCH": "2025-11-29T19:39:44.367264",
+        "MEAN_MOTION": 13.51561586,
+        "ECCENTRICITY": 0.0072673,
+        "INCLINATION": 90.0265,
+        "RA_OF_ASC_NODE": 273.6032,
+        "ARG_OF_PERICENTER": 206.8097,
+        "MEAN_ANOMALY": 185.4304,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 3133,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 56744,
+        "BSTAR": 0.00015908,
+        "MEAN_MOTION_DOT": 1.14e-06,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 3133,
+        "name": "OPS 7034 (TRANSIT 18)",
+        "group": "nnss",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.927778+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "NNSS 19 (TRANSIT 19)",
+        "OBJECT_ID": "1970-067A",
+        "EPOCH": "2025-11-29T17:48:18.812160",
+        "MEAN_MOTION": 13.51309647,
+        "ECCENTRICITY": 0.0171482,
+        "INCLINATION": 90.0056,
+        "RA_OF_ASC_NODE": 234.5246,
+        "ARG_OF_PERICENTER": 331.286,
+        "MEAN_ANOMALY": 27.8931,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 4507,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 72046,
+        "BSTAR": 0.00019816,
+        "MEAN_MOTION_DOT": 1.49e-06,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 4507,
+        "name": "NNSS 19 (TRANSIT 19)",
+        "group": "nnss",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.927789+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "NNSS 20 (TRANSIT 20)",
+        "OBJECT_ID": "1973-081A",
+        "EPOCH": "2025-11-29T16:46:59.920032",
+        "MEAN_MOTION": 13.71425506,
+        "ECCENTRICITY": 0.0156332,
+        "INCLINATION": 89.8554,
+        "RA_OF_ASC_NODE": 255.2499,
+        "ARG_OF_PERICENTER": 116.942,
+        "MEAN_ANOMALY": 244.781,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 6909,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 80182,
+        "BSTAR": 0.00021922,
+        "MEAN_MOTION_DOT": 2.27e-06,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 6909,
+        "name": "NNSS 20 (TRANSIT 20)",
+        "group": "nnss",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.927796+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "TRANSAT",
+        "OBJECT_ID": "1977-106A",
+        "EPOCH": "2025-11-29T19:35:47.243328",
+        "MEAN_MOTION": 13.48940506,
+        "ECCENTRICITY": 0.0024268,
+        "INCLINATION": 89.6481,
+        "RA_OF_ASC_NODE": 79.0544,
+        "ARG_OF_PERICENTER": 227.8398,
+        "MEAN_ANOMALY": 249.2837,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 10457,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 36569,
+        "BSTAR": 0.00011886,
+        "MEAN_MOTION_DOT": 8.5e-07,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 10457,
+        "name": "TRANSAT",
+        "group": "nnss",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.927805+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "NOVA 1",
+        "OBJECT_ID": "1981-044A",
+        "EPOCH": "2025-11-29T17:43:59.568096",
+        "MEAN_MOTION": 13.23276408,
+        "ECCENTRICITY": 0.0015478,
+        "INCLINATION": 89.8519,
+        "RA_OF_ASC_NODE": 91.569,
+        "ARG_OF_PERICENTER": 136.057,
+        "MEAN_ANOMALY": 345.3574,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 12458,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 15014,
+        "BSTAR": 0.00010995,
+        "MEAN_MOTION_DOT": 5.6e-07,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 12458,
+        "name": "NOVA 1",
+        "group": "nnss",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.927813+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "NOVA 3",
+        "OBJECT_ID": "1984-110A",
+        "EPOCH": "2025-11-29T20:07:04.811232",
+        "MEAN_MOTION": 13.23042404,
+        "ECCENTRICITY": 0.0031545,
+        "INCLINATION": 90.1223,
+        "RA_OF_ASC_NODE": 80.3826,
+        "ARG_OF_PERICENTER": 8.1351,
+        "MEAN_ANOMALY": 109.9053,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 15362,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 98528,
+        "BSTAR": 0.00010429,
+        "MEAN_MOTION_DOT": 5.2e-07,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 15362,
+        "name": "NOVA 3",
+        "group": "nnss",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.927831+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "OSCAR 30",
+        "OBJECT_ID": "1985-066A",
+        "EPOCH": "2025-11-29T07:51:32.311584",
+        "MEAN_MOTION": 13.36074721,
+        "ECCENTRICITY": 0.01693038,
+        "INCLINATION": 90.1643,
+        "RA_OF_ASC_NODE": 99.6282,
+        "ARG_OF_PERICENTER": 121.3487,
+        "MEAN_ANOMALY": 257.5671,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 15935,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 96274,
+        "BSTAR": 0.00017407221,
+        "MEAN_MOTION_DOT": 1.07e-06,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 15935,
+        "name": "OSCAR 30",
+        "group": "nnss",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.927840+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "OSCAR 24",
+        "OBJECT_ID": "1985-066B",
+        "EPOCH": "2025-11-29T20:29:50.477280",
+        "MEAN_MOTION": 13.35932797,
+        "ECCENTRICITY": 0.0170296,
+        "INCLINATION": 90.1783,
+        "RA_OF_ASC_NODE": 92.0776,
+        "ARG_OF_PERICENTER": 126.3161,
+        "MEAN_ANOMALY": 345.9219,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 15936,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 96471,
+        "BSTAR": 0.00014406,
+        "MEAN_MOTION_DOT": 9e-07,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 15936,
+        "name": "OSCAR 24",
+        "group": "nnss",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.927847+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "POLAR BEAR",
+        "OBJECT_ID": "1986-088A",
+        "EPOCH": "2025-11-29T15:56:49.699104",
+        "MEAN_MOTION": 13.75246809,
+        "ECCENTRICITY": 0.003994,
+        "INCLINATION": 89.6183,
+        "RA_OF_ASC_NODE": 184.2963,
+        "ARG_OF_PERICENTER": 157.4541,
+        "MEAN_ANOMALY": 271.5194,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 17070,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 95799,
+        "BSTAR": 0.00011146,
+        "MEAN_MOTION_DOT": 1.19e-06,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 17070,
+        "name": "POLAR BEAR",
+        "group": "nnss",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.927854+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "OSCAR 27",
+        "OBJECT_ID": "1987-080A",
+        "EPOCH": "2025-11-29T19:44:50.807328",
+        "MEAN_MOTION": 13.44902545,
+        "ECCENTRICITY": 0.0102176,
+        "INCLINATION": 90.3741,
+        "RA_OF_ASC_NODE": 78.7891,
+        "ARG_OF_PERICENTER": 261.3144,
+        "MEAN_ANOMALY": 97.6419,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 18361,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 87383,
+        "BSTAR": 0.00018705,
+        "MEAN_MOTION_DOT": 1.2e-06,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 18361,
+        "name": "OSCAR 27",
+        "group": "nnss",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.927861+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "OSCAR 29",
+        "OBJECT_ID": "1987-080B",
+        "EPOCH": "2025-11-29T20:09:04.769856",
+        "MEAN_MOTION": 13.44444811,
+        "ECCENTRICITY": 0.010363,
+        "INCLINATION": 90.3754,
+        "RA_OF_ASC_NODE": 79.2475,
+        "ARG_OF_PERICENTER": 284.7189,
+        "MEAN_ANOMALY": 189.1031,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 18362,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 87336,
+        "BSTAR": 0.00016075,
+        "MEAN_MOTION_DOT": 1.04e-06,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 18362,
+        "name": "OSCAR 29",
+        "group": "nnss",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.927870+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "OSCAR 23",
+        "OBJECT_ID": "1988-033A",
+        "EPOCH": "2025-11-29T15:37:46.080192",
+        "MEAN_MOTION": 13.27784172,
+        "ECCENTRICITY": 0.0188473,
+        "INCLINATION": 90.3228,
+        "RA_OF_ASC_NODE": 15.9861,
+        "ARG_OF_PERICENTER": 216.3933,
+        "MEAN_ANOMALY": 265.4085,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 19070,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 82079,
+        "BSTAR": 0.00015567,
+        "MEAN_MOTION_DOT": 8.5e-07,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 19070,
+        "name": "OSCAR 23",
+        "group": "nnss",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.927876+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "OSCAR 32",
+        "OBJECT_ID": "1988-033B",
+        "EPOCH": "2025-11-29T16:55:06.218976",
+        "MEAN_MOTION": 13.27951248,
+        "ECCENTRICITY": 0.0187279,
+        "INCLINATION": 90.3233,
+        "RA_OF_ASC_NODE": 16.119,
+        "ARG_OF_PERICENTER": 203.0527,
+        "MEAN_ANOMALY": 277.7988,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 19071,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 82092,
+        "BSTAR": 0.00010226,
+        "MEAN_MOTION_DOT": 5.9e-07,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 19071,
+        "name": "OSCAR 32",
+        "group": "nnss",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.927883+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "NOVA 2",
+        "OBJECT_ID": "1988-052A",
+        "EPOCH": "2025-11-29T20:11:48.838272",
+        "MEAN_MOTION": 13.2293355,
+        "ECCENTRICITY": 0.003159,
+        "INCLINATION": 89.9871,
+        "RA_OF_ASC_NODE": 78.2882,
+        "ARG_OF_PERICENTER": 51.5657,
+        "MEAN_ANOMALY": 71.8551,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 19223,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 80777,
+        "BSTAR": 1.5706e-05,
+        "MEAN_MOTION_DOT": 1.6e-07,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 19223,
+        "name": "NOVA 2",
+        "group": "nnss",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.927891+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "OSCAR 25",
+        "OBJECT_ID": "1988-074A",
+        "EPOCH": "2025-11-29T04:21:36.849600",
+        "MEAN_MOTION": 13.42619369,
+        "ECCENTRICITY": 0.00941887,
+        "INCLINATION": 90.0361,
+        "RA_OF_ASC_NODE": 20.1987,
+        "ARG_OF_PERICENTER": 285.2444,
+        "MEAN_ANOMALY": 133.9908,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 19419,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 82458,
+        "BSTAR": 0.00017240494,
+        "MEAN_MOTION_DOT": 1.08e-06,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 19419,
+        "name": "OSCAR 25",
+        "group": "nnss",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.927900+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "OSCAR 31",
+        "OBJECT_ID": "1988-074B",
+        "EPOCH": "2025-11-29T17:45:50.466816",
+        "MEAN_MOTION": 13.42581314,
+        "ECCENTRICITY": 0.0092401,
+        "INCLINATION": 90.0377,
+        "RA_OF_ASC_NODE": 20.5486,
+        "ARG_OF_PERICENTER": 277.7289,
+        "MEAN_ANOMALY": 204.906,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 19420,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 82476,
+        "BSTAR": 0.00012607,
+        "MEAN_MOTION_DOT": 8.1e-07,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 19420,
+        "name": "OSCAR 31",
+        "group": "nnss",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.927908+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    }
+  ]
 }

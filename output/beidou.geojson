@@ -1,4 +1,1966 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "BEIDOU-2 IGSO-1 (C06)",
+        "OBJECT_ID": "2010-036A",
+        "EPOCH": "2025-11-28T22:59:04.531776",
+        "MEAN_MOTION": 1.00280069,
+        "ECCENTRICITY": 0.00512455,
+        "INCLINATION": 54.2834,
+        "RA_OF_ASC_NODE": 164.7738,
+        "ARG_OF_PERICENTER": 215.7,
+        "MEAN_ANOMALY": 140.0675,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 36828,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 5608,
+        "BSTAR": 0,
+        "MEAN_MOTION_DOT": -3.3e-07,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 36828,
+        "name": "BEIDOU-2 IGSO-1 (C06)",
+        "group": "beidou",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.838398+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "BEIDOU-2 G4 (C04)",
+        "OBJECT_ID": "2010-057A",
+        "EPOCH": "2025-11-29T19:46:13.101600",
+        "MEAN_MOTION": 1.00271745,
+        "ECCENTRICITY": 0.001068,
+        "INCLINATION": 3.1497,
+        "RA_OF_ASC_NODE": 69.9703,
+        "ARG_OF_PERICENTER": 187.1585,
+        "MEAN_ANOMALY": 268.4639,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 37210,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 5529,
+        "BSTAR": 0,
+        "MEAN_MOTION_DOT": -9e-07,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 37210,
+        "name": "BEIDOU-2 G4 (C04)",
+        "group": "beidou",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.838539+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "BEIDOU-2 IGSO-2 (C07)",
+        "OBJECT_ID": "2010-068A",
+        "EPOCH": "2025-11-29T18:13:27.292224",
+        "MEAN_MOTION": 1.00290379,
+        "ECCENTRICITY": 0.0049444,
+        "INCLINATION": 47.9125,
+        "RA_OF_ASC_NODE": 274.3115,
+        "ARG_OF_PERICENTER": 216.4564,
+        "MEAN_ANOMALY": 318.4665,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 37256,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 5479,
+        "BSTAR": 0,
+        "MEAN_MOTION_DOT": -2.21e-06,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 37256,
+        "name": "BEIDOU-2 IGSO-2 (C07)",
+        "group": "beidou",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.838588+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "BEIDOU-2 IGSO-3 (C08)",
+        "OBJECT_ID": "2011-013A",
+        "EPOCH": "2025-11-29T21:04:05.094336",
+        "MEAN_MOTION": 1.00273417,
+        "ECCENTRICITY": 0.0035665,
+        "INCLINATION": 62.1255,
+        "RA_OF_ASC_NODE": 42.0418,
+        "ARG_OF_PERICENTER": 186.0158,
+        "MEAN_ANOMALY": 264.7363,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 37384,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 5366,
+        "BSTAR": 0,
+        "MEAN_MOTION_DOT": -1.94e-06,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 37384,
+        "name": "BEIDOU-2 IGSO-3 (C08)",
+        "group": "beidou",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.838615+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "BEIDOU-2 IGSO-4 (C09)",
+        "OBJECT_ID": "2011-038A",
+        "EPOCH": "2025-11-28T12:37:32.473920",
+        "MEAN_MOTION": 1.00284857,
+        "ECCENTRICITY": 0.01486323,
+        "INCLINATION": 54.5801,
+        "RA_OF_ASC_NODE": 167.4746,
+        "ARG_OF_PERICENTER": 230.1967,
+        "MEAN_ANOMALY": 313.2933,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 37763,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 5263,
+        "BSTAR": 0,
+        "MEAN_MOTION_DOT": 8.5e-07,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 37763,
+        "name": "BEIDOU-2 IGSO-4 (C09)",
+        "group": "beidou",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.838766+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "BEIDOU-2 IGSO-5 (C10)",
+        "OBJECT_ID": "2011-073A",
+        "EPOCH": "2025-11-29T19:26:52.453248",
+        "MEAN_MOTION": 1.00293473,
+        "ECCENTRICITY": 0.0110906,
+        "INCLINATION": 48.0464,
+        "RA_OF_ASC_NODE": 274.019,
+        "ARG_OF_PERICENTER": 222.2939,
+        "MEAN_ANOMALY": 316.5119,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 37948,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 5113,
+        "BSTAR": 0,
+        "MEAN_MOTION_DOT": -1.66e-06,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 37948,
+        "name": "BEIDOU-2 IGSO-5 (C10)",
+        "group": "beidou",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.838996+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "BEIDOU-2 G5 (C05)",
+        "OBJECT_ID": "2012-008A",
+        "EPOCH": "2025-11-29T21:00:06.024672",
+        "MEAN_MOTION": 1.00271522,
+        "ECCENTRICITY": 0.0012009,
+        "INCLINATION": 3.0743,
+        "RA_OF_ASC_NODE": 70.7453,
+        "ARG_OF_PERICENTER": 225.2491,
+        "MEAN_ANOMALY": 146.7458,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 38091,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 5037,
+        "BSTAR": 0,
+        "MEAN_MOTION_DOT": 7.9e-07,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 38091,
+        "name": "BEIDOU-2 G5 (C05)",
+        "group": "beidou",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.839096+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "BEIDOU-2 M3 (C11)",
+        "OBJECT_ID": "2012-018A",
+        "EPOCH": "2025-11-27T07:01:03.379872",
+        "MEAN_MOTION": 1.86229829,
+        "ECCENTRICITY": 0.00246173,
+        "INCLINATION": 55.9334,
+        "RA_OF_ASC_NODE": 311.6771,
+        "ARG_OF_PERICENTER": 273.0171,
+        "MEAN_ANOMALY": 86.7042,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 38250,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 9218,
+        "BSTAR": 0,
+        "MEAN_MOTION_DOT": -3.9e-07,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 38250,
+        "name": "BEIDOU-2 M3 (C11)",
+        "group": "beidou",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.839131+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "BEIDOU-2 M4 (C12)",
+        "OBJECT_ID": "2012-018B",
+        "EPOCH": "2025-11-29T08:56:04.051968",
+        "MEAN_MOTION": 1.86229448,
+        "ECCENTRICITY": 0.00157,
+        "INCLINATION": 55.833,
+        "RA_OF_ASC_NODE": 310.8372,
+        "ARG_OF_PERICENTER": 276.156,
+        "MEAN_ANOMALY": 83.6664,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 38251,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 9222,
+        "BSTAR": 0,
+        "MEAN_MOTION_DOT": -4.4e-07,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 38251,
+        "name": "BEIDOU-2 M4 (C12)",
+        "group": "beidou",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.839137+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "BEIDOU-2 M6 (C14)",
+        "OBJECT_ID": "2012-050B",
+        "EPOCH": "2025-11-29T14:53:05.047584",
+        "MEAN_MOTION": 1.86230738,
+        "ECCENTRICITY": 0.0010807,
+        "INCLINATION": 56.3673,
+        "RA_OF_ASC_NODE": 69.503,
+        "ARG_OF_PERICENTER": 346.8853,
+        "MEAN_ANOMALY": 13.0946,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 38775,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 8959,
+        "BSTAR": 0,
+        "MEAN_MOTION_DOT": -2.7e-07,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 38775,
+        "name": "BEIDOU-2 M6 (C14)",
+        "group": "beidou",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.839338+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "BEIDOU-2 G6 (C02)",
+        "OBJECT_ID": "2012-059A",
+        "EPOCH": "2025-11-29T21:07:12.844992",
+        "MEAN_MOTION": 1.00271616,
+        "ECCENTRICITY": 0.0007215,
+        "INCLINATION": 3.9136,
+        "RA_OF_ASC_NODE": 75.6286,
+        "ARG_OF_PERICENTER": 292.5361,
+        "MEAN_ANOMALY": 101.7162,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 38953,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 4791,
+        "BSTAR": 0,
+        "MEAN_MOTION_DOT": -1.54e-06,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 38953,
+        "name": "BEIDOU-2 G6 (C02)",
+        "group": "beidou",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.839397+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "BEIDOU-3S M2S (C58)",
+        "OBJECT_ID": "2015-037A",
+        "EPOCH": "2025-11-29T13:51:22.181184",
+        "MEAN_MOTION": 1.86229065,
+        "ECCENTRICITY": 0.0012518,
+        "INCLINATION": 55.0506,
+        "RA_OF_ASC_NODE": 308.9158,
+        "ARG_OF_PERICENTER": 266.8741,
+        "MEAN_ANOMALY": 92.982,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 40748,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 7040,
+        "BSTAR": 0,
+        "MEAN_MOTION_DOT": -4.7e-07,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 40748,
+        "name": "BEIDOU-3S M2S (C58)",
+        "group": "beidou",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.841195+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "BEIDOU-3S M1S (C57)",
+        "OBJECT_ID": "2015-037B",
+        "EPOCH": "2025-11-26T01:13:29.678016",
+        "MEAN_MOTION": 1.8625392,
+        "ECCENTRICITY": 0.00032681,
+        "INCLINATION": 55.0504,
+        "RA_OF_ASC_NODE": 309.0266,
+        "ARG_OF_PERICENTER": 354.4635,
+        "MEAN_ANOMALY": 5.5327,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 40749,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 7034,
+        "BSTAR": 0,
+        "MEAN_MOTION_DOT": -4e-07,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 40749,
+        "name": "BEIDOU-3S M1S (C57)",
+        "group": "beidou",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.841202+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "BEIDOU-3S IGSO-2S (C56)",
+        "OBJECT_ID": "2015-053A",
+        "EPOCH": "2025-11-27T17:37:14.549952",
+        "MEAN_MOTION": 1.00273439,
+        "ECCENTRICITY": 0.00609746,
+        "INCLINATION": 49.5372,
+        "RA_OF_ASC_NODE": 261.1858,
+        "ARG_OF_PERICENTER": 189.0175,
+        "MEAN_ANOMALY": 337.1684,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 40938,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 3733,
+        "BSTAR": 0,
+        "MEAN_MOTION_DOT": -1.47e-06,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 40938,
+        "name": "BEIDOU-3S IGSO-2S (C56)",
+        "group": "beidou",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.841314+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "BEIDOU-2 IGSO-6 (C13)",
+        "OBJECT_ID": "2016-021A",
+        "EPOCH": "2025-11-29T16:01:16.721760",
+        "MEAN_MOTION": 1.00257137,
+        "ECCENTRICITY": 0.0059092,
+        "INCLINATION": 59.9454,
+        "RA_OF_ASC_NODE": 40.0323,
+        "ARG_OF_PERICENTER": 231.0312,
+        "MEAN_ANOMALY": 130.2075,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 41434,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 3548,
+        "BSTAR": 0,
+        "MEAN_MOTION_DOT": -1.5e-06,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 41434,
+        "name": "BEIDOU-2 IGSO-6 (C13)",
+        "group": "beidou",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.841701+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "BEIDOU-2 G7 (C03)",
+        "OBJECT_ID": "2016-037A",
+        "EPOCH": "2025-11-29T21:14:49.615872",
+        "MEAN_MOTION": 1.00273822,
+        "ECCENTRICITY": 0.0004608,
+        "INCLINATION": 1.7228,
+        "RA_OF_ASC_NODE": 67.6404,
+        "ARG_OF_PERICENTER": 7.5039,
+        "MEAN_ANOMALY": 63.0619,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 41586,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 489,
+        "BSTAR": 0,
+        "MEAN_MOTION_DOT": -3.32e-06,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 41586,
+        "name": "BEIDOU-2 G7 (C03)",
+        "group": "beidou",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.841768+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "BEIDOU-3 M1 (C19)",
+        "OBJECT_ID": "2017-069A",
+        "EPOCH": "2025-11-28T07:28:58.255968",
+        "MEAN_MOTION": 1.86230943,
+        "ECCENTRICITY": 0.00086215,
+        "INCLINATION": 56.5141,
+        "RA_OF_ASC_NODE": 69.7116,
+        "ARG_OF_PERICENTER": 303.3663,
+        "MEAN_ANOMALY": 56.5627,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 43001,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 5486,
+        "BSTAR": 0,
+        "MEAN_MOTION_DOT": -1.8e-07,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 43001,
+        "name": "BEIDOU-3 M1 (C19)",
+        "group": "beidou",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.842901+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "BEIDOU-3 M2 (C20)",
+        "OBJECT_ID": "2017-069B",
+        "EPOCH": "2025-11-28T06:00:11.483424",
+        "MEAN_MOTION": 1.86230672,
+        "ECCENTRICITY": 0.00060168,
+        "INCLINATION": 56.5138,
+        "RA_OF_ASC_NODE": 69.7491,
+        "ARG_OF_PERICENTER": 333.6631,
+        "MEAN_ANOMALY": 26.3178,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 43002,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 5485,
+        "BSTAR": 0,
+        "MEAN_MOTION_DOT": -1.8e-07,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 43002,
+        "name": "BEIDOU-3 M2 (C20)",
+        "group": "beidou",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.842907+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "BEIDOU-3 M7 (C27)",
+        "OBJECT_ID": "2018-003A",
+        "EPOCH": "2025-11-29T14:30:05.127264",
+        "MEAN_MOTION": 1.86232315,
+        "ECCENTRICITY": 0.0002541,
+        "INCLINATION": 54.5085,
+        "RA_OF_ASC_NODE": 309.2719,
+        "ARG_OF_PERICENTER": 71.5198,
+        "MEAN_ANOMALY": 288.5077,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 43107,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 5363,
+        "BSTAR": 0,
+        "MEAN_MOTION_DOT": -4.8e-07,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 43107,
+        "name": "BEIDOU-3 M7 (C27)",
+        "group": "beidou",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.843149+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "BEIDOU-3 M8 (C28)",
+        "OBJECT_ID": "2018-003B",
+        "EPOCH": "2025-11-29T13:10:35.531040",
+        "MEAN_MOTION": 1.8623082,
+        "ECCENTRICITY": 0.0004845,
+        "INCLINATION": 54.5014,
+        "RA_OF_ASC_NODE": 309.2567,
+        "ARG_OF_PERICENTER": 273.2539,
+        "MEAN_ANOMALY": 86.6905,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 43108,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 5364,
+        "BSTAR": 0,
+        "MEAN_MOTION_DOT": -4.8e-07,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 43108,
+        "name": "BEIDOU-3 M8 (C28)",
+        "group": "beidou",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.843155+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "BEIDOU-3 M4 (C22)",
+        "OBJECT_ID": "2018-018A",
+        "EPOCH": "2025-11-26T18:27:35.955360",
+        "MEAN_MOTION": 1.86230999,
+        "ECCENTRICITY": 0.00039507,
+        "INCLINATION": 56.4719,
+        "RA_OF_ASC_NODE": 69.8337,
+        "ARG_OF_PERICENTER": 19.032,
+        "MEAN_ANOMALY": 340.9952,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 43207,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 5297,
+        "BSTAR": 0,
+        "MEAN_MOTION_DOT": -1.3e-07,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 43207,
+        "name": "BEIDOU-3 M4 (C22)",
+        "group": "beidou",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.843305+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "BEIDOU-3 M3 (C21)",
+        "OBJECT_ID": "2018-018B",
+        "EPOCH": "2025-11-25T18:16:58.521216",
+        "MEAN_MOTION": 1.86231215,
+        "ECCENTRICITY": 0.00059359,
+        "INCLINATION": 56.4705,
+        "RA_OF_ASC_NODE": 69.8711,
+        "ARG_OF_PERICENTER": 317.5562,
+        "MEAN_ANOMALY": 42.409,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 43208,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 5295,
+        "BSTAR": 0,
+        "MEAN_MOTION_DOT": -1.4e-07,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 43208,
+        "name": "BEIDOU-3 M3 (C21)",
+        "group": "beidou",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.843311+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "BEIDOU-3 M9 (C29)",
+        "OBJECT_ID": "2018-029A",
+        "EPOCH": "2025-11-29T04:47:21.996096",
+        "MEAN_MOTION": 1.86228028,
+        "ECCENTRICITY": 0.00018374,
+        "INCLINATION": 54.3786,
+        "RA_OF_ASC_NODE": 306.941,
+        "ARG_OF_PERICENTER": 271.5998,
+        "MEAN_ANOMALY": 88.3783,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 43245,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 5217,
+        "BSTAR": 0,
+        "MEAN_MOTION_DOT": -4.6e-07,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 43245,
+        "name": "BEIDOU-3 M9 (C29)",
+        "group": "beidou",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.843376+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "BEIDOU-3 M10 (C30)",
+        "OBJECT_ID": "2018-029B",
+        "EPOCH": "2025-11-29T03:14:13.986240",
+        "MEAN_MOTION": 1.86228967,
+        "ECCENTRICITY": 0.00039142,
+        "INCLINATION": 54.3758,
+        "RA_OF_ASC_NODE": 306.9698,
+        "ARG_OF_PERICENTER": 358.6776,
+        "MEAN_ANOMALY": 1.3207,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 43246,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 5215,
+        "BSTAR": 0,
+        "MEAN_MOTION_DOT": -4.6e-07,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 43246,
+        "name": "BEIDOU-3 M10 (C30)",
+        "group": "beidou",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.843382+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "BEIDOU-2 IGSO-7 (C16)",
+        "OBJECT_ID": "2018-057A",
+        "EPOCH": "2025-11-28T22:59:41.972352",
+        "MEAN_MOTION": 1.00261052,
+        "ECCENTRICITY": 0.00923584,
+        "INCLINATION": 55.1733,
+        "RA_OF_ASC_NODE": 164.7931,
+        "ARG_OF_PERICENTER": 235.1257,
+        "MEAN_ANOMALY": 124.7491,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 43539,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 2712,
+        "BSTAR": 0,
+        "MEAN_MOTION_DOT": -3.5e-07,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 43539,
+        "name": "BEIDOU-2 IGSO-7 (C16)",
+        "group": "beidou",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.843675+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "BEIDOU-3 M5 (C23)",
+        "OBJECT_ID": "2018-062A",
+        "EPOCH": "2025-11-29T21:31:06.176064",
+        "MEAN_MOTION": 1.86228572,
+        "ECCENTRICITY": 0.0002145,
+        "INCLINATION": 54.0892,
+        "RA_OF_ASC_NODE": 189.0808,
+        "ARG_OF_PERICENTER": 349.5342,
+        "MEAN_ANOMALY": 10.5508,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 43581,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 4992,
+        "BSTAR": 0,
+        "MEAN_MOTION_DOT": 1.08e-06,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 43581,
+        "name": "BEIDOU-3 M5 (C23)",
+        "group": "beidou",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.843780+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "BEIDOU-3 M6 (C24)",
+        "OBJECT_ID": "2018-062B",
+        "EPOCH": "2025-11-29T05:20:48.758784",
+        "MEAN_MOTION": 1.86229634,
+        "ECCENTRICITY": 0.0007653,
+        "INCLINATION": 54.0888,
+        "RA_OF_ASC_NODE": 189.0929,
+        "ARG_OF_PERICENTER": 45.3523,
+        "MEAN_ANOMALY": 314.7975,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 43582,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 4991,
+        "BSTAR": 0,
+        "MEAN_MOTION_DOT": 1.01e-06,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 43582,
+        "name": "BEIDOU-3 M6 (C24)",
+        "group": "beidou",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.843787+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "BEIDOU-3 M12 (C26)",
+        "OBJECT_ID": "2018-067A",
+        "EPOCH": "2025-11-29T03:51:04.626144",
+        "MEAN_MOTION": 1.86227642,
+        "ECCENTRICITY": 0.0009124,
+        "INCLINATION": 54.1831,
+        "RA_OF_ASC_NODE": 187.8243,
+        "ARG_OF_PERICENTER": 40.2231,
+        "MEAN_ANOMALY": 319.9311,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 43602,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 4939,
+        "BSTAR": 0,
+        "MEAN_MOTION_DOT": 1.03e-06,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 43602,
+        "name": "BEIDOU-3 M12 (C26)",
+        "group": "beidou",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.843806+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "BEIDOU-3 M11 (C25)",
+        "OBJECT_ID": "2018-067B",
+        "EPOCH": "2025-11-29T07:04:43.134816",
+        "MEAN_MOTION": 1.8622715,
+        "ECCENTRICITY": 0.0005556,
+        "INCLINATION": 54.1805,
+        "RA_OF_ASC_NODE": 187.7838,
+        "ARG_OF_PERICENTER": 35.6073,
+        "MEAN_ANOMALY": 324.5167,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 43603,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 4942,
+        "BSTAR": 0,
+        "MEAN_MOTION_DOT": 1.04e-06,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 43603,
+        "name": "BEIDOU-3 M11 (C25)",
+        "group": "beidou",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.843812+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "BEIDOU-3 M13 (C32)",
+        "OBJECT_ID": "2018-072A",
+        "EPOCH": "2025-11-28T17:08:58.161120",
+        "MEAN_MOTION": 1.86230774,
+        "ECCENTRICITY": 0.00053979,
+        "INCLINATION": 56.447,
+        "RA_OF_ASC_NODE": 69.285,
+        "ARG_OF_PERICENTER": 298.8497,
+        "MEAN_ANOMALY": 61.1071,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 43622,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 4892,
+        "BSTAR": 0,
+        "MEAN_MOTION_DOT": -2.2e-07,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 43622,
+        "name": "BEIDOU-3 M13 (C32)",
+        "group": "beidou",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.843867+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "BEIDOU-3 M14 (C33)",
+        "OBJECT_ID": "2018-072B",
+        "EPOCH": "2025-11-29T15:41:39.951168",
+        "MEAN_MOTION": 1.86230754,
+        "ECCENTRICITY": 0.0002978,
+        "INCLINATION": 56.4495,
+        "RA_OF_ASC_NODE": 69.2478,
+        "ARG_OF_PERICENTER": 337.4525,
+        "MEAN_ANOMALY": 22.5427,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 43623,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 4893,
+        "BSTAR": 0,
+        "MEAN_MOTION_DOT": -2.8e-07,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 43623,
+        "name": "BEIDOU-3 M14 (C33)",
+        "group": "beidou",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.843873+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "BEIDOU-3 M16 (C35)",
+        "OBJECT_ID": "2018-078A",
+        "EPOCH": "2025-11-29T06:36:00.842400",
+        "MEAN_MOTION": 1.86232199,
+        "ECCENTRICITY": 0.00068963,
+        "INCLINATION": 54.2745,
+        "RA_OF_ASC_NODE": 306.9921,
+        "ARG_OF_PERICENTER": 18.0766,
+        "MEAN_ANOMALY": 341.9469,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 43647,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 4843,
+        "BSTAR": 0,
+        "MEAN_MOTION_DOT": -4.7e-07,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 43647,
+        "name": "BEIDOU-3 M16 (C35)",
+        "group": "beidou",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.843918+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "BEIDOU-3 M15 (C34)",
+        "OBJECT_ID": "2018-078B",
+        "EPOCH": "2025-11-27T06:09:15.194304",
+        "MEAN_MOTION": 1.86232135,
+        "ECCENTRICITY": 0.00034943,
+        "INCLINATION": 54.2721,
+        "RA_OF_ASC_NODE": 307.0637,
+        "ARG_OF_PERICENTER": 16.4004,
+        "MEAN_ANOMALY": 343.6115,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 43648,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 4841,
+        "BSTAR": 0,
+        "MEAN_MOTION_DOT": -4.1e-07,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 43648,
+        "name": "BEIDOU-3 M15 (C34)",
+        "group": "beidou",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.843925+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "BEIDOU-3 G1 (C59)",
+        "OBJECT_ID": "2018-085A",
+        "EPOCH": "2025-11-28T14:34:02.383392",
+        "MEAN_MOTION": 1.00265618,
+        "ECCENTRICITY": 0.00016155,
+        "INCLINATION": 2.5692,
+        "RA_OF_ASC_NODE": 103.4187,
+        "ARG_OF_PERICENTER": 56.2445,
+        "MEAN_ANOMALY": 266.5866,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 43683,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 2604,
+        "BSTAR": 0,
+        "MEAN_MOTION_DOT": -2.57e-06,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 43683,
+        "name": "BEIDOU-3 G1 (C59)",
+        "group": "beidou",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.843993+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "BEIDOU-3 M17 (C36)",
+        "OBJECT_ID": "2018-093A",
+        "EPOCH": "2025-11-29T05:25:11.547840",
+        "MEAN_MOTION": 1.86228229,
+        "ECCENTRICITY": 0.00063955,
+        "INCLINATION": 54.1728,
+        "RA_OF_ASC_NODE": 189.0811,
+        "ARG_OF_PERICENTER": 306.0402,
+        "MEAN_ANOMALY": 188.2123,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 43706,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 4781,
+        "BSTAR": 0,
+        "MEAN_MOTION_DOT": 1.01e-06,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 43706,
+        "name": "BEIDOU-3 M17 (C36)",
+        "group": "beidou",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.844028+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "BEIDOU-3 M18 (C37)",
+        "OBJECT_ID": "2018-093B",
+        "EPOCH": "2025-11-28T21:17:17.998368",
+        "MEAN_MOTION": 1.86226504,
+        "ECCENTRICITY": 0.00063913,
+        "INCLINATION": 54.1734,
+        "RA_OF_ASC_NODE": 189.0845,
+        "ARG_OF_PERICENTER": 350.498,
+        "MEAN_ANOMALY": 9.5767,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 43707,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 4780,
+        "BSTAR": 0,
+        "MEAN_MOTION_DOT": 9.7e-07,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 43707,
+        "name": "BEIDOU-3 M18 (C37)",
+        "group": "beidou",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.844035+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "BEIDOU-3 IGSO-1 (C38)",
+        "OBJECT_ID": "2019-023A",
+        "EPOCH": "2025-11-19T14:15:02.708640",
+        "MEAN_MOTION": 1.00252177,
+        "ECCENTRICITY": 0.0026966,
+        "INCLINATION": 58.4003,
+        "RA_OF_ASC_NODE": 39.8168,
+        "ARG_OF_PERICENTER": 221.2202,
+        "MEAN_ANOMALY": 126.9723,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 44204,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 510,
+        "BSTAR": 0,
+        "MEAN_MOTION_DOT": -2.26e-06,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 44204,
+        "name": "BEIDOU-3 IGSO-1 (C38)",
+        "group": "beidou",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.844696+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "BEIDOU-2 G8 (C01)",
+        "OBJECT_ID": "2019-027A",
+        "EPOCH": "2025-11-29T19:41:51.021024",
+        "MEAN_MOTION": 1.00271583,
+        "ECCENTRICITY": 0.0008064,
+        "INCLINATION": 1.6262,
+        "RA_OF_ASC_NODE": 74.6838,
+        "ARG_OF_PERICENTER": 255.8945,
+        "MEAN_ANOMALY": 178.4288,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 44231,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 2408,
+        "BSTAR": 0,
+        "MEAN_MOTION_DOT": -2.25e-06,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 44231,
+        "name": "BEIDOU-2 G8 (C01)",
+        "group": "beidou",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.844717+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "BEIDOU-3 IGSO-2 (C39)",
+        "OBJECT_ID": "2019-035A",
+        "EPOCH": "2025-11-28T17:30:26.765280",
+        "MEAN_MOTION": 1.00275421,
+        "ECCENTRICITY": 0.00375973,
+        "INCLINATION": 55.2218,
+        "RA_OF_ASC_NODE": 160.6256,
+        "ARG_OF_PERICENTER": 202.098,
+        "MEAN_ANOMALY": 87.3007,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 44337,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 2365,
+        "BSTAR": 0,
+        "MEAN_MOTION_DOT": -4e-07,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 44337,
+        "name": "BEIDOU-3 IGSO-2 (C39)",
+        "group": "beidou",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.844801+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "BEIDOU-3 M24 (C46)",
+        "OBJECT_ID": "2019-061A",
+        "EPOCH": "2025-11-26T19:27:02.066976",
+        "MEAN_MOTION": 1.86229332,
+        "ECCENTRICITY": 0.00095394,
+        "INCLINATION": 54.4001,
+        "RA_OF_ASC_NODE": 189.5541,
+        "ARG_OF_PERICENTER": 22.7789,
+        "MEAN_ANOMALY": 337.3497,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 44542,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 4202,
+        "BSTAR": 0,
+        "MEAN_MOTION_DOT": 7.7e-07,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 44542,
+        "name": "BEIDOU-3 M24 (C46)",
+        "group": "beidou",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.845064+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "BEIDOU-3 M23 (C45)",
+        "OBJECT_ID": "2019-061B",
+        "EPOCH": "2025-11-26T15:59:11.855616",
+        "MEAN_MOTION": 1.86229531,
+        "ECCENTRICITY": 0.0006035,
+        "INCLINATION": 54.3988,
+        "RA_OF_ASC_NODE": 189.5274,
+        "ARG_OF_PERICENTER": 20.6037,
+        "MEAN_ANOMALY": 155.5934,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 44543,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 4202,
+        "BSTAR": 0,
+        "MEAN_MOTION_DOT": 7.6e-07,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 44543,
+        "name": "BEIDOU-3 M23 (C45)",
+        "group": "beidou",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.845070+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "BEIDOU-3 IGSO-3 (C40)",
+        "OBJECT_ID": "2019-073A",
+        "EPOCH": "2025-11-20T07:11:22.740000",
+        "MEAN_MOTION": 1.00250097,
+        "ECCENTRICITY": 0.0044538,
+        "INCLINATION": 55.163,
+        "RA_OF_ASC_NODE": 283.159,
+        "ARG_OF_PERICENTER": 191.5856,
+        "MEAN_ANOMALY": 168.2409,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 44709,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 2236,
+        "BSTAR": 0,
+        "MEAN_MOTION_DOT": -2.06e-06,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 44709,
+        "name": "BEIDOU-3 IGSO-3 (C40)",
+        "group": "beidou",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.845124+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "BEIDOU-3 M22 (C44)",
+        "OBJECT_ID": "2019-078A",
+        "EPOCH": "2025-11-27T04:30:08.366112",
+        "MEAN_MOTION": 1.86231951,
+        "ECCENTRICITY": 0.00055464,
+        "INCLINATION": 54.1229,
+        "RA_OF_ASC_NODE": 306.9322,
+        "ARG_OF_PERICENTER": 22.1843,
+        "MEAN_ANOMALY": 337.8402,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 44793,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 4088,
+        "BSTAR": 0,
+        "MEAN_MOTION_DOT": -4.1e-07,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 44793,
+        "name": "BEIDOU-3 M22 (C44)",
+        "group": "beidou",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.845309+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "BEIDOU-3 M21 (C43)",
+        "OBJECT_ID": "2019-078B",
+        "EPOCH": "2025-11-26T18:54:39.189312",
+        "MEAN_MOTION": 1.86227675,
+        "ECCENTRICITY": 0.00037548,
+        "INCLINATION": 54.096,
+        "RA_OF_ASC_NODE": 306.9116,
+        "ARG_OF_PERICENTER": 9.2577,
+        "MEAN_ANOMALY": 350.7493,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 44794,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 4088,
+        "BSTAR": 0,
+        "MEAN_MOTION_DOT": -4.1e-07,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 44794,
+        "name": "BEIDOU-3 M21 (C43)",
+        "group": "beidou",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.845315+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "BEIDOU-3 M19 (C41)",
+        "OBJECT_ID": "2019-090A",
+        "EPOCH": "2025-11-29T20:44:36.194784",
+        "MEAN_MOTION": 1.86231195,
+        "ECCENTRICITY": 0.0017437,
+        "INCLINATION": 56.3818,
+        "RA_OF_ASC_NODE": 69.3894,
+        "ARG_OF_PERICENTER": 284.5878,
+        "MEAN_ANOMALY": 173.5726,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 44864,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 4052,
+        "BSTAR": 0,
+        "MEAN_MOTION_DOT": -2.9e-07,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 44864,
+        "name": "BEIDOU-3 M19 (C41)",
+        "group": "beidou",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.845379+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "BEIDOU-3 M20 (C42)",
+        "OBJECT_ID": "2019-090B",
+        "EPOCH": "2025-11-26T09:59:32.112096",
+        "MEAN_MOTION": 1.8623137,
+        "ECCENTRICITY": 0.00144408,
+        "INCLINATION": 56.3803,
+        "RA_OF_ASC_NODE": 69.5381,
+        "ARG_OF_PERICENTER": 297.2431,
+        "MEAN_ANOMALY": 98.8498,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 44865,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 4044,
+        "BSTAR": 0,
+        "MEAN_MOTION_DOT": -1.4e-07,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 44865,
+        "name": "BEIDOU-3 M20 (C42)",
+        "group": "beidou",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.845386+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "BEIDOU-3 G2 (C60)",
+        "OBJECT_ID": "2020-017A",
+        "EPOCH": "2025-11-29T21:06:05.452128",
+        "MEAN_MOTION": 1.00270959,
+        "ECCENTRICITY": 0.0004329,
+        "INCLINATION": 2.975,
+        "RA_OF_ASC_NODE": 43.4929,
+        "ARG_OF_PERICENTER": 264.3167,
+        "MEAN_ANOMALY": 157.8011,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 45344,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 2126,
+        "BSTAR": 0,
+        "MEAN_MOTION_DOT": -1.21e-06,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 45344,
+        "name": "BEIDOU-3 G2 (C60)",
+        "group": "beidou",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.846420+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "BEIDOU-3 G3 (C61)",
+        "OBJECT_ID": "2020-040A",
+        "EPOCH": "2025-11-29T07:32:57.907104",
+        "MEAN_MOTION": 1.00269167,
+        "ECCENTRICITY": 0.00049347,
+        "INCLINATION": 1.9557,
+        "RA_OF_ASC_NODE": 66.4787,
+        "ARG_OF_PERICENTER": 308.5325,
+        "MEAN_ANOMALY": 277.2582,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 45807,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 2006,
+        "BSTAR": 0,
+        "MEAN_MOTION_DOT": -3.32e-06,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 45807,
+        "name": "BEIDOU-3 G3 (C61)",
+        "group": "beidou",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.847465+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "BEIDOU-3 G4 (C62)",
+        "OBJECT_ID": "2023-066A",
+        "EPOCH": "2025-11-29T19:46:13.101600",
+        "MEAN_MOTION": 1.00271417,
+        "ECCENTRICITY": 0.0003499,
+        "INCLINATION": 0.8456,
+        "RA_OF_ASC_NODE": 300.9169,
+        "ARG_OF_PERICENTER": 231.3595,
+        "MEAN_ANOMALY": 353.3186,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 56564,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 939,
+        "BSTAR": 0,
+        "MEAN_MOTION_DOT": -9e-07,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 56564,
+        "name": "BEIDOU-3 G4 (C62)",
+        "group": "beidou",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.875212+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "BEIDOU-3 M28 (C50)",
+        "OBJECT_ID": "2023-207A",
+        "EPOCH": "2025-11-27T22:33:52.745184",
+        "MEAN_MOTION": 1.86229668,
+        "ECCENTRICITY": 0.00018154,
+        "INCLINATION": 55.5716,
+        "RA_OF_ASC_NODE": 69.1028,
+        "ARG_OF_PERICENTER": 262.146,
+        "MEAN_ANOMALY": 97.8458,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 58654,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 1309,
+        "BSTAR": 0,
+        "MEAN_MOTION_DOT": -1.9e-07,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 58654,
+        "name": "BEIDOU-3 M28 (C50)",
+        "group": "beidou",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.884747+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "BEIDOU-3 M26 (C48)",
+        "OBJECT_ID": "2023-207B",
+        "EPOCH": "2025-11-28T06:35:52.080576",
+        "MEAN_MOTION": 1.86231153,
+        "ECCENTRICITY": 0.00033196,
+        "INCLINATION": 55.574,
+        "RA_OF_ASC_NODE": 69.0776,
+        "ARG_OF_PERICENTER": 248.7827,
+        "MEAN_ANOMALY": 111.1937,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 58655,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 1308,
+        "BSTAR": 0,
+        "MEAN_MOTION_DOT": -2e-07,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 58655,
+        "name": "BEIDOU-3 M26 (C48)",
+        "group": "beidou",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.884754+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "BEIDOU-3 M25 (C47)",
+        "OBJECT_ID": "2024-168B",
+        "EPOCH": "2025-11-29T05:11:27.449088",
+        "MEAN_MOTION": 1.86229924,
+        "ECCENTRICITY": 0.00055836,
+        "INCLINATION": 54.6546,
+        "RA_OF_ASC_NODE": 309.1896,
+        "ARG_OF_PERICENTER": 293.0881,
+        "MEAN_ANOMALY": 94.9901,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 61186,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 806,
+        "BSTAR": 0,
+        "MEAN_MOTION_DOT": -4.6e-07,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 61186,
+        "name": "BEIDOU-3 M25 (C47)",
+        "group": "beidou",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.896969+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "BEIDOU-3 M27 (C49)",
+        "OBJECT_ID": "2024-168C",
+        "EPOCH": "2025-11-26T13:19:53.060736",
+        "MEAN_MOTION": 1.86230231,
+        "ECCENTRICITY": 0.00022893,
+        "INCLINATION": 54.6526,
+        "RA_OF_ASC_NODE": 309.2656,
+        "ARG_OF_PERICENTER": 325.5656,
+        "MEAN_ANOMALY": 213.5122,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 61187,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 548,
+        "BSTAR": 0,
+        "MEAN_MOTION_DOT": -4.1e-07,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 61187,
+        "name": "BEIDOU-3 M27 (C49)",
+        "group": "beidou",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.896976+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    }
+  ]
 }

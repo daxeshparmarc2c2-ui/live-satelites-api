@@ -1,0 +1,1041 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "COSMOS 2433 (720)",
+        "OBJECT_ID": "2007-052A",
+        "EPOCH": "2025-11-28T01:45:19.581120",
+        "MEAN_MOTION": 2.13104008,
+        "ECCENTRICITY": 0.00056724,
+        "INCLINATION": 65.6911,
+        "RA_OF_ASC_NODE": 322.6987,
+        "ARG_OF_PERICENTER": 250.9883,
+        "MEAN_ANOMALY": 108.9699,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 32275,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 14077,
+        "BSTAR": 0,
+        "MEAN_MOTION_DOT": -1.3e-07,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 32275,
+        "name": "COSMOS 2433 (720)",
+        "group": "glo-ops",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.837509+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "COSMOS 2432 (719)",
+        "OBJECT_ID": "2007-052B",
+        "EPOCH": "2025-11-28T03:29:38.016096",
+        "MEAN_MOTION": 2.13103136,
+        "ECCENTRICITY": 0.00111941,
+        "INCLINATION": 65.7069,
+        "RA_OF_ASC_NODE": 322.8202,
+        "ARG_OF_PERICENTER": 310.6558,
+        "MEAN_ANOMALY": 49.383,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 32276,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 14079,
+        "BSTAR": 0,
+        "MEAN_MOTION_DOT": -1.3e-07,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 32276,
+        "name": "COSMOS 2432 (719)",
+        "group": "glo-ops",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.837515+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "COSMOS 2434 (721)",
+        "OBJECT_ID": "2007-065A",
+        "EPOCH": "2025-11-29T07:23:28.441248",
+        "MEAN_MOTION": 2.13101202,
+        "ECCENTRICITY": 0.0004276,
+        "INCLINATION": 64.3146,
+        "RA_OF_ASC_NODE": 198.6568,
+        "ARG_OF_PERICENTER": 70.3409,
+        "MEAN_ANOMALY": 47.6202,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 32393,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 13951,
+        "BSTAR": 0,
+        "MEAN_MOTION_DOT": 8.3e-07,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 32393,
+        "name": "COSMOS 2434 (721)",
+        "group": "glo-ops",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.837574+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "COSMOS 2436 (723)",
+        "OBJECT_ID": "2007-065C",
+        "EPOCH": "2025-11-29T21:52:13.245024",
+        "MEAN_MOTION": 2.1309999,
+        "ECCENTRICITY": 0.0017703,
+        "INCLINATION": 64.3233,
+        "RA_OF_ASC_NODE": 198.7065,
+        "ARG_OF_PERICENTER": 8.536,
+        "MEAN_ANOMALY": 345.3846,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 32395,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 13947,
+        "BSTAR": 0,
+        "MEAN_MOTION_DOT": 8.9e-07,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 32395,
+        "name": "COSMOS 2436 (723)",
+        "group": "glo-ops",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.837580+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "COSMOS 2456 (730)",
+        "OBJECT_ID": "2009-070A",
+        "EPOCH": "2025-11-29T04:46:23.350368",
+        "MEAN_MOTION": 2.13103492,
+        "ECCENTRICITY": 0.00025836,
+        "INCLINATION": 64.8926,
+        "RA_OF_ASC_NODE": 77.801,
+        "ARG_OF_PERICENTER": 299.4073,
+        "MEAN_ANOMALY": 251.8671,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 36111,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 12416,
+        "BSTAR": 0,
+        "MEAN_MOTION_DOT": 2e-08,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 36111,
+        "name": "COSMOS 2456 (730)",
+        "group": "glo-ops",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.838183+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "COSMOS 2457 (733)",
+        "OBJECT_ID": "2009-070B",
+        "EPOCH": "2025-11-29T18:24:09.874080",
+        "MEAN_MOTION": 2.13100822,
+        "ECCENTRICITY": 0.0005012,
+        "INCLINATION": 64.8781,
+        "RA_OF_ASC_NODE": 77.6293,
+        "ARG_OF_PERICENTER": 155.1236,
+        "MEAN_ANOMALY": 241.0905,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 36112,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 12418,
+        "BSTAR": 0,
+        "MEAN_MOTION_DOT": -3e-08,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 36112,
+        "name": "COSMOS 2457 (733)",
+        "group": "glo-ops",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.838190+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "COSMOS 2460 (732)",
+        "OBJECT_ID": "2010-007C",
+        "EPOCH": "2025-11-29T17:17:31.919712",
+        "MEAN_MOTION": 2.13106088,
+        "ECCENTRICITY": 0.0002827,
+        "INCLINATION": 65.5369,
+        "RA_OF_ASC_NODE": 321.2134,
+        "ARG_OF_PERICENTER": 269.0096,
+        "MEAN_ANOMALY": 90.9826,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 36402,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 12247,
+        "BSTAR": 0,
+        "MEAN_MOTION_DOT": -1.7e-07,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 36402,
+        "name": "COSMOS 2460 (732)",
+        "group": "glo-ops",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.838237+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "COSMOS 2476 (744)",
+        "OBJECT_ID": "2011-064A",
+        "EPOCH": "2025-11-25T18:02:35.875968",
+        "MEAN_MOTION": 2.13101389,
+        "ECCENTRICITY": 0.00237596,
+        "INCLINATION": 65.1535,
+        "RA_OF_ASC_NODE": 79.7464,
+        "ARG_OF_PERICENTER": 232.8078,
+        "MEAN_ANOMALY": 102.4501,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 37867,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 10942,
+        "BSTAR": 0,
+        "MEAN_MOTION_DOT": 1.7e-07,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 37867,
+        "name": "COSMOS 2476 (744)",
+        "group": "glo-ops",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.838948+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "COSMOS 2477 (745)",
+        "OBJECT_ID": "2011-064B",
+        "EPOCH": "2025-11-29T21:10:50.094336",
+        "MEAN_MOTION": 2.13102712,
+        "ECCENTRICITY": 0.0020945,
+        "INCLINATION": 65.1619,
+        "RA_OF_ASC_NODE": 79.6839,
+        "ARG_OF_PERICENTER": 233.6607,
+        "MEAN_ANOMALY": 211.395,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 37868,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 10951,
+        "BSTAR": 0,
+        "MEAN_MOTION_DOT": 0,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 37868,
+        "name": "COSMOS 2477 (745)",
+        "group": "glo-ops",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.838954+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "COSMOS 2475 (743)",
+        "OBJECT_ID": "2011-064C",
+        "EPOCH": "2025-11-27T11:52:57.325152",
+        "MEAN_MOTION": 2.13101456,
+        "ECCENTRICITY": 0.00258586,
+        "INCLINATION": 65.1676,
+        "RA_OF_ASC_NODE": 79.7846,
+        "ARG_OF_PERICENTER": 247.9398,
+        "MEAN_ANOMALY": 121.59,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 37869,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 10947,
+        "BSTAR": 0,
+        "MEAN_MOTION_DOT": 1.6e-07,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 37869,
+        "name": "COSMOS 2475 (743)",
+        "group": "glo-ops",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.838962+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "COSMOS 2485 (747)",
+        "OBJECT_ID": "2013-019A",
+        "EPOCH": "2025-11-24T07:30:54.982368",
+        "MEAN_MOTION": 2.13103115,
+        "ECCENTRICITY": 0.0024274,
+        "INCLINATION": 65.3036,
+        "RA_OF_ASC_NODE": 80.4871,
+        "ARG_OF_PERICENTER": 228.0776,
+        "MEAN_ANOMALY": 131.7167,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 39155,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 9791,
+        "BSTAR": 0,
+        "MEAN_MOTION_DOT": 1.2e-07,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 39155,
+        "name": "COSMOS 2485 (747)",
+        "group": "glo-ops",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.839668+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "COSMOS 2492 (754)",
+        "OBJECT_ID": "2014-012A",
+        "EPOCH": "2025-11-26T03:34:14.840832",
+        "MEAN_MOTION": 2.13103222,
+        "ECCENTRICITY": 0.00140964,
+        "INCLINATION": 65.417,
+        "RA_OF_ASC_NODE": 320.8337,
+        "ARG_OF_PERICENTER": 310.0598,
+        "MEAN_ANOMALY": 49.8317,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 39620,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 9091,
+        "BSTAR": 0,
+        "MEAN_MOTION_DOT": -1.6e-07,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 39620,
+        "name": "COSMOS 2492 (754)",
+        "group": "glo-ops",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.840272+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "COSMOS 2500 (755)",
+        "OBJECT_ID": "2014-032A",
+        "EPOCH": "2025-11-29T14:32:37.301856",
+        "MEAN_MOTION": 2.13105738,
+        "ECCENTRICITY": 0.0008407,
+        "INCLINATION": 65.3509,
+        "RA_OF_ASC_NODE": 320.4796,
+        "ARG_OF_PERICENTER": 218.9192,
+        "MEAN_ANOMALY": 141.0367,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 40001,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 8920,
+        "BSTAR": 0,
+        "MEAN_MOTION_DOT": -1.7e-07,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 40001,
+        "name": "COSMOS 2500 (755)",
+        "group": "glo-ops",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.840382+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "COSMOS 2501 (702K)",
+        "OBJECT_ID": "2014-075A",
+        "EPOCH": "2025-11-27T23:43:27.729696",
+        "MEAN_MOTION": 2.13101338,
+        "ECCENTRICITY": 0.0020193,
+        "INCLINATION": 63.6136,
+        "RA_OF_ASC_NODE": 197.3361,
+        "ARG_OF_PERICENTER": 204.9779,
+        "MEAN_ANOMALY": 155.0093,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 40315,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 8556,
+        "BSTAR": 0,
+        "MEAN_MOTION_DOT": 7.3e-07,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 40315,
+        "name": "COSMOS 2501 (702K)",
+        "group": "glo-ops",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.840866+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "COSMOS 2514 (751)",
+        "OBJECT_ID": "2016-008A",
+        "EPOCH": "2025-11-28T21:51:50.565888",
+        "MEAN_MOTION": 2.13102473,
+        "ECCENTRICITY": 0.00126201,
+        "INCLINATION": 65.1417,
+        "RA_OF_ASC_NODE": 319.878,
+        "ARG_OF_PERICENTER": 219.7701,
+        "MEAN_ANOMALY": 140.1539,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 41330,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 7635,
+        "BSTAR": 0,
+        "MEAN_MOTION_DOT": -1.5e-07,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 41330,
+        "name": "COSMOS 2514 (751)",
+        "group": "glo-ops",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.841650+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "COSMOS 2522 (752)",
+        "OBJECT_ID": "2017-055A",
+        "EPOCH": "2025-11-27T08:11:58.229952",
+        "MEAN_MOTION": 2.13101917,
+        "ECCENTRICITY": 0.00066454,
+        "INCLINATION": 64.0756,
+        "RA_OF_ASC_NODE": 198.7536,
+        "ARG_OF_PERICENTER": 227.0793,
+        "MEAN_ANOMALY": 132.9509,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 42939,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 6367,
+        "BSTAR": 0,
+        "MEAN_MOTION_DOT": 6.6e-07,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 42939,
+        "name": "COSMOS 2522 (752)",
+        "group": "glo-ops",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.842703+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "COSMOS 2527 (756)",
+        "OBJECT_ID": "2018-053A",
+        "EPOCH": "2025-11-28T17:02:34.696320",
+        "MEAN_MOTION": 2.1310209,
+        "ECCENTRICITY": 0.00085767,
+        "INCLINATION": 65.4651,
+        "RA_OF_ASC_NODE": 80.6007,
+        "ARG_OF_PERICENTER": 223.0414,
+        "MEAN_ANOMALY": 136.8979,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 43508,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 5800,
+        "BSTAR": 0,
+        "MEAN_MOTION_DOT": 1.2e-07,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 43508,
+        "name": "COSMOS 2527 (756)",
+        "group": "glo-ops",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.843654+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "COSMOS 2529 (757)",
+        "OBJECT_ID": "2018-086A",
+        "EPOCH": "2025-11-25T01:17:07.622016",
+        "MEAN_MOTION": 2.13101982,
+        "ECCENTRICITY": 0.00075673,
+        "INCLINATION": 64.2914,
+        "RA_OF_ASC_NODE": 199.4861,
+        "ARG_OF_PERICENTER": 254.9036,
+        "MEAN_ANOMALY": 105.1045,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 43687,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 5493,
+        "BSTAR": 0,
+        "MEAN_MOTION_DOT": 5.8e-07,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 43687,
+        "name": "COSMOS 2529 (757)",
+        "group": "glo-ops",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.843999+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "COSMOS 2534 (758)",
+        "OBJECT_ID": "2019-030A",
+        "EPOCH": "2025-11-29T06:56:46.643136",
+        "MEAN_MOTION": 2.13102012,
+        "ECCENTRICITY": 0.00091543,
+        "INCLINATION": 64.3652,
+        "RA_OF_ASC_NODE": 199.3462,
+        "ARG_OF_PERICENTER": 283.4895,
+        "MEAN_ANOMALY": 220.5514,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 44299,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 5066,
+        "BSTAR": 0,
+        "MEAN_MOTION_DOT": 8.2e-07,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 44299,
+        "name": "COSMOS 2534 (758)",
+        "group": "glo-ops",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.844731+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "COSMOS 2544 (759)",
+        "OBJECT_ID": "2019-088A",
+        "EPOCH": "2025-11-28T15:42:43.210656",
+        "MEAN_MOTION": 2.13101801,
+        "ECCENTRICITY": 0.00135594,
+        "INCLINATION": 65.4525,
+        "RA_OF_ASC_NODE": 80.4296,
+        "ARG_OF_PERICENTER": 248.4541,
+        "MEAN_ANOMALY": 111.4081,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 44850,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 4644,
+        "BSTAR": 0,
+        "MEAN_MOTION_DOT": 1.2e-07,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 44850,
+        "name": "COSMOS 2544 (759)",
+        "group": "glo-ops",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.845353+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "COSMOS 2545 (760)",
+        "OBJECT_ID": "2020-018A",
+        "EPOCH": "2025-11-29T07:40:29.207136",
+        "MEAN_MOTION": 2.1310242,
+        "ECCENTRICITY": 0.0011957,
+        "INCLINATION": 64.4776,
+        "RA_OF_ASC_NODE": 319.4408,
+        "ARG_OF_PERICENTER": 248.1353,
+        "MEAN_ANOMALY": 111.7529,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 45358,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 4440,
+        "BSTAR": 0,
+        "MEAN_MOTION_DOT": -1.8e-07,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 45358,
+        "name": "COSMOS 2545 (760)",
+        "group": "glo-ops",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.846427+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "COSMOS 2547 (705K)",
+        "OBJECT_ID": "2020-075A",
+        "EPOCH": "2025-11-29T00:55:24.627072",
+        "MEAN_MOTION": 2.13099906,
+        "ECCENTRICITY": 0.00063497,
+        "INCLINATION": 64.5956,
+        "RA_OF_ASC_NODE": 199.1541,
+        "ARG_OF_PERICENTER": 229.8601,
+        "MEAN_ANOMALY": 130.1706,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 46805,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 3964,
+        "BSTAR": 0,
+        "MEAN_MOTION_DOT": 8e-07,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 46805,
+        "name": "COSMOS 2547 (705K)",
+        "group": "glo-ops",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.848883+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "COSMOS 2557 (706K)",
+        "OBJECT_ID": "2022-075A",
+        "EPOCH": "2025-11-28T17:37:48.029952",
+        "MEAN_MOTION": 2.13101836,
+        "ECCENTRICITY": 0.00137764,
+        "INCLINATION": 64.4176,
+        "RA_OF_ASC_NODE": 321.5443,
+        "ARG_OF_PERICENTER": 276.1615,
+        "MEAN_ANOMALY": 83.6996,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 52984,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 2644,
+        "BSTAR": 0,
+        "MEAN_MOTION_DOT": -1.7e-07,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 52984,
+        "name": "COSMOS 2557 (706K)",
+        "group": "glo-ops",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.861957+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "COSMOS 2559 (707K)",
+        "OBJECT_ID": "2022-130A",
+        "EPOCH": "2025-11-26T04:58:40.325088",
+        "MEAN_MOTION": 2.13101404,
+        "ECCENTRICITY": 0.00122116,
+        "INCLINATION": 64.3912,
+        "RA_OF_ASC_NODE": 321.7233,
+        "ARG_OF_PERICENTER": 192.8922,
+        "MEAN_ANOMALY": 167.093,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 54031,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 2436,
+        "BSTAR": 0,
+        "MEAN_MOTION_DOT": -1.9e-07,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 54031,
+        "name": "COSMOS 2559 (707K)",
+        "group": "glo-ops",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.866698+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "COSMOS 2564 (761)",
+        "OBJECT_ID": "2022-161A",
+        "EPOCH": "2025-11-28T20:48:50.904576",
+        "MEAN_MOTION": 2.13101993,
+        "ECCENTRICITY": 0.00087756,
+        "INCLINATION": 64.7375,
+        "RA_OF_ASC_NODE": 199.3598,
+        "ARG_OF_PERICENTER": 207.0282,
+        "MEAN_ANOMALY": 153.0121,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 54377,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 2336,
+        "BSTAR": 0,
+        "MEAN_MOTION_DOT": 7.8e-07,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 54377,
+        "name": "COSMOS 2564 (761)",
+        "group": "glo-ops",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.867790+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "COSMOS 2569 (703K)",
+        "OBJECT_ID": "2023-114A",
+        "EPOCH": "2025-11-28T21:08:12.881760",
+        "MEAN_MOTION": 2.1310388,
+        "ECCENTRICITY": 0.00099784,
+        "INCLINATION": 65.1868,
+        "RA_OF_ASC_NODE": 79.3819,
+        "ARG_OF_PERICENTER": 286.9994,
+        "MEAN_ANOMALY": 72.8984,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 57517,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 1799,
+        "BSTAR": 0,
+        "MEAN_MOTION_DOT": 8e-08,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 57517,
+        "name": "COSMOS 2569 (703K)",
+        "group": "glo-ops",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.879080+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "COSMOS 2584 (704K)",
+        "OBJECT_ID": "2025-042A",
+        "EPOCH": "2025-11-26T10:06:10.904256",
+        "MEAN_MOTION": 2.13103062,
+        "ECCENTRICITY": 0.00075218,
+        "INCLINATION": 64.9668,
+        "RA_OF_ASC_NODE": 79.7019,
+        "ARG_OF_PERICENTER": 212.3772,
+        "MEAN_ANOMALY": 147.585,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 63130,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 572,
+        "BSTAR": 0,
+        "MEAN_MOTION_DOT": 1.8e-07,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 63130,
+        "name": "COSMOS 2584 (704K)",
+        "group": "glo-ops",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.907412+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECT_NAME": "COSMOS 2596 (708K)",
+        "OBJECT_ID": "2025-206B",
+        "EPOCH": "2025-11-28T03:25:59.615904",
+        "MEAN_MOTION": 2.13100428,
+        "ECCENTRICITY": 0.0014072,
+        "INCLINATION": 64.7523,
+        "RA_OF_ASC_NODE": 321.983,
+        "ARG_OF_PERICENTER": 304.5667,
+        "MEAN_ANOMALY": 55.178,
+        "EPHEMERIS_TYPE": 0,
+        "CLASSIFICATION_TYPE": "U",
+        "NORAD_CAT_ID": 65590,
+        "ELEMENT_SET_NO": 999,
+        "REV_AT_EPOCH": 161,
+        "BSTAR": 0,
+        "MEAN_MOTION_DOT": -1.5e-07,
+        "MEAN_MOTION_DDOT": 0,
+        "norad_id": 65590,
+        "name": "COSMOS 2596 (708K)",
+        "group": "glo-ops",
+        "longitude_deg": NaN,
+        "latitude_deg": NaN,
+        "alt_km": NaN,
+        "orbit_class": "HEO",
+        "timestamp": "2025-11-30T04:52:16.923245+00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      }
+    }
+  ]
+}
