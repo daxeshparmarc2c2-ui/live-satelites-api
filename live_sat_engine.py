@@ -57,8 +57,6 @@ class LiveSatelliteEngine:
                 r = requests.get(url, headers=HEADERS, timeout=25)
                 if r.status_code == 200:
                     data = r.json()
-
-                    # Celestrak sometimes returns [] when blocking bots
                     if isinstance(data, list) and len(data) > 0:
                         return data
 
@@ -69,7 +67,6 @@ class LiveSatelliteEngine:
                 print(f"⚠️ Error fetching {group}: {e}")
                 time.sleep(2)
 
-        # Failed fully
         print(f"❌ FAILED TO DOWNLOAD: {group}")
         return []
 
@@ -87,37 +84,38 @@ class LiveSatelliteEngine:
             for entry in data:
                 norad = entry["NORAD_CAT_ID"]
 
-                # Convert degrees → radians
                 try:
                     incl = math.radians(entry["INCLINATION"])
                     raan = math.radians(entry["RA_OF_ASC_NODE"])
                     argp = math.radians(entry["ARG_OF_PERICENTER"])
                     mean_anom = math.radians(entry["MEAN_ANOMALY"])
                 except:
+                    print(f"⚠️ Bad angle data for {norad}")
                     continue
 
-                # Build satrec
+                # SGP4 Init (your version of sgp4 ONLY accepts positional arguments)
                 try:
                     satrec = Satrec()
                     satrec.sgp4init(
-                        WGS84=False,
-                        opsmode="i",
-                        satnum=norad,
-                        epoch=entry["EPOCH"],  # already in JD
-                        bstar=entry["BSTAR"],
-                        ndot=entry["MEAN_MOTION_DOT"],
-                        nddot=entry["MEAN_MOTION_DDOT"],
-                        ecco=entry["ECCENTRICITY"],
-                        argpo=argp,
-                        inclo=incl,
-                        mo=mean_anom,
-                        no_kozai=entry["MEAN_MOTION"],
-                        nodeo=raan,
+                        72,                        # WGS72 gravity model
+                        'i',                       # opsmode
+                        norad,                     # satellite number
+                        entry["EPOCH"],            # epoch (JD)
+                        entry["BSTAR"],            # drag
+                        entry["MEAN_MOTION_DOT"],  # ndot
+                        entry["MEAN_MOTION_DDOT"], # nddot
+                        entry["ECCENTRICITY"],     # eccentricity
+                        argp,                      # argument of perigee (rad)
+                        incl,                      # inclination (rad)
+                        mean_anom,                 # mean anomaly (rad)
+                        entry["MEAN_MOTION"],      # mean motion (rev/day)
+                        raan                       # RAAN (rad)
                     )
                 except Exception as e:
                     print(f"❌ SGP4 INIT FAIL {norad}: {e}")
                     continue
 
+                # Save into memory
                 self.sats[norad] = {
                     "name": entry["OBJECT_NAME"],
                     "group": group,
@@ -152,9 +150,9 @@ class LiveSatelliteEngine:
         x, y, z = r
 
         lon = math.degrees(math.atan2(y, x))
-        hyp = math.sqrt(x * x + y * y)
+        hyp = math.sqrt(x*x + y*y)
         lat = math.degrees(math.atan2(z, hyp))
-        alt_km = math.sqrt(x * x + y * y + z * z) - 6378.137
+        alt_km = math.sqrt(x*x + y*y + z*z) - 6378.137
 
         return {
             "norad_id": norad,
@@ -166,3 +164,5 @@ class LiveSatelliteEngine:
             "timestamp": t.isoformat(),
             "meta": self.sats[norad]["meta"],
         }
+
+
